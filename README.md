@@ -14,7 +14,11 @@ This is an attempt to make some sense of it for a relative newcomer. It may go a
   <DD>Integrated Ocean Observing System
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
+  <DT> OPpendap
+  <DD>Open-source Project for a Network Data Access Protocol  [OpeNDAP](http://www.opendap.org/about)
   <DT>ORR
+  <DT>NGDC
+  <DD>NOAA's National Geophysical Data Center (NGDC) 
   <DD> Marine Metadata Interoperability  Ontology Registry and Repository [http://mmisw.org/orr/]()
   <DT>NOAA
   <DD>National Oceanic and Atmospheric Administration
@@ -22,6 +26,10 @@ This is an attempt to make some sense of it for a relative newcomer. It may go a
   <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   <DT>RESTful
   <DD>A descriptor or link that conforms with REST concept.
+  <DT> THREDDS
+  <DD> Thematic Realtime Environmental Distributed Data Services
+  <DT>TDS
+  <DD> THREDDS Data Server
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
 </DL>
