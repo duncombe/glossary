@@ -16,9 +16,9 @@ This is an attempt to make some sense of it for a relative newcomer. It may go a
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
   <DT> OPpendap
   <DD>Open-source Project for a Network Data Access Protocol  [OpeNDAP](http://www.opendap.org/about)
-  <DT>ORR
   <DT>NGDC
   <DD>NOAA's National Geophysical Data Center (NGDC) 
+  <DT>ORR
   <DD> Marine Metadata Interoperability  Ontology Registry and Repository [http://mmisw.org/orr/]()
   <DT>NOAA
   <DD>National Oceanic and Atmospheric Administration
