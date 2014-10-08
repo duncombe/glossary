@@ -10,6 +10,8 @@ This is an attempt to make some sense of it for a relative newcomer. It may go a
 <DL>
   <DT>CF
   <DD>Climate and Forecast (CF)
+  <DT>DSG
+  <DD> [Data Systems Group](http://www.esrl.noaa.gov/gsd/its/dsg/)
   <DT>IOOS
   <DD>Integrated Ocean Observing System
   <DT>MMI
