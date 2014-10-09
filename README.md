@@ -61,7 +61,12 @@ graphs, and maps from tabular datasets (for example, buoy data).
   
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
+  <DT>WSDD
+  <DD>Web Service Description Document
 </DL>
+
+More terms ncSOS, OGC, SOS
+NcML
 
   
 
