@@ -8,6 +8,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 
 
 <DL>
+  <DT>ACDD
+  <DD>Attribute Convention for Data Discovery 
   <DT>CF
   <DD>Climate and Forecast (CF)
   
@@ -24,8 +26,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
-  <DT> OPpendap
-  <DD>Open-source Project for a Network Data Access Protocol  [OpeNDAP](http://www.opendap.org/about)
+  <DT> OPeNDAP
+  <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
   <DT>NGDC
   <DD>NOAA's National Geophysical Data Center (NGDC) 
   <DT>ORR
