@@ -10,6 +10,9 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 <DL>
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
+  
+  <DT>CSV
+  <DD>Comma Separated Values (sometimes CSV/TSV)
   <DT>CF
   <DD>Climate and Forecast (CF)
   
@@ -53,6 +56,8 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD> Thematic Realtime Environmental Distributed Data Services
   <DT>TDS
   <DD> THREDDS Data Server
+  <DT>TSV>
+  <DD>Tab Separated Values (CSV/TSV)
   
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
