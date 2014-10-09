@@ -40,6 +40,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>NOAA
   <DD>National Oceanic and Atmospheric Administration
 
+<DT>OGC<DD>Open Geospatial Consortium, Inc. (OGC)
+
   <DT>OOI
   <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
   <DT>PyDAP
@@ -61,6 +63,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DT>TSV>
   <DD>Tab Separated Values (CSV/TSV)
   
+<DT>UAF	<DD>Unified Access Framework
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   <DT>WSDD
@@ -74,8 +77,6 @@ NcML, ncWMS Web Map Service
 http://geojson.org/geojson-spec.html,
 GRIB, GrADS,
 HDF-4,HDF-5, netCDF4, netCDF, CDF, CDL, 
-
-Open Geospatial Consortium, Inc. (OGC)
   
 
 
