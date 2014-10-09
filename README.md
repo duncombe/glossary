@@ -21,6 +21,9 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>DSG
   <DD> [Data Systems Group](http://www.esrl.noaa.gov/gsd/its/dsg/)
   
+<DT>DSG <DD>Data Systems Group, part of GSD  Information and Technology Services
+<DT>GSD <DD>Global systems division of ESRL
+
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
   
@@ -78,5 +81,4 @@ http://geojson.org/geojson-spec.html,
 GRIB, GrADS,
 HDF-4,HDF-5, netCDF4, netCDF, CDF, CDL, 
   
-
 
