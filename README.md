@@ -11,6 +11,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>CF
   <DD>Climate and Forecast (CF)
   
+  <DT>DODS
+  <DD>The Distributed Oceanographic Data Systems (DODS) is a framework for data providers to share data with each other and with end users. [DODS](http://dods.ndbc.noaa.gov/)
   <DT>DSG
   <DD> [Data Systems Group](http://www.esrl.noaa.gov/gsd/its/dsg/)
   
@@ -34,7 +36,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>OOI
   <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
   <DT>PyDAP
-  <DD>
+  <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
   
 
   <DT>REST
