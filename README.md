@@ -29,6 +29,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
+<DD>ncSOS
+<DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT> OPeNDAP
   <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
   <DT>NGDC
@@ -65,9 +67,15 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD>Web Service Description Document
 </DL>
 
-More terms ncSOS, OGC, SOS
-NcML
+More terms 
+, OGC, SOS,
+NcML, ncWMS Web Map Service
+, WCS Web Coverage Service
+http://geojson.org/geojson-spec.html,
+GRIB, GrADS,
+HDF-4,HDF-5, netCDF4, netCDF, CDF, CDL, 
 
+Open Geospatial Consortium, Inc. (OGC)
   
 
 
