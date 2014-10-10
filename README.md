@@ -33,22 +33,24 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
 
+  <DT>NcML 
+  <DD>NcML is an XML representation of netCDF metadata
   <DT>ncSOS
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>NGDC
   <DD>NOAA's National Geophysical Data Center (NGDC) 
-  <DT>ORR
-  <DD> Marine Metadata Interoperability  Ontology Registry and Repository [http://mmisw.org/orr/]()
   <DT>NOAA
   <DD>National Oceanic and Atmospheric Administration
-
-  <DT> OPeNDAP
-  <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
   
   <DT>OGC
   <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI
   <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
+  <DT>OPeNDAP
+  <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
+  <DT>ORR
+  <DD> Marine Metadata Interoperability  Ontology Registry and Repository [http://mmisw.org/orr/]()
+  
 
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
@@ -58,6 +60,9 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>RESTful
   <DD>A descriptor or link that conforms with REST concept.
   
+  <DT>SOS
+  <DD>Sensor Observation Service
+  
   <DT>TableDAP
   <DD>Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets, 
 graphs, and maps from tabular datasets (for example, buoy data). 
@@ -65,7 +70,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD> THREDDS Data Server
   <DT> THREDDS
   <DD> Thematic Realtime Environmental Distributed Data Services
-  <DT>TSV>
+  <DT>TSV
   <DD>Tab Separated Values (CSV/TSV)
   
   <DT>UAF	
@@ -79,8 +84,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
 </DL>
 
 More terms 
-, OGC, SOS,
-NcML, ncWMS Web Map Service
+, ncWMS Web Map Service
 , WCS Web Coverage Service
 http://geojson.org/geojson-spec.html,
 GRIB, GrADS,
