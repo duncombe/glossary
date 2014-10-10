@@ -37,6 +37,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DD>NcML is an XML representation of netCDF metadata
   <DT>ncSOS
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
+  <DT>ncWMS 
+  <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   <DT>NGDC
   <DD>NOAA's National Geophysical Data Center (NGDC) 
   <DT>NOAA
@@ -79,13 +81,13 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
+  <DT>WCS 
+  <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
   <DT>WSDD
   <DD>Web Service Description Document
 </DL>
 
 More terms 
-, ncWMS Web Map Service
-, WCS Web Coverage Service
 http://geojson.org/geojson-spec.html,
 GRIB, GrADS,
 HDF-4,HDF-5, netCDF4, netCDF, CDF, CDL, 
