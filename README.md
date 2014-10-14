@@ -9,7 +9,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 [A](#A) [W](#W)
 
 <DL>
-  <a name="#A"></a>
+  <a name="A"></a>
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
   
@@ -97,7 +97,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
   
-  <DT><a name="#W">W</a><DD>
+  <DT><a name="W">W</a><DD>
   
   <DT>WCS 
   <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
