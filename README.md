@@ -6,6 +6,7 @@ A glossary of data management terms.
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
 
+<a name="contents"></a>
 [A](#A)
 [D](#D)
 [G](#G) 
@@ -14,7 +15,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 [W](#W)
 
 <DL>
-  <DT><a name="A">A</a><DD>
+  <DT><a name="A">[A](#contents)</a><DD>
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
   
@@ -25,7 +26,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>CF
   <DD>Climate and Forecast (CF)
   
-  <DT><a name="D">D</a><DD>
+  <DT><a name="D">[D](#contents)</a><DD>
   <DT>DODS
   <DD>The Distributed Oceanographic Data Systems (DODS) is a framework for data providers to share data with each other and with end users. [DODS](http://dods.ndbc.noaa.gov/)
   <DT>DSG 
@@ -34,7 +35,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
   
-  <DT><a name="G">G</a><DD>
+  <DT><a name="G">[G](#contents)</a><DD>
   <DT>GSD 
   <DD>Global systems division of ESRL
 
@@ -44,7 +45,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
 
-  <DT><a name="N">N</a><DD>
+  <DT><a name="N">[N](#contents)</a><DD>
   <DT>NCAR
   <DD>National Center for Atmospheric Research
   <DT>NCEP
@@ -75,7 +76,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   [Marine Metadata Interoperability  Ontology Registry and Repository ](http://mmisw.org/orr/)
   
 
-  <DT><a name="P">P</a><DD>
+  <DT><a name="P">[P](#contents)</a><DD>
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
@@ -106,7 +107,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
   
-  <DT><a name="W">W</a><DD>
+  <DT><a name="W">[W](#contents)</a><DD>
   
   <DT>WCS 
   <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
