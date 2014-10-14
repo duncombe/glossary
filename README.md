@@ -35,16 +35,24 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
 
+  <DT>NCAR
+  <DD>National Center for Atmospheric Research
+  <DT>NCEP
+  <DD>National Centers for Environmental Prediction
   <DT>NcML 
   <DD>NcML is an XML representation of netCDF metadata
   <DT>ncSOS
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>ncWMS 
   <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
+  <DT>netCDF
+  <DD>[Network Common Data Form](http://www.unidata.ucar.edu/software/netcdf/)
   <DT>NGDC
   <DD>NOAA's National Geophysical Data Center (NGDC) 
   <DT>NOAA
   <DD>National Oceanic and Atmospheric Administration
+  <DT>NWS
+  <DD>National Weather Service
   
   <DT>OGC
   <DD>Open Geospatial Consortium, Inc. (OGC)
@@ -77,6 +85,8 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DT>TSV
   <DD>Tab Separated Values (CSV/TSV)
   
+  <DT>UCAR
+  <DD>University Corporation for Atmospheric Research
   <DT>UAF	
   <DD>Unified Access Framework
   
