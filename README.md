@@ -6,7 +6,7 @@ A glossary of data management terms.
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
 
-[A](#A) [W](#W)
+[A](#A) [D](#D) [W](#W)
 
 <DL>
   <a name="A"></a>
@@ -20,6 +20,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>CF
   <DD>Climate and Forecast (CF)
   
+  <DT>
   <DT>DODS
   <DD>The Distributed Oceanographic Data Systems (DODS) is a framework for data providers to share data with each other and with end users. [DODS](http://dods.ndbc.noaa.gov/)
   <DT>DSG 
