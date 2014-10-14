@@ -6,10 +6,15 @@ A glossary of data management terms.
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
 
-[A](#A) [D](#D) [W](#W)
+[A](#A)
+[D](#D)
+[G](#G) 
+[N](#N)
+[P](#P)
+[W](#W)
 
 <DL>
-  <a name="A"></a>
+  <DT><a name="A">A</a><DD>
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
   
@@ -20,7 +25,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>CF
   <DD>Climate and Forecast (CF)
   
-  <DT>
+  <DT><a name="D">D</a><DD>
   <DT>DODS
   <DD>The Distributed Oceanographic Data Systems (DODS) is a framework for data providers to share data with each other and with end users. [DODS](http://dods.ndbc.noaa.gov/)
   <DT>DSG 
@@ -29,6 +34,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
   
+  <DT><a name="G">G</a><DD>
   <DT>GSD 
   <DD>Global systems division of ESRL
 
@@ -38,6 +44,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
 
+  <DT><a name="N">N</a><DD>
   <DT>NCAR
   <DD>National Center for Atmospheric Research
   <DT>NCEP
@@ -68,6 +75,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   [Marine Metadata Interoperability  Ontology Registry and Repository ](http://mmisw.org/orr/)
   
 
+  <DT><a name="P">P</a><DD>
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
