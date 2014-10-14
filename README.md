@@ -6,7 +6,7 @@ A glossary of data management terms.
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
 
-[A](#A)
+[A](#A) [W](#W)
 
 <DL>
   <a name="#A"></a>
@@ -94,6 +94,9 @@ graphs, and maps from tabular datasets (for example, buoy data).
   
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
+  
+  
+  <a name="#W">W</a>
   
   <DT>WCS 
   <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
