@@ -26,7 +26,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>CF
   <DD>Climate and Forecast (CF)
   
-  <DT><a name="D">[D](#contents)</a><DD>
+  <DT><a name="D"></a><a href=#contents>D</a><DD>
   <DT>DODS
   <DD>The Distributed Oceanographic Data Systems (DODS) is a framework for data providers to share data with each other and with end users. [DODS](http://dods.ndbc.noaa.gov/)
   <DT>DSG 
@@ -35,7 +35,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
   
-  <DT><a name="G">[G](#contents)</a><DD>
+  <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GSD 
   <DD>Global systems division of ESRL
 
@@ -45,7 +45,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
 
-  <DT><a name="N">[N](#contents)</a><DD>
+  <DT><a name="N"></a><a href=#contents>N</a><DD>
   <DT>NCAR
   <DD>National Center for Atmospheric Research
   <DT>NCEP
@@ -76,7 +76,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   [Marine Metadata Interoperability  Ontology Registry and Repository ](http://mmisw.org/orr/)
   
 
-  <DT><a name="P">[P](#contents)</a><DD>
+  <DT><a name="P"></a><a href=#contents>P</a><DD>
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
@@ -107,7 +107,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
   
-  <DT><a name="W">[W](#contents)</a><DD>
+  <DT><a name="W"></a><a href=#contents>W</a><DD>
   
   <DT>WCS 
   <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
