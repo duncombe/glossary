@@ -15,7 +15,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 [W](#W)
 
 <DL>
-  <DT><a name="A">[A](#contents)</a><DD>
+  <DT><a name="A"></a><a href=#contents>A</a><DD>
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
   
