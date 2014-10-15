@@ -19,6 +19,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
   
+  <DT><a name="B"></a><a href=#contents>B</a><DD>
+  <DT><a name="C"></a><a href=#contents>C</a><DD>
   <DT>CDIP
   <DD>Coastal Data Information Program
   <DT>CSV
@@ -32,16 +34,32 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>DSG 
   <DD>[Data Systems Group](http://www.esrl.noaa.gov/gsd/its/dsg/), part of GSD  Information and Technology Services 
 
+  <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
   
+  <DT><a name="F"></a><a href=#contents>F</a><DD>
   <DT><a name="G"></a><a href=#contents>G</a><DD>
+  <DT>GeoJSON<DD>GeoJSON is a format for encoding a variety of geographic
+data structures.  [GeoJSON Specification](http://geojson.org/geojson-spec.html)
   <DT>GSD 
   <DD>Global systems division of ESRL
+<DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed
+Information in Binary form[1]) is a concise data format commonly used in
+meteorology to store historical and forecast weather data. 
+<DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive
+desktop tool that is used for easy access, manipulation, and visualization
+of earth science data. 
 
+  <DT><a name="H"></a><a href=#contents>H</a><DD>
+  <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>IOOS
   <DD>Integrated Ocean Observing System
   
+  <DT><a name="J"></a><a href=#contents>J</a><DD>
+  <DT><a name="K"></a><a href=#contents>K</a><DD>
+  <DT><a name="L"></a><a href=#contents>L</a><DD>
+  <DT><a name="M"></a><a href=#contents>M</a><DD>
   <DT>MMI
   <DD> Marine Metadata Interoperability [http://mmisw.org/]()
 
@@ -65,6 +83,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>NWS
   <DD>National Weather Service
   
+  <DT><a name="O"></a><a href=#contents>O</a><DD>
   <DT>OGC
   <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI
@@ -80,14 +99,18 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
+  <DT><a name="Q"></a><a href=#contents>Q</a><DD>
+  <DT><a name="R"></a><a href=#contents>R</a><DD>
   <DT>REST
   <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   <DT>RESTful
   <DD>A descriptor or link that conforms with REST concept.
   
+  <DT><a name="S"></a><a href=#contents>S</a><DD>
   <DT>SOS
   <DD>Sensor Observation Service
   
+  <DT><a name="T"></a><a href=#contents>T</a><DD>
   <DT>TableDAP
   <DD>Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets, 
 graphs, and maps from tabular datasets (for example, buoy data). 
@@ -98,11 +121,13 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DT>TSV
   <DD>Tab Separated Values (CSV/TSV)
   
+  <DT><a name="U"></a><a href=#contents>U</a><DD>
   <DT>UCAR
   <DD>University Corporation for Atmospheric Research
   <DT>UAF	
   <DD>Unified Access Framework
   
+  <DT><a name="V"></a><a href=#contents>V</a><DD>
   <DT>vocabulary
   <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
@@ -116,12 +141,15 @@ graphs, and maps from tabular datasets (for example, buoy data).
 </DL>
 
 More terms 
-http://geojson.org/geojson-spec.html,
-GRIB, GrADS,
-HDF-4,HDF-5, netCDF4, netCDF, CDF, CDL, 
-CoRTAD 
-ArcGIS
-ESRI
+<DT>HDF-4<DD>
+<DT>HDF-5<DD>
+<DT>netCDF4<DD>
+<DT>netCDF<DD>
+<DT>CDF<DD>
+<DT>CDL<DD>
+ <DT>CoRTAD <DD>
+<DT>ArcGIS<DD>
+<DT>ESRI<DD>
 
   
 
