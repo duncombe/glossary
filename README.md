@@ -8,6 +8,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 
 <a name="contents"></a>
 [A](#A)
+[B](#B)
 [D](#D)
 [G](#G) 
 [N](#N)
@@ -150,6 +151,7 @@ More terms
  <DT>CoRTAD <DD>
 <DT>ArcGIS<DD>
 <DT>ESRI<DD>
+<DT>Iris<DD>
 
   
 
