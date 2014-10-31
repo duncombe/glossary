@@ -8,21 +8,46 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 
 <a name="contents"></a>
 [A](#A)
+[B](#B)
+[C](#C)
 [D](#D)
+[E](#E)
+[F](#F)
 [G](#G) 
+[H](#H)
+[I](#I)
+[J](#J)
+[K](#K)
+[L](#L)
+[M](#M)
 [N](#N)
+[O](#O)
 [P](#P)
+[Q](#Q)
+[R](#R)
+[S](#S)
+[T](#T)
+[U](#U)
+[V](#V)
 [W](#W)
+[X](#X)
+[Y](#Y)
+[Z](#Z)
 
 <DL>
   <DT><a name="A"></a><a href=#contents>A</a><DD>
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery 
+<DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
-  <DT>CDIP
-  <DD>Coastal Data Information Program
+<DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
+data in a platform- and discipline-independent way.  
+  <DT>CDIP <DD>Coastal Data Information Program
+  <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
+  <DT>CoRTAD
+  <DD> Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   <DT>CSV
   <DD>Comma Separated Values (sometimes CSV/TSV)
   <DT>CF
@@ -37,7 +62,9 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
-  
+<DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental
+research company, developers of ArcGIS.
+  <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a format for encoding a variety of geographic
@@ -74,8 +101,11 @@ of earth science data.
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>ncWMS 
   <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
-  <DT>netCDF
-  <DD>[Network Common Data Form](http://www.unidata.ucar.edu/software/netcdf/)
+  <DT>netCDF <DD>[Network Common Data Form](http://www.unidata.ucar.edu/software/netcdf/)
+<DT>netCDF4<DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage
+layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited
+dimensions, compression, data chunking, parallel I/O, and other features.
+
   <DT>NGDC
   <DD>NOAA's National Geophysical Data Center (NGDC) 
   <DT>NOAA
@@ -143,13 +173,6 @@ graphs, and maps from tabular datasets (for example, buoy data).
 More terms 
 <DT>HDF-4<DD>
 <DT>HDF-5<DD>
-<DT>netCDF4<DD>
-<DT>netCDF<DD>
-<DT>CDF<DD>
-<DT>CDL<DD>
- <DT>CoRTAD <DD>
-<DT>ArcGIS<DD>
-<DT>ESRI<DD>
 
   
 
