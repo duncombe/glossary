@@ -170,6 +170,7 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD>Web Service Description Document
 </DL>
 
+<!--
 More terms 
 <DT>HDF-4<DD>
 <DT>HDF-5<DD>
@@ -179,4 +180,4 @@ NCML
 ncISO
 
   
-
+-->
