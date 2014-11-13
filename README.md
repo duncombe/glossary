@@ -50,6 +50,7 @@ data in a platform- and discipline-independent way.
   <DD> Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   <DT>CSV
   <DD>Comma Separated Values (sometimes CSV/TSV)
+  <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
   <DT>CF
   <DD>Climate and Forecast (CF)
   
