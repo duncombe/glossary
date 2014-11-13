@@ -70,8 +70,8 @@ research company, developers of ArcGIS.
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a format for encoding a variety of geographic
 data structures.  [GeoJSON Specification](http://geojson.org/geojson-spec.html)
-  <DT>GSD 
-  <DD>Global systems division of ESRL
+  <DT>GSD <DD>Global systems division of ESRL
+  <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers. 
 <DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed
 Information in Binary form[1]) is a concise data format commonly used in
 meteorology to store historical and forecast weather data. 
@@ -164,11 +164,10 @@ graphs, and maps from tabular datasets (for example, buoy data).
   
   
   <DT><a name="W"></a><a href=#contents>W</a><DD>
-  
-  <DT>WCS 
-  <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
-  <DT>WSDD
-  <DD>Web Service Description Document
+  <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages – that is, digital geospatial information representing space/time-varying phenomena.
+  <DT>WIS<DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
+  <DT>WMO <DD>World Meteorological Organization
+  <DT>WSDD <DD>Web Service Description Document
 </DL>
 
 <!--
