@@ -46,6 +46,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
+  <DT>COMT<DD>Coastal and Ocean Modeling Testbed
   <DT>CoRTAD
   <DD> Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   <DT>CSV
@@ -138,8 +139,8 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DD>A descriptor or link that conforms with REST concept.
   
   <DT><a name="S"></a><a href=#contents>S</a><DD>
-  <DT>SOS
-  <DD>Sensor Observation Service
+  <DT>SOS <DD>Sensor Observation Service
+  <DT>SURA<DD>Southeastern Universities Research Association 
   
   <DT><a name="T"></a><a href=#contents>T</a><DD>
   <DT>TableDAP
