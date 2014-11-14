@@ -4,8 +4,10 @@
 
 ./stats.sh
 
-git add -A -v
 files=$(git ls-files -m)
+
+git add -A -v
+
 if [ ${#files} -le 50 ]; then
 	# git commit -m "Updating ${files}"
 	git commit -m "`echo Updating ${files}`"
