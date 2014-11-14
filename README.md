@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 59 data management terms.
+A glossary of 61 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -179,6 +179,8 @@ Coverage Service Interface Standard (WCS) defines Web-based retrieval of
 coverages that is, digital geospatial information representing
 space/time-varying phenomena.
   <DT>WIS<DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
+  <DT>WMO <DD>World Meteorological Organization
+  <DT>WSDD <DD>Web Service Description Document
   <DT>WMO <DD>World Meteorological Organization
   <DT>WSDD <DD>Web Service Description Document
 
