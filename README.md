@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of data management terms.
+A glossary of 59 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -37,7 +37,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 <DL>
   <DT><a name="A"></a><a href=#contents>A</a><DD>
   <DT>ACDD
-  <DD>Attribute Convention for Data Discovery 
+  <DD>Attribute Convention for Data Discovery (was UDDC)
 <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
@@ -84,6 +84,8 @@ of earth science data.
   <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>IOOS
   <DD>Integrated Ocean Observing System
+	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata
+representation of data et structure and metadata. Packaged with ncISO.
   
   <DT><a name="J"></a><a href=#contents>J</a><DD>
   <DT><a name="K"></a><a href=#contents>K</a><DD>
@@ -97,8 +99,13 @@ of earth science data.
   <DD>National Center for Atmospheric Research
   <DT>NCEP
   <DD>National Centers for Environmental Prediction
+	<DT>ncISO<DD>Package of metadata services from NOAA/NGDC that
+provides NCML, ISO, and UDDC services. 
   <DT>NcML 
-  <DD>NcML is an XML representation of netCDF metadata
+  <DD>NcML is an XML representation of netCDF metadata.
+  <DT>NCML<DD> THREDDS service provided by ncISO package that provides NcML
+representation and adds geospatial extent
+information if it has not already been documented.
   <DT>ncSOS
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>ncWMS 
@@ -156,6 +163,8 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DT><a name="U"></a><a href=#contents>U</a><DD>
   <DT>UCAR
   <DD>University Corporation for Atmospheric Research
+	<DT>UDDC<DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS
+server extension library. 
   <DT>UAF	
   <DD>Unified Access Framework
   
@@ -175,10 +184,5 @@ graphs, and maps from tabular datasets (for example, buoy data).
 More terms 
 <DT>HDF-4<DD>
 <DT>HDF-5<DD>
-<DT>Iris<DD>
-UDDC
-NCML
-ncISO
-
-  
+<DT>Iris<DD> 
 -->
