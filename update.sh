@@ -1,7 +1,9 @@
 # after you have made your edits run this script
 
 # do the stats on README.md
+
 ./stats.sh
+
 git add -A -v
 files=$(git ls-files -m)
 if [ ${#files} -le 50 ]; then
