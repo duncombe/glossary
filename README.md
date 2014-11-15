@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 67 data management terms.
+A glossary of 68 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -57,15 +57,18 @@ data in a platform- and discipline-independent way.
   
   <DT><a name="D"></a><a href=#contents>D</a><DD>
   <DT>DODS
-  <DD>The Distributed Oceanographic Data Systems (DODS) is a framework for data providers to share data with each other and with end users. [DODS](http://dods.ndbc.noaa.gov/)
+  <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data
+providers to share data with each other and with end users. 
+
   <DT>DSG 
-  <DD>[Data Systems Group](http://www.esrl.noaa.gov/gsd/its/dsg/), part of GSD  Information and Technology Services 
+  <DD><a href="http://www.esrl.noaa.gov/gsd/its/dsg/">Data Systems Group</a>,
+part of GSD  Information and Technology Services 
 
   <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>ERDDAP
   <DD>Environmental Research Division's Data Access Program 
 <DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental
-research company, developers of ArcGIS.
+research company, developers of ArcGIS
   <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
   <DT><a name="G"></a><a href=#contents>G</a><DD>
@@ -81,6 +84,10 @@ of earth science data.
   <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers. 
 
   <DT><a name="H"></a><a href=#contents>H</a><DD>
+<DT>HDF<DD>Hierarchical Data Format version 4
+<DT>HDF4<DD>Hierarchical Data Format version 4, also known as HDF
+<DT>HDF5<DD>Hierarchical Data Format version 5
+
   <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>IOOS <DD>Integrated Ocean Observing System
 <DT>IRIS<DD> Incorporated Research Institutions for Seismology
@@ -189,8 +196,6 @@ space/time-varying phenomena.
 
 <!--
 More terms 
-<DT>HDF-4<DD>
-<DT>HDF-5<DD>
 -->
 
 <!-- vim:se nowrap tw=0 : -->
