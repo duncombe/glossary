@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 64 data management terms.
+A glossary of 67 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -169,6 +169,9 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DT>UAF<DD>Unified Access Framework
   <DT>UCAR<DD>University Corporation for Atmospheric Research
   <DT>UDDC<DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library. 
+<DT>URI<DD>uniform resource identifier (comprises a URL and/or a URN).
+<DT>URL<DD>uniform resource locator
+<DT>URN<DD>uniform resource name
   
   <DT><a name="V"></a><a href=#contents>V</a><DD>
   <DT>vocabulary<DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
