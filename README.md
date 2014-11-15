@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 59 data management terms.
+A glossary of 60 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -52,8 +52,7 @@ data in a platform- and discipline-independent way.
   <DT>CSV
   <DD>Comma Separated Values (sometimes CSV/TSV)
   <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
-  <DT>CF
-  <DD>Climate and Forecast (CF)
+  <DT>CF <DD>Climate and Forecast (CF)
   
   <DT><a name="D"></a><a href=#contents>D</a><DD>
   <DT>DODS
@@ -82,10 +81,9 @@ of earth science data.
 
   <DT><a name="H"></a><a href=#contents>H</a><DD>
   <DT><a name="I"></a><a href=#contents>I</a><DD>
-  <DT>IOOS
-  <DD>Integrated Ocean Observing System
-	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata
-representation of data et structure and metadata. Packaged with ncISO.
+  <DT>IOOS <DD>Integrated Ocean Observing System
+<DT>IRIS<DD> Incorporated Research Institutions for Seismology
+	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata representation of data et structure and metadata. Packaged with ncISO.
   
   <DT><a name="J"></a><a href=#contents>J</a><DD>
   <DT><a name="K"></a><a href=#contents>K</a><DD>
@@ -146,6 +144,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DD>A descriptor or link that conforms with REST concept.
   
   <DT><a name="S"></a><a href=#contents>S</a><DD>
+<DT>SEED<DD>Standard for the Exchange of Earthquake Data
   <DT>SOS <DD>Sensor Observation Service
   <DT>SURA<DD>Southeastern Universities Research Association 
   
@@ -188,6 +187,7 @@ space/time-varying phenomena.
 More terms 
 <DT>HDF-4<DD>
 <DT>HDF-5<DD>
-<DT>Iris<DD> 
 -->
+
+<!-- vim:se nowrap tw=0 : -->
 
