@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 68 data management terms.
+A glossary of 69 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -100,13 +100,11 @@ of earth science data.
   <DT><a name="L"></a><a href=#contents>L</a><DD>
   <DT><a name="M"></a><a href=#contents>M</a><DD>
   <DT>MMI
-  <DD> Marine Metadata Interoperability [http://mmisw.org/]()
+  <DD> Marine Metadata Interoperability.
 
   <DT><a name="N"></a><a href=#contents>N</a><DD>
-  <DT>NCAR
-  <DD>National Center for Atmospheric Research
-  <DT>NCEP
-  <DD>National Centers for Environmental Prediction
+  <DT>NCAR <DD>National Center for Atmospheric Research
+  <DT>NCEP <DD>National Centers for Environmental Prediction
 	<DT>ncISO<DD>Package of metadata services from NOAA/NGDC that
 provides NCML, ISO, and UDDC services. 
   <DT>NcML 
@@ -118,17 +116,15 @@ information if it has not already been documented.
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>ncWMS 
   <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
-  <DT>netCDF <DD>[Network Common Data Form](http://www.unidata.ucar.edu/software/netcdf/)
+  <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
 <DT>netCDF4<DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage
 layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited
 dimensions, compression, data chunking, parallel I/O, and other features.
 
-  <DT>NGDC
-  <DD>NOAA's National Geophysical Data Center (NGDC) 
-  <DT>NOAA
-  <DD>National Oceanic and Atmospheric Administration
-  <DT>NWS
-  <DD>National Weather Service
+  <DT>NGDC <DD>NOAA's National Geophysical Data Center (NGDC) 
+  <DT>NOAA <DD>National Oceanic and Atmospheric Administration
+  <DT>NODC <DD>National Oceanographic Data Center
+  <DT>NWS <DD>National Weather Service
   
   <DT><a name="O"></a><a href=#contents>O</a><DD>
   <DT>OGC
@@ -137,9 +133,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
   <DT>OPeNDAP
   <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
-  <DT>ORR
-  <DD> 
-  [Marine Metadata Interoperability  Ontology Registry and Repository ](http://mmisw.org/orr/)
+  <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
   
 
   <DT><a name="P"></a><a href=#contents>P</a><DD>
