@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 60 data management terms.
+A glossary of 61 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -46,13 +46,13 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
+  <DT>CF <DD>Climate and Forecast (CF)
   <DT>COMT<DD>Coastal and Ocean Modeling Testbed
   <DT>CoRTAD
   <DD> Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   <DT>CSV
   <DD>Comma Separated Values (sometimes CSV/TSV)
   <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
-  <DT>CF <DD>Climate and Forecast (CF)
   
   <DT><a name="D"></a><a href=#contents>D</a><DD>
   <DT>DODS
@@ -68,16 +68,16 @@ research company, developers of ArcGIS.
   <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
   <DT><a name="G"></a><a href=#contents>G</a><DD>
-  <DT>GeoJSON<DD>GeoJSON is a format for encoding a variety of geographic
+  <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic
 data structures.  [GeoJSON Specification](http://geojson.org/geojson-spec.html)
-  <DT>GSD <DD>Global systems division of ESRL
-  <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers. 
 <DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed
 Information in Binary form[1]) is a concise data format commonly used in
 meteorology to store historical and forecast weather data. 
 <DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive
 desktop tool that is used for easy access, manipulation, and visualization
 of earth science data. 
+  <DT>GSD <DD>Global systems division of ESRL
+  <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers. 
 
   <DT><a name="H"></a><a href=#contents>H</a><DD>
   <DT><a name="I"></a><a href=#contents>I</a><DD>
@@ -86,6 +86,7 @@ of earth science data.
 	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata representation of data et structure and metadata. Packaged with ncISO.
   
   <DT><a name="J"></a><a href=#contents>J</a><DD>
+<DT>JSON<DD>JavaScript Object Notation
   <DT><a name="K"></a><a href=#contents>K</a><DD>
   <DT><a name="L"></a><a href=#contents>L</a><DD>
   <DT><a name="M"></a><a href=#contents>M</a><DD>
@@ -160,17 +161,12 @@ graphs, and maps from tabular datasets (for example, buoy data).
   <DD>Tab Separated Values (CSV/TSV)
   
   <DT><a name="U"></a><a href=#contents>U</a><DD>
-  <DT>UCAR
-  <DD>University Corporation for Atmospheric Research
-	<DT>UDDC<DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS
-server extension library. 
-  <DT>UAF	
-  <DD>Unified Access Framework
+  <DT>UAF<DD>Unified Access Framework
+  <DT>UCAR<DD>University Corporation for Atmospheric Research
+  <DT>UDDC<DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library. 
   
   <DT><a name="V"></a><a href=#contents>V</a><DD>
-  <DT>vocabulary
-  <DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
-  
+  <DT>vocabulary<DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
   <DT><a name="W"></a><a href=#contents>W</a><DD>
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web 
