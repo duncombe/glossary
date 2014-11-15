@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 61 data management terms.
+A glossary of 64 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -42,6 +42,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
+<DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
 <DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
 data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
@@ -83,6 +84,7 @@ of earth science data.
   <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>IOOS <DD>Integrated Ocean Observing System
 <DT>IRIS<DD> Incorporated Research Institutions for Seismology
+<DT>Iris<DD><a href="http://scitools.org.uk/iris/">Iris</a> is a Python library for Meteorology and Climatology, a part of Scitools.
 	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata representation of data et structure and metadata. Packaged with ncISO.
   
   <DT><a name="J"></a><a href=#contents>J</a><DD>
@@ -145,6 +147,9 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DD>A descriptor or link that conforms with REST concept.
   
   <DT><a name="S"></a><a href=#contents>S</a><DD>
+<DT>Scitools<DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python
+libraries initially created by the UK Met Office to enable the visualisation of
+weather and climate data. 
 <DT>SEED<DD>Standard for the Exchange of Earthquake Data
   <DT>SOS <DD>Sensor Observation Service
   <DT>SURA<DD>Southeastern Universities Research Association 
