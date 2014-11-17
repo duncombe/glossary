@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 69 data management terms.
+A glossary of 72 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -124,16 +124,15 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DT>NGDC <DD>NOAA's National Geophysical Data Center (NGDC) 
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
   <DT>NODC <DD>National Oceanographic Data Center
+  <DT>NOSC <DD>NOAA Observing Systems Council
   <DT>NWS <DD>National Weather Service
   
   <DT><a name="O"></a><a href=#contents>O</a><DD>
-  <DT>OGC
-  <DD>Open Geospatial Consortium, Inc. (OGC)
-  <DT>OOI
-  <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
-  <DT>OPeNDAP
-  <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
+  <DT>OGC <DD>Open Geospatial Consortium, Inc. (OGC)
+  <DT>OOI <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
+  <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
   <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
+  <DT>OSC<DD> Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
   
 
   <DT><a name="P"></a><a href=#contents>P</a><DD>
@@ -161,8 +160,8 @@ weather and climate data.
 graphs, and maps from tabular datasets (for example, buoy data). 
   <DT>TDS
   <DD> THREDDS Data Server
-  <DT> THREDDS
-  <DD> Thematic Realtime Environmental Distributed Data Services
+  <DT> THREDDS <DD> Thematic Realtime Environmental Distributed Data Services
+<DT>TPIO<DD>NOAA Technology, Planning and Integration for Observation program 
   <DT>TSV
   <DD>Tab Separated Values (CSV/TSV)
   
