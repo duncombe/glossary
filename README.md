@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 73 data management terms.
+A glossary of 74 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -66,10 +66,9 @@ providers to share data with each other and with end users.
 part of GSD  Information and Technology Services 
 
   <DT><a name="E"></a><a href=#contents>E</a><DD>
-  <DT>ERDDAP
-  <DD>Environmental Research Division's Data Access Program 
-<DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental
-research company, developers of ArcGIS
+  <DT>EMMA<DD>Enterprise Metadata Management Architecture
+  <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
+  <DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
   <DT><a name="G"></a><a href=#contents>G</a><DD>
