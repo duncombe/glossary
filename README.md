@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 72 data management terms.
+A glossary of 73 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -49,6 +49,7 @@ data in a platform- and discipline-independent way.
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
   <DT>CF <DD>Climate and Forecast (CF)
   <DT>COMT<DD>Coastal and Ocean Modeling Testbed
+  <DT>COOL<DD>Coastal Ocean Observation Lab (Rutgers University)
   <DT>CoRTAD
   <DD> Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   <DT>CSV
