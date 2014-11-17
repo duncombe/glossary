@@ -92,7 +92,7 @@ of earth science data.
   <DT>IOOS <DD>Integrated Ocean Observing System
 <DT>IRIS<DD> Incorporated Research Institutions for Seismology
 <DT>Iris<DD><a href="http://scitools.org.uk/iris/">Iris</a> is a Python library for Meteorology and Climatology, a part of Scitools.
-	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata representation of data et structure and metadata. Packaged with ncISO.
+	<DT>ISO<DD>THREDDS service that provides an ISO 19115 metadata representation of data and metadata structure. Packaged with ncISO.
   
   <DT><a name="J"></a><a href=#contents>J</a><DD>
 <DT>JSON<DD>JavaScript Object Notation
