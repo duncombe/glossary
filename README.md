@@ -140,6 +140,8 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
   <DT><a name="Q"></a><a href=#contents>Q</a><DD>
+  <DT>QARTOD<DD>Quality Assurance of Real Time Ocean Data
+  <DT>QC<DD>Quality Control
   <DT><a name="R"></a><a href=#contents>R</a><DD>
   <DT>REST
   <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
