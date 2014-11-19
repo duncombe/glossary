@@ -49,13 +49,9 @@ part of GSD  Information and Technology Services
   <DT><a name="F"></a><a href=#contents>F</a><DD>
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic
-data structures.  [GeoJSON Specification](http://geojson.org/geojson-spec.html)
-<DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed
-Information in Binary form[1]) is a concise data format commonly used in
-meteorology to store historical and forecast weather data. 
-<DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive
-desktop tool that is used for easy access, manipulation, and visualization
-of earth science data. 
+data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
+<DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data. 
+<DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form[1]) is a concise data format commonly used in meteorology to store historical and forecast weather data. 
   <DT>GSD <DD>Global systems division of ESRL
   <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers. 
 
@@ -97,7 +93,7 @@ information if it has not already been documented.
 layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited
 dimensions, compression, data chunking, parallel I/O, and other features.
 
-  <DT>NGDC <DD>NOAA's National Geophysical Data Center (NGDC) 
+  <DT>NGDC <DD>National Geophysical Data Center (NOAA/NGDC) 
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
   <DT>NODC <DD>National Oceanographic Data Center
   <DT>NOSC <DD>NOAA Observing Systems Council
@@ -106,8 +102,8 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   
   <DT><a name="O"></a><a href=#contents>O</a><DD>
   <DT>OGC <DD>Open Geospatial Consortium, Inc. (OGC)
-  <DT>OOI <DD> [Ocean Observatories Initiative](http://oceanobservatories.org/)
-  <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the OPeNDAP organization has developed. [OpeNDAP](http://www.opendap.org/about)  
+  <DT>OOI <DD> <a href="http://oceanobservatories.org/">Ocean Observatories Initiative</a>
+  <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OpeNDAP organization</a> has developed. 
   <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
   <DT>OSC<DD> Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
   
@@ -154,7 +150,8 @@ graphs, and maps from tabular datasets (for example, buoy data).
 <DT>URN<DD>uniform resource name
   
   <DT><a name="V"></a><a href=#contents>V</a><DD>
-  <DT>vocabulary<DD>This is a computer science term, not grammar. The same yet subtly different. From [IOOS Vocabularies](https://github.com/ioos/vocabularies) README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
+  <DT>vocabulary<DD>This is a computer science term, not grammar. The same yet
+subtly different. From <a href="https://github.com/ioos/vocabularies">IOOS Vocabularies</a> README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   
   <DT><a name="W"></a><a href=#contents>W</a><DD>
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web 
