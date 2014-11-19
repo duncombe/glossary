@@ -7,32 +7,7 @@ IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-li
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
 
 <a name="contents"></a>
-## [A](#A)
-## [B](#B)
-## [C](#C)
-## [D](#D)
-## [E](#E)
-## [F](#F)
-## [G](#G) 
-## [H](#H)
-## [I](#I)
-## [J](#J)
-## [K](#K)
-## [L](#L)
-## [M](#M)
-## [N](#N)
-## [O](#O)
-## [P](#P)
-## [Q](#Q)
-## [R](#R)
-## [S](#S)
-## [T](#T)
-## [U](#U)
-## [V](#V)
-## [W](#W)
-## [X](#X)
-## [Y](#Y)
-## [Z](#Z)
+## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 <DL>
   <DT><a name="A"></a><a href=#contents>A</a><DD>
