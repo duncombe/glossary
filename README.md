@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 77 data management terms.
+A glossary of 79 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -18,6 +18,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
 <DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
+<DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
 <DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
 data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
@@ -32,8 +33,8 @@ data in a platform- and discipline-independent way.
   <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
   
   <DT><a name="D"></a><a href=#contents>D</a><DD>
-  <DT>DODS
-  <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data
+  <DT>DMAC<DD>Data Management and Communications
+  <DT>DODS <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data
 providers to share data with each other and with end users. 
 
   <DT>DSG 
