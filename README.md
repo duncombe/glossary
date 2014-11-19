@@ -1,38 +1,38 @@
 glossary
 ========
 
-A glossary of 74 data management terms.
+A glossary of 76 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
 
 <a name="contents"></a>
-[A](#A)
-[B](#B)
-[C](#C)
-[D](#D)
-[E](#E)
-[F](#F)
-[G](#G) 
-[H](#H)
-[I](#I)
-[J](#J)
-[K](#K)
-[L](#L)
-[M](#M)
-[N](#N)
-[O](#O)
-[P](#P)
-[Q](#Q)
-[R](#R)
-[S](#S)
-[T](#T)
-[U](#U)
-[V](#V)
-[W](#W)
-[X](#X)
-[Y](#Y)
-[Z](#Z)
+## [A](#A)
+## [B](#B)
+## [C](#C)
+## [D](#D)
+## [E](#E)
+## [F](#F)
+## [G](#G) 
+## [H](#H)
+## [I](#I)
+## [J](#J)
+## [K](#K)
+## [L](#L)
+## [M](#M)
+## [N](#N)
+## [O](#O)
+## [P](#P)
+## [Q](#Q)
+## [R](#R)
+## [S](#S)
+## [T](#T)
+## [U](#U)
+## [V](#V)
+## [W](#W)
+## [X](#X)
+## [Y](#Y)
+## [Z](#Z)
 
 <DL>
   <DT><a name="A"></a><a href=#contents>A</a><DD>
@@ -140,8 +140,9 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
   <DT><a name="Q"></a><a href=#contents>Q</a><DD>
-  <DT>QARTOD<DD>Quality Assurance of Real Time Ocean Data
+  <DT>QARTOD<DD>Quality Assurance of Real-Time Ocean Data
   <DT>QC<DD>Quality Control
+
   <DT><a name="R"></a><a href=#contents>R</a><DD>
   <DT>REST
   <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
