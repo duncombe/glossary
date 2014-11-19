@@ -11,7 +11,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 
 <DL>
 <!-- <DT><a name="A"></a><a href=#contents>A</a><DD> -->
-##<a name="A"></a><a href=#contents>A</a>
+<a name="A"></a><a href=#contents>A</a>
+------
 
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery (was UDDC)
