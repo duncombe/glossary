@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 76 data management terms.
+A glossary of 77 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -10,7 +10,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 <DL>
-  <DT><a name="A"></a><a href=#contents>A</a><DD>
+##  <DT><a name="A"></a><a href=#contents>A</a><DD>
+
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery (was UDDC)
 <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
@@ -100,6 +101,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
   <DT>NODC <DD>National Oceanographic Data Center
   <DT>NOSC <DD>NOAA Observing Systems Council
+  <DT>NRT<DD>Near Real Time
   <DT>NWS <DD>National Weather Service
   
   <DT><a name="O"></a><a href=#contents>O</a><DD>
