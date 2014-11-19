@@ -10,7 +10,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 <DL>
-##  <DT><a name="A"></a><a href=#contents>A</a><DD>
+<!-- <DT><a name="A"></a><a href=#contents>A</a><DD> -->
+##<a name="A"></a><a href=#contents>A</a>
 
   <DT>ACDD
   <DD>Attribute Convention for Data Discovery (was UDDC)
