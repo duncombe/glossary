@@ -52,7 +52,7 @@ part of GSD  Information and Technology Services
 data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
 <DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data. 
 <DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form[1]) is a concise data format commonly used in meteorology to store historical and forecast weather data. 
-  <DT>GSD <DD>Global systems division of ESRL
+  <DT>GSD <DD>Global Systems Division (ESRL)
   <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers. 
 
   <DT><a name="H"></a><a href=#contents>H</a><DD>
