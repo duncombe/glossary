@@ -161,6 +161,11 @@ space/time-varying phenomena.
   <DT>WIS<DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   <DT>WMO<DD>World Meteorological Organization
   <DT>WSDD<DD>Web Service Description Document
+  
+  <DT><a name="X"></a><a href=#contents>X</a><DD>
+  <DT><a name="Y"></a><a href=#contents>Y</a><DD>
+  <DT><a name="Z"></a><a href=#contents>Z</a><DD>
+  
 
 </DL>
 
