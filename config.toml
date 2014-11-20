@@ -1,3 +1,10 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://duncombe.github.io/glossary"
 languageCode = "en-us"
-title = "my new hugo site"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+Title = "ocean data acronyms" 
+[params]
+ Description = "A glossary of data management acronyms"
+ Copyright = "(C) 2014 C. M. D. Rae. Copyright reserved." 
+

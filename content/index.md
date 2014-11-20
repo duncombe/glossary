@@ -12,7 +12,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 <DL>
 <DT><a name="A"></a><a href=#contents>A</a><DD> 
   <DT>ACDD
-  <DD>Attribute Convention for Data Discovery (was UDDC)
+  <DD>Attribute Convention for Dataset Discovery (was UDDC)
 <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
