@@ -79,11 +79,11 @@ data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specifi
   <DT>NCEP <DD>National Centers for Environmental Prediction
 	<DT>ncISO<DD>Package of metadata services from NOAA/NGDC that
 provides NCML, ISO, and UDDC services. 
-  <DT>NcML 
-  <DD>NcML is an XML representation of netCDF metadata.
   <DT>NCML<DD> THREDDS service provided by ncISO package that provides NcML
 representation and adds geospatial extent
 information if it has not already been documented.
+  <DT>NcML 
+  <DD>NcML is an XML representation of netCDF metadata.
   <DT>ncSOS
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>ncWMS 
@@ -103,7 +103,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DT><a name="O"></a><a href=#contents>O</a><DD>
   <DT>OGC <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI <DD> <a href="http://oceanobservatories.org/">Ocean Observatories Initiative</a>
-  <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OpeNDAP organization</a> has developed. 
+  <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OPeNDAP organization</a> has developed. 
   <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
   <DT>OSC<DD> Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
   
