@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on ocean data acronyms </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://duncombe.github.io/glossary/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    
+    <item>
+      <title></title>
+      <link>http://duncombe.github.io/glossary/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://duncombe.github.io/glossary/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
+
+&lt;p&gt;A glossary of 79 data management terms.&lt;/p&gt;
+
+&lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
+This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#34;contents&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;#A&#34;&gt;A&lt;/a&gt; &lt;a href=&#34;#B&#34;&gt;B&lt;/a&gt; &lt;a href=&#34;#C&#34;&gt;C&lt;/a&gt; &lt;a href=&#34;#D&#34;&gt;D&lt;/a&gt; &lt;a href=&#34;#E&#34;&gt;E&lt;/a&gt; &lt;a href=&#34;#F&#34;&gt;F&lt;/a&gt; &lt;a href=&#34;#G&#34;&gt;G&lt;/a&gt; &lt;a href=&#34;#H&#34;&gt;H&lt;/a&gt; &lt;a href=&#34;#I&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;#J&#34;&gt;J&lt;/a&gt; &lt;a href=&#34;#K&#34;&gt;K&lt;/a&gt; &lt;a href=&#34;#L&#34;&gt;L&lt;/a&gt; &lt;a href=&#34;#M&#34;&gt;M&lt;/a&gt; &lt;a href=&#34;#N&#34;&gt;N&lt;/a&gt; &lt;a href=&#34;#O&#34;&gt;O&lt;/a&gt; &lt;a href=&#34;#P&#34;&gt;P&lt;/a&gt; &lt;a href=&#34;#Q&#34;&gt;Q&lt;/a&gt; &lt;a href=&#34;#R&#34;&gt;R&lt;/a&gt; &lt;a href=&#34;#S&#34;&gt;S&lt;/a&gt; &lt;a href=&#34;#T&#34;&gt;T&lt;/a&gt; &lt;a href=&#34;#U&#34;&gt;U&lt;/a&gt; &lt;a href=&#34;#V&#34;&gt;V&lt;/a&gt; &lt;a href=&#34;#W&#34;&gt;W&lt;/a&gt; &lt;a href=&#34;#X&#34;&gt;X&lt;/a&gt; &lt;a href=&#34;#Y&#34;&gt;Y&lt;/a&gt; &lt;a href=&#34;#Z&#34;&gt;Z&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;DL&gt;
+&lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;ACDD
+  &lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
+&lt;DT&gt;ArcGIS&lt;DD&gt;A geographic information system (GIS) product from Esri.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;B&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;B&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;C&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;C&lt;/a&gt;&lt;DD&gt;
+&lt;DT&gt;Cartopy&lt;DD&gt;A library providing cartographic tools for Python.  A part of Scitools.
+&lt;DT&gt;CBIBS&lt;DD&gt;Chesapeake Bay Interpretive Buoy System
+&lt;DT&gt;CDF&lt;DD&gt; Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
+data in a platform- and discipline-independent way.&lt;br /&gt;
+  &lt;DT&gt;CDIP &lt;DD&gt;Coastal Data Information Program
+  &lt;DT&gt;CDL&lt;DD&gt;Common Data Language (Unidata).  Text notation for netCDF objects and data.
+  &lt;DT&gt;CF &lt;DD&gt;Climate and Forecast (CF)
+  &lt;DT&gt;COMT&lt;DD&gt;Coastal and Ocean Modeling Testbed
+  &lt;DT&gt;COOL&lt;DD&gt;Coastal Ocean Observation Lab (Rutgers University)
+  &lt;DT&gt;CoRTAD
+  &lt;DD&gt; Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
+  &lt;DT&gt;CSV
+  &lt;DD&gt;Comma Separated Values (sometimes CSV/TSV)
+  &lt;DT&gt;CSW &lt;DD&gt;Catalog Services for the Web. Service provided by OGC.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;D&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;D&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;DMAC&lt;DD&gt;Data Management and Communications
+  &lt;DT&gt;DODS &lt;DD&gt;Distributed Oceanographic Data Systems. &lt;a href=&#34;http://dods.ndbc.noaa.gov/&#34;&gt;DODS&lt;/a&gt; is a framework for data
+providers to share data with each other and with end users.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;DSG
+  &lt;DD&gt;&lt;a href=&#34;http://www.esrl.noaa.gov/gsd/its/dsg/&#34;&gt;Data Systems Group&lt;/a&gt;,
+part of GSD  Information and Technology Services&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;E&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;E&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;EMMA&lt;DD&gt;Enterprise Metadata Management Architecture
+  &lt;DT&gt;ERDDAP &lt;DD&gt;Environmental Research Division&amp;rsquo;s Data Access Program
+  &lt;DT&gt;Esri&lt;DD&gt;Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
+  &lt;DT&gt;ESRL&lt;DD&gt; Earth System Research Laboratory
+  &lt;DT&gt;&lt;a name=&#34;F&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;F&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;G&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;G&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;GeoJSON&lt;DD&gt;GeoJSON is a JSON format for encoding a variety of geographic
+data structures.  &lt;a href=&#34;http://geojson.org/geojson-spec.html&#34;&gt;GeoJSON Specification&lt;/a&gt;
+&lt;DT&gt;GrADS&lt;DD&gt;The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
+&lt;DT&gt;GRIB&lt;DD&gt;GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form[1]) is a concise data format commonly used in meteorology to store historical and forecast weather data.
+  &lt;DT&gt;GSD &lt;DD&gt;Global Systems Division (ESRL)
+  &lt;DT&gt;GTS &lt;DD&gt;The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;H&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;H&lt;/a&gt;&lt;DD&gt;
+&lt;DT&gt;HDF&lt;DD&gt;Hierarchical Data Format version 4
+&lt;DT&gt;HDF4&lt;DD&gt;Hierarchical Data Format version 4, also known as HDF
+&lt;DT&gt;HDF5&lt;DD&gt;Hierarchical Data Format version 5&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
+&lt;DT&gt;IRIS&lt;DD&gt; Incorporated Research Institutions for Seismology
+&lt;DT&gt;Iris&lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk/iris/&#34;&gt;Iris&lt;/a&gt; is a Python library for Meteorology and Climatology, a part of Scitools.
+    &lt;DT&gt;ISO&lt;DD&gt;THREDDS service that provides an ISO 19115 metadata representation of data and metadata structure. Packaged with ncISO.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;J&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;J&lt;/a&gt;&lt;DD&gt;
+&lt;DT&gt;JSON&lt;DD&gt;JavaScript Object Notation
+  &lt;DT&gt;&lt;a name=&#34;K&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;K&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;L&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;L&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;M&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;M&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;MMI
+  &lt;DD&gt; Marine Metadata Interoperability.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;N&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;N&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;NCAR &lt;DD&gt;National Center for Atmospheric Research
+  &lt;DT&gt;NCEP &lt;DD&gt;National Centers for Environmental Prediction
+    &lt;DT&gt;ncISO&lt;DD&gt;Package of metadata services from NOAA/NGDC that
+provides NCML, ISO, and UDDC services.
+  &lt;DT&gt;NCML&lt;DD&gt; THREDDS service provided by ncISO package that provides NcML
+representation and adds geospatial extent
+information if it has not already been documented.
+  &lt;DT&gt;NcML
+  &lt;DD&gt;NcML is an XML representation of netCDF metadata.
+  &lt;DT&gt;ncSOS
+  &lt;DD&gt;NcSOS adds a OGC SOS service to your existing THREDDS server.
+  &lt;DT&gt;ncWMS
+  &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
+  &lt;DT&gt;netCDF &lt;DD&gt;&lt;a href=&#34;http://www.unidata.ucar.edu/software/netcdf/&#34;&gt;Network Common Data Form&lt;/a&gt;
+&lt;DT&gt;netCDF4&lt;DD&gt;Version 4 of netCDF. Introduced the use of HDF5 as a storage
+layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited
+dimensions, compression, data chunking, parallel I/O, and other features.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;NGDC &lt;DD&gt;National Geophysical Data Center (NOAA/NGDC)
+  &lt;DT&gt;NOAA &lt;DD&gt;National Oceanic and Atmospheric Administration
+  &lt;DT&gt;NODC &lt;DD&gt;National Oceanographic Data Center
+  &lt;DT&gt;NOSC &lt;DD&gt;NOAA Observing Systems Council
+  &lt;DT&gt;NRT&lt;DD&gt;Near Real Time
+  &lt;DT&gt;NWS &lt;DD&gt;National Weather Service&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;O&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;O&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;OGC &lt;DD&gt;Open Geospatial Consortium, Inc. (OGC)
+  &lt;DT&gt;OOI &lt;DD&gt; &lt;a href=&#34;http://oceanobservatories.org/&#34;&gt;Ocean Observatories Initiative&lt;/a&gt;
+  &lt;DT&gt;OPeNDAP &lt;DD&gt;Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the &lt;a href=&#34;http://www.opendap.org/about&#34;&gt;OPeNDAP organization&lt;/a&gt; has developed.
+  &lt;DT&gt;ORR &lt;DD&gt; &lt;a href=&#34;http://mmisw.org&#34;&gt;Ontology Registry and Repository&lt;/a&gt; of MMI
+  &lt;DT&gt;OSC&lt;DD&gt; Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;P&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;P&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;PyDAP
+  &lt;DD&gt;Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;Q&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;Q&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;QARTOD&lt;DD&gt;Quality Assurance of Real-Time Ocean Data
+  &lt;DT&gt;QC&lt;DD&gt;Quality Control&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;R&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;R&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;REST
+  &lt;DD&gt;Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
+  &lt;DT&gt;RESTful
+  &lt;DD&gt;A descriptor or link that conforms with REST concept.&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;S&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;S&lt;/a&gt;&lt;DD&gt;
+&lt;DT&gt;Scitools&lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk&#34;&gt;Scitools&lt;/a&gt; comprises Iris and Cartopy, open source Python
+libraries initially created by the UK Met Office to enable the visualisation of
+weather and climate data.
+&lt;DT&gt;SEED&lt;DD&gt;Standard for the Exchange of Earthquake Data
+  &lt;DT&gt;SOS &lt;DD&gt;Sensor Observation Service
+  &lt;DT&gt;SURA&lt;DD&gt;Southeastern Universities Research Association&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;T&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;T&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;TableDAP
+  &lt;DD&gt;Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets,
+graphs, and maps from tabular datasets (for example, buoy data).
+  &lt;DT&gt;TDS
+  &lt;DD&gt; THREDDS Data Server
+  &lt;DT&gt; THREDDS &lt;DD&gt; Thematic Realtime Environmental Distributed Data Services
+&lt;DT&gt;TPIO&lt;DD&gt;NOAA Technology, Planning and Integration for Observation program
+  &lt;DT&gt;TSV
+  &lt;DD&gt;Tab Separated Values (CSV/TSV)&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;U&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;U&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;UAF&lt;DD&gt;Unified Access Framework
+  &lt;DT&gt;UCAR&lt;DD&gt;University Corporation for Atmospheric Research
+  &lt;DT&gt;UDDC&lt;DD&gt;Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library.
+&lt;DT&gt;URI&lt;DD&gt;uniform resource identifier (comprises a URL and/or a URN).
+&lt;DT&gt;URL&lt;DD&gt;uniform resource locator
+&lt;DT&gt;URN&lt;DD&gt;uniform resource name&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;V&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;V&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;vocabulary&lt;DD&gt;This is a computer science term, not grammar. The same yet
+subtly different. From &lt;a href=&#34;https://github.com/ioos/vocabularies&#34;&gt;IOOS Vocabularies&lt;/a&gt; README, &amp;ldquo;Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;W&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;W&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;WCS &lt;DD&gt;Web Coverage Service - The Open Geospatial Consortium Web
+Coverage Service Interface Standard (WCS) defines Web-based retrieval of
+coverages that is, digital geospatial information representing
+space/time-varying phenomena.
+  &lt;DT&gt;WIS&lt;DD&gt;WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
+  &lt;DT&gt;WMO&lt;DD&gt;World Meteorological Organization
+  &lt;DT&gt;WSDD&lt;DD&gt;Web Service Description Document&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;X&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;X&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;Y&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;Y&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;Z&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;Z&lt;/a&gt;&lt;DD&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/DL&gt;&lt;/p&gt;
+
+&lt;p&gt;Copyright reserved. CMDR.&lt;/p&gt;
+
+&lt;!--
+More terms 
+--&gt;
+
+&lt;!-- vim:se nowrap tw=0 : --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
