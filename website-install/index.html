@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>  &middot; ocean data acronyms </title>
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/glossary/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/glossary/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/glossary/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="ocean data acronyms" />
+</head>
+
+
+<body>
+
+<div class="sidebar">
+   	<p>  <img src="/glossary/images/ioos_blue2.png"
+   	alt="ioos_blue2.png"> </p> 
+
+	<div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>ocean data acronyms</h1>
+      <p class="lead">
+       A glossary of data management acronyms 
+      </p>
+    </div>
+
+
+    <ul class="sidebar-nav">
+	  <li><a href="/glossary/">home</a> </li>
+	  <li><a href="/glossary/website-install/">about glossary</a> </li>
+	  <li><a href="https://github.com/duncombe/glossary">glossary on github</a> </li>
+	  <li><a href="http://ioos.github.io">IOOS github pages</a> </li>
+      
+    </ul>
+
+	
+
+	
+  
+
+	<p>(C) 2014 C. M. D. Rae. Copyright reserved.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+<div class="post">
+
+  <h1></h1>
+
+    <div id="toc" class="well col-md-4 col-sm-6">
+    <nav id="TableOfContents">
+<ul>
+<li><a href="#toc_0">glossary structure and installation</a></li>
+<li><a href="#toc_1">Installing changes to the website</a></li>
+</ul>
+</nav>
+    </div>
+
+      
+
+<h1 id="toc_0">glossary structure and installation</h1>
+
+<p>The website relies on Hugo for creation and deployment.  The premise is to have
+the document appear in both the github readme.md and the website index.html.
+The way this is accomplished is to sym-link the README.md to index.md in the
+content subdir. Thus Hugo creates index.html in public, while the same document
+still appears in the github repository. Scripts like stats.sh need to be aware
+of the sym-link so that they preserve it and the relationship between the
+files.</p>
+
+<h1 id="toc_1">Installing changes to the website</h1>
+
+<p>After struggling to get <code>git subtree</code> and <code>hugo</code> to update gh-pages properly,
+this listing of commands seemed to work. Intend to turn it into a decent script.</p>
+
+<pre><code># git status
+# git remote -v
+# git pull
+# this is a housekeeping item: the script counts the number of entries (using
+# the script stats.sh), changes number in the file and commits the changes to
+# the repository.
+./update.sh &amp;&amp; git push
+
+# git subtree pull --prefix=public 
+# git status
+
+# run hugo to build the website
+hugo
+# git status
+# add everything that changed
+git add -A
+msg=&quot;Update website `date`&quot;
+git commit -m &quot;${msg}&quot;
+
+git push
+# git subtree pull --prefix=public 
+git subtree push --prefix=public origin gh-pages
+</code></pre>
+
+<!-- vi:se nowrap tw=0: -->
+
+</div>
+</div>
+
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>
