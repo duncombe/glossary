@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on ocean data acronyms </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/glossary/index.xml/</link>
+    <link>http://duncombe.github.io/glossary/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/glossary/about/</link>
+      <link>http://duncombe.github.io/glossary/about/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/glossary/about/</guid>
+      <guid>http://duncombe.github.io/glossary/about/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;About glossary&lt;/h1&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/glossary/website-install/</link>
+      <link>http://duncombe.github.io/glossary/website-install/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/glossary/website-install/</guid>
+      <guid>http://duncombe.github.io/glossary/website-install/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
@@ -76,10 +76,10 @@ git subtree push --prefix=public origin gh-pages
     
     <item>
       <title></title>
-      <link>http://localhost:1313/glossary/</link>
+      <link>http://duncombe.github.io/glossary/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/glossary/</guid>
+      <guid>http://duncombe.github.io/glossary/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
