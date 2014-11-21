@@ -1,8 +1,5 @@
-+++
-date = "2014-11-20T15:39:12Z"
-draft = true
-title = "about"
+# About glossary
 
-+++
-A glossary of ocean environmental data management
+Created over five months in 2014 while new and exciting terms were encountered. 
+
 
