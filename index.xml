@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on ocean data acronyms </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://duncombe.github.io/index.xml</link>
+    <link>http://duncombe.github.io/glossary/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/</link>
+      <link>http://duncombe.github.io/glossary/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/</guid>
+      <guid>http://duncombe.github.io/glossary/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
