@@ -47,9 +47,11 @@ part of GSD  Information and Technology Services
   <DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
+  
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
   <DT>GIS<DD>Geographic Information System
+  <DT>GMT<DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data. 
   <DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form[1]) is a concise data format commonly used in meteorology to store historical and forecast weather data. 
   <DT>GSD <DD>Global Systems Division (ESRL)
@@ -169,9 +171,8 @@ space/time-varying phenomena.
 
 </DL>
 
-Copyright reserved. CMDR. 
-
 <!--
+Copyright reserved. C.M. Duncombe Rae. 
 More terms 
 -->
 
