@@ -10,17 +10,17 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 <DL>
-<DT><a name="A"></a><a href=#contents>A</a><DD> 
-  <DT>ACDD
-  <DD>Attribute Convention for Dataset Discovery (was UDDC)
-<DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
+  <DT><a name="A"></a><a href=#contents>A</a><DD> 
+  <DT>ACDD<DD>Attribute Convention for Dataset Discovery (was UDDC)
+  <DT>ANSI<DD>American National Standards Institute
+  <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
+  <DT>ASCII<DD>American Standard Code for Information Interchange
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
-<DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
-<DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
-<DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
-data in a platform- and discipline-independent way.  
+  <DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
+  <DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
+  <DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
   <DT>CF <DD>Climate and Forecast (CF)
@@ -42,14 +42,17 @@ providers to share data with each other and with end users.
 part of GSD  Information and Technology Services 
 
   <DT><a name="E"></a><a href=#contents>E</a><DD>
+  <DT>EBCDIC<DD>Extended Binary Coded Decimal Interchange Code
   <DT>EMMA<DD>Enterprise Metadata Management Architecture
   <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
   <DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
+  
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
   <DT>GIS<DD>Geographic Information System
+  <DT>GMT<DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GrADS<DD>The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data. 
   <DT>GRIB<DD>GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form[1]) is a concise data format commonly used in meteorology to store historical and forecast weather data. 
   <DT>GSD <DD>Global Systems Division (ESRL)
@@ -169,9 +172,8 @@ space/time-varying phenomena.
 
 </DL>
 
-Copyright reserved. CMDR. 
-
 <!--
+Copyright reserved. C.M. Duncombe Rae. 
 More terms 
 -->
 
