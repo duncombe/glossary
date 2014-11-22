@@ -30,9 +30,8 @@ this listing of commands seemed to work. Intend to turn it into a decent script.
 hugo
 # git status
 # add everything that changed
-git add -A
-msg="Update website `date`"
-git commit -m "${msg}"
+git add -A -v
+git commit -m "Update website `date`"
 
 git push
 # git subtree pull --prefix=public 
