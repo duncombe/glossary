@@ -18,9 +18,13 @@
       <h2><a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
     <!--  <div class="meta">{{ .Date.Format "Mon, Jan 2, 2006" }}</div> -->
     </header>
-	
+
+
 	{{ if not ( eq .Permalink "/glossary/index.html" ) }} 
 		{{ .Content }}
+		{{ if .IsNode }}
+			print hello
+		{{ end }}
 	{{end}}
 
     <footer>
