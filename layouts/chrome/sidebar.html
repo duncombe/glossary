@@ -1,5 +1,5 @@
 <div class="sidebar">
-   	<p>  <img src="/glossary/images/ioos_blue2.png"
+   	<p>  <img src="{{ .Site.BaseUrl }}/images/ioos_blue2.png"
    	alt="ioos_blue2.png"> </p> 
 
 	<div class="container sidebar-sticky">
@@ -12,8 +12,8 @@
 
 <!-- sidebar menu start-->
     <ul class="sidebar-nav">
-	  <li><a href="/glossary/">home</a> </li>
-	  <li><a href="/glossary/website-install/">about glossary</a> </li>
+	  <li><a href="{{ .Site.BaseUrl }}">home</a> </li>
+	  <li><a href="{{ .Site.BaseUrl }}/website-install/">about glossary</a> </li>
 	  <li><a href="https://github.com/duncombe/glossary">glossary on github</a> </li>
 	  <li><a href="http://ioos.github.io" target="_blank">IOOS github pages</a> </li>
       {{ range .Site.Menus.main }}

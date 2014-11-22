@@ -10,9 +10,9 @@
   <title> ocean data acronyms &middot; ocean data acronyms </title>
 
   
-  <link rel="stylesheet" href="http://duncombe.github.io/glossary/css/poole.css">
-  <link rel="stylesheet" href="http://duncombe.github.io/glossary/css/syntax.css">
-  <link rel="stylesheet" href="http://duncombe.github.io/glossary/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -20,14 +20,14 @@
   <link rel="shortcut icon" href="/favicon.ico">
 
   
-  <link href="http://duncombe.github.io/glossary/index.xml/" rel="alternate" type="application/rss+xml" title="ocean data acronyms" />
+  <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="ocean data acronyms" />
 </head>
 
 
 <body>
 
 <div class="sidebar">
-   	<p>  <img src="/glossary/images/ioos_blue2.png"
+   	<p>  <img src="http://localhost:1313/images/ioos_blue2.png"
    	alt="ioos_blue2.png"> </p> 
 
 	<div class="container sidebar-sticky">
@@ -40,8 +40,8 @@
 
 
     <ul class="sidebar-nav">
-	  <li><a href="/glossary/">home</a> </li>
-	  <li><a href="/glossary/website-install/">about glossary</a> </li>
+	  <li><a href="http://localhost:1313">home</a> </li>
+	  <li><a href="http://localhost:1313/website-install/">about glossary</a> </li>
 	  <li><a href="https://github.com/duncombe/glossary">glossary on github</a> </li>
 	  <li><a href="http://ioos.github.io" target="_blank">IOOS github pages</a> </li>
       
@@ -61,13 +61,17 @@
 
 	<div class="posts">
 
+	
+	
+	
+	
  
   <div class="post">
 
 	
 
     <header>
-      <h2><a href='http://duncombe.github.io/glossary/about/'> </a> </h2>
+      <h2><a href='http://localhost:1313/about'> </a> </h2>
     
     </header>
 	
@@ -87,7 +91,7 @@
 	
 
     <header>
-      <h2><a href='http://duncombe.github.io/glossary/website-install/'> </a> </h2>
+      <h2><a href='http://localhost:1313/website-install'> </a> </h2>
     
     </header>
 	
@@ -144,7 +148,7 @@ git subtree push --prefix=public origin gh-pages
 	
 
     <header>
-      <h2><a href='http://duncombe.github.io/glossary/'> </a> </h2>
+      <h2><a href='http://localhost:1313/'> </a> </h2>
     
     </header>
 	
@@ -342,5 +346,8 @@ More terms
 </div>
 
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
