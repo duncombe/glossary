@@ -9,6 +9,15 @@ still appears in the github repository. Scripts like stats.sh need to be aware
 of the sym-link so that they preserve it and the relationship between the
 files.
 
+It turns out that the above fix is problematic for GitHub if the symlink points
+to README.md from index.md. Having the link point the other way is a problem
+for hugo, but we fix that by making some changes in the scripts. 
+
+Automating the website build process is scary if it is all in one script. The
+update.sh script is now split into generate.sh which builds the new website,
+and update.sh, which runs does some commits and pushes the changes and pages up
+to GitHub.
+
 # Installing changes to the website 
 
 After struggling to get `git subtree` and `hugo` to update gh-pages properly,
@@ -37,6 +46,17 @@ git push
 # git subtree pull --prefix=public 
 git subtree push --prefix=public origin gh-pages
 ```
+
+With the new scripts, this becomes:
+
+```
+# edit the files, making changes
+
+./generate.sh
+./update.sh
+
+```
+
 
 <!-- vi:se nowrap tw=0: -->
 

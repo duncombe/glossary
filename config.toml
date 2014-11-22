@@ -6,5 +6,5 @@ publishdir = "public"
 Title = "ocean data acronyms" 
 [params]
  Description = "A glossary of data management acronyms"
- Copyright = "(C) 2014 C.M. Duncombe Rae. Copyright reserved." 
+ Copyright = "(C) 2014 C. M. Duncombe Rae. Copyright reserved." 
 
