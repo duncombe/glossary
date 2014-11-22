@@ -17,4 +17,6 @@ cat README.md > $tmpfile
 cat $tmpfile | sed '/A glossary of[0-9 ]\+\(data management terms\)/s/\(A glossary of\)[0-9 ]\+\(data management terms\)/\1 '$numdefs' \2/' > README.md 
 rm $tmpfile
 
+>&2 echo Found $numdefs definitions 
+
 # vim: se nowrap tw=0 : 

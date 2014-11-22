@@ -83,7 +83,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 80 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 84 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -93,17 +93,17 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 &lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;#A&#34;&gt;A&lt;/a&gt; &lt;a href=&#34;#B&#34;&gt;B&lt;/a&gt; &lt;a href=&#34;#C&#34;&gt;C&lt;/a&gt; &lt;a href=&#34;#D&#34;&gt;D&lt;/a&gt; &lt;a href=&#34;#E&#34;&gt;E&lt;/a&gt; &lt;a href=&#34;#F&#34;&gt;F&lt;/a&gt; &lt;a href=&#34;#G&#34;&gt;G&lt;/a&gt; &lt;a href=&#34;#H&#34;&gt;H&lt;/a&gt; &lt;a href=&#34;#I&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;#J&#34;&gt;J&lt;/a&gt; &lt;a href=&#34;#K&#34;&gt;K&lt;/a&gt; &lt;a href=&#34;#L&#34;&gt;L&lt;/a&gt; &lt;a href=&#34;#M&#34;&gt;M&lt;/a&gt; &lt;a href=&#34;#N&#34;&gt;N&lt;/a&gt; &lt;a href=&#34;#O&#34;&gt;O&lt;/a&gt; &lt;a href=&#34;#P&#34;&gt;P&lt;/a&gt; &lt;a href=&#34;#Q&#34;&gt;Q&lt;/a&gt; &lt;a href=&#34;#R&#34;&gt;R&lt;/a&gt; &lt;a href=&#34;#S&#34;&gt;S&lt;/a&gt; &lt;a href=&#34;#T&#34;&gt;T&lt;/a&gt; &lt;a href=&#34;#U&#34;&gt;U&lt;/a&gt; &lt;a href=&#34;#V&#34;&gt;V&lt;/a&gt; &lt;a href=&#34;#W&#34;&gt;W&lt;/a&gt; &lt;a href=&#34;#X&#34;&gt;X&lt;/a&gt; &lt;a href=&#34;#Y&#34;&gt;Y&lt;/a&gt; &lt;a href=&#34;#Z&#34;&gt;Z&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;DL&gt;
-&lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;ACDD
-  &lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
-&lt;DT&gt;ArcGIS&lt;DD&gt;A geographic information system (GIS) product from Esri.&lt;/p&gt;
+  &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;ACDD&lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
+  &lt;DT&gt;ANSI&lt;DD&gt;American National Standards Institute
+  &lt;DT&gt;ArcGIS&lt;DD&gt;A geographic information system (GIS) product from Esri.
+  &lt;DT&gt;ASCII&lt;DD&gt;American Standard Code for Information Interchange&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;B&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;B&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;&lt;a name=&#34;C&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;C&lt;/a&gt;&lt;DD&gt;
-&lt;DT&gt;Cartopy&lt;DD&gt;A library providing cartographic tools for Python.  A part of Scitools.
-&lt;DT&gt;CBIBS&lt;DD&gt;Chesapeake Bay Interpretive Buoy System
-&lt;DT&gt;CDF&lt;DD&gt; Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
-data in a platform- and discipline-independent way.&lt;br /&gt;
+  &lt;DT&gt;Cartopy&lt;DD&gt;A library providing cartographic tools for Python.  A part of Scitools.
+  &lt;DT&gt;CBIBS&lt;DD&gt;Chesapeake Bay Interpretive Buoy System
+  &lt;DT&gt;CDF&lt;DD&gt; Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.&lt;br /&gt;
   &lt;DT&gt;CDIP &lt;DD&gt;Coastal Data Information Program
   &lt;DT&gt;CDL&lt;DD&gt;Common Data Language (Unidata).  Text notation for netCDF objects and data.
   &lt;DT&gt;CF &lt;DD&gt;Climate and Forecast (CF)
@@ -125,18 +125,21 @@ providers to share data with each other and with end users.&lt;/p&gt;
 part of GSD  Information and Technology Services&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;E&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;E&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;EBCDIC&lt;DD&gt;Extended Binary Coded Decimal Interchange Code
   &lt;DT&gt;EMMA&lt;DD&gt;Enterprise Metadata Management Architecture
   &lt;DT&gt;ERDDAP &lt;DD&gt;Environmental Research Division&amp;rsquo;s Data Access Program
   &lt;DT&gt;Esri&lt;DD&gt;Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   &lt;DT&gt;ESRL&lt;DD&gt; Earth System Research Laboratory
-  &lt;DT&gt;&lt;a name=&#34;F&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;F&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;&lt;a name=&#34;G&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;G&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;F&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;F&lt;/a&gt;&lt;DD&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;G&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;G&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;GeoJSON&lt;DD&gt;GeoJSON is a JSON format for encoding a variety of geographic data structures.  &lt;a href=&#34;http://geojson.org/geojson-spec.html&#34;&gt;GeoJSON Specification&lt;/a&gt;
   &lt;DT&gt;GIS&lt;DD&gt;Geographic Information System
-  &lt;DT&gt;GrADS&lt;DD&gt;The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
-  &lt;DT&gt;GRIB&lt;DD&gt;GRIB (GRIdded Binary or General Regularly-distributed Information in Binary form[1]) is a concise data format commonly used in meteorology to store historical and forecast weather data.
+  &lt;DT&gt;GMT&lt;DD&gt;&lt;a href=&#34;hhtp://gmt.soest.hawaii.edu/&#34;&gt;Generic Mapping Tools&lt;/a&gt;
+  &lt;DT&gt;GrADS&lt;DD&gt;Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
+  &lt;DT&gt;GRIB&lt;DD&gt;GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data.
   &lt;DT&gt;GSD &lt;DD&gt;Global Systems Division (ESRL)
-  &lt;DT&gt;GTS &lt;DD&gt;The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers.&lt;/p&gt;
+  &lt;DT&gt;GTS &lt;DD&gt;The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;H&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;H&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;HDF&lt;DD&gt;Hierarchical Data Format version 4
@@ -250,9 +253,8 @@ space/time-varying phenomena.
 
 &lt;p&gt;&lt;/DL&gt;&lt;/p&gt;
 
-&lt;p&gt;Copyright reserved. CMDR.&lt;/p&gt;
-
 &lt;!--
+Copyright reserved. C.M. Duncombe Rae. 
 More terms 
 --&gt;
 

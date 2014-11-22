@@ -20,11 +20,8 @@
     </header>
 
 
-	{{ if not ( eq .Permalink "/glossary/index.html" ) }} 
+	{{ if ( eq .RelPermalink "/" ) }} 
 		{{ .Content }}
-		{{ if .IsNode }}
-			print hello
-		{{ end }}
 	{{end}}
 
     <footer>
