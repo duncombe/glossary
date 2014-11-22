@@ -10,17 +10,17 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 <DL>
-<DT><a name="A"></a><a href=#contents>A</a><DD> 
-  <DT>ACDD
-  <DD>Attribute Convention for Dataset Discovery (was UDDC)
-<DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
+  <DT><a name="A"></a><a href=#contents>A</a><DD> 
+  <DT>ACDD<DD>Attribute Convention for Dataset Discovery (was UDDC)
+  <DT>ANSI<DD>American National Standards Institute
+  <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
+  <DT>ASCII<DD>American Standard Code for Information Interchange
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
-<DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
-<DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
-<DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional
-data in a platform- and discipline-independent way.  
+  <DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
+  <DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
+  <DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
   <DT>CF <DD>Climate and Forecast (CF)
@@ -42,6 +42,7 @@ providers to share data with each other and with end users.
 part of GSD  Information and Technology Services 
 
   <DT><a name="E"></a><a href=#contents>E</a><DD>
+  <DT>EBCDIC<DD>Extended Binary Coded Decimal Interchange Code
   <DT>EMMA<DD>Enterprise Metadata Management Architecture
   <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
   <DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
