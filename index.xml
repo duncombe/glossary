@@ -101,7 +101,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 87 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 88 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -114,6 +114,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ACDD&lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
   &lt;DT&gt;ANSI&lt;DD&gt;American National Standards Institute
+  &lt;DT&gt;AOML&lt;DD&gt;Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   &lt;DT&gt;ArcGIS&lt;DD&gt;A geographic information system (GIS) product from Esri.
   &lt;DT&gt;ASCII&lt;DD&gt;American Standard Code for Information Interchange&lt;/p&gt;
 
