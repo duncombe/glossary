@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 87 data management terms.
+A glossary of 88 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -13,6 +13,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT><a name="A"></a><a href=#contents>A</a><DD> 
   <DT>ACDD<DD>Attribute Convention for Dataset Discovery (was UDDC)
   <DT>ANSI<DD>American National Standards Institute
+  <DT>AOML<DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   <DT>ASCII<DD>American Standard Code for Information Interchange
   
