@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 101 data management terms.
+A glossary of 102 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -15,19 +15,20 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ACT<DD>Alliance for Coastal Technologies
   <DT>ANSI<DD>American National Standards Institute
   <DT>AOML<DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
-<DT>AOOS<DD>Alaska Ocean Observing System 
+  <DT>AOOS<DD>Alaska Ocean Observing System 
   <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   <DT>ASCII<DD>American Standard Code for Information Interchange
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
-<DT>CaRA<DD>Caribbean Regional Association for Coastal Ocean Observing 
+  <DT>CaRA<DD>Caribbean Regional Association for Coastal Ocean Observing 
+  <DT>CarICOOS<DD>CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
   <DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
   <DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
   <DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
-<DT>CeNCOOS<DD>Central and Northern California Ocean Observing System 
+  <DT>CeNCOOS<DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
   <DT>COMT<DD>Coastal and Ocean Modeling Testbed
   <DT>COOL<DD>Coastal Ocean Observation Lab (Rutgers University)
@@ -41,9 +42,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>DODS <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data
 providers to share data with each other and with end users. 
 
-  <DT>DSG 
-  <DD><a href="http://www.esrl.noaa.gov/gsd/its/dsg/">Data Systems Group</a>,
-part of GSD  Information and Technology Services 
+  <DT>DSG<DD><a href="http://www.esrl.noaa.gov/gsd/its/dsg/">Data Systems Group</a>, part of GSD  Information and Technology Services 
 
   <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>EBCDIC<DD>Extended Binary Coded Decimal Interchange Code
@@ -57,8 +56,8 @@ part of GSD  Information and Technology Services
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
   <DT>GIS<DD>Geographic Information System
-<DT>GCOOS<DD>Gulf of Mexico Coastal Ocean Observing System 
-<DT>GLOS<DD>Great Lakes Observing System 
+  <DT>GCOOS<DD>Gulf of Mexico Coastal Ocean Observing System 
+  <DT>GLOS<DD>Great Lakes Observing System 
   <DT>GMT<DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GrADS<DD>Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
   <DT>GRIB<DD>GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data. 
