@@ -101,7 +101,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 84 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 87 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -147,7 +147,8 @@ part of GSD  Information and Technology Services&lt;/p&gt;
   &lt;DT&gt;ERDDAP &lt;DD&gt;Environmental Research Division&amp;rsquo;s Data Access Program
   &lt;DT&gt;Esri&lt;DD&gt;Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   &lt;DT&gt;ESRL&lt;DD&gt; Earth System Research Laboratory
-  &lt;DT&gt;&lt;a name=&#34;F&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;F&lt;/a&gt;&lt;DD&gt;&lt;/p&gt;
+  &lt;DT&gt;&lt;a name=&#34;F&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;F&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;FUSE&lt;DD&gt;Filesystem in Userspace&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;G&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;G&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;GeoJSON&lt;DD&gt;GeoJSON is a JSON format for encoding a variety of geographic data structures.  &lt;a href=&#34;http://geojson.org/geojson-spec.html&#34;&gt;GeoJSON Specification&lt;/a&gt;
@@ -171,9 +172,12 @@ part of GSD  Information and Technology Services&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;J&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;J&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;JSON&lt;DD&gt;JavaScript Object Notation
-  &lt;DT&gt;&lt;a name=&#34;K&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;K&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;&lt;a name=&#34;L&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;L&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;&lt;a name=&#34;M&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;M&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;&lt;a name=&#34;K&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;K&lt;/a&gt;&lt;DD&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;L&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;L&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;LAS&lt;DD&gt;Live Access Server&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;M&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;M&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;MMI
   &lt;DD&gt; Marine Metadata Interoperability.&lt;/p&gt;
 
@@ -211,6 +215,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.&lt;/p&
   &lt;DT&gt;OSC&lt;DD&gt; Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;P&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;P&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;PMEL&lt;DD&gt;Pacific Marine Environmental Laboratory (NOAA)
   &lt;DT&gt;PyDAP
   &lt;DD&gt;Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.&lt;/p&gt;
 
