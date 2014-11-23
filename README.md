@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 88 data management terms.
+A glossary of 101 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -12,18 +12,22 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 <DL>
   <DT><a name="A"></a><a href=#contents>A</a><DD> 
   <DT>ACDD<DD>Attribute Convention for Dataset Discovery (was UDDC)
+  <DT>ACT<DD>Alliance for Coastal Technologies
   <DT>ANSI<DD>American National Standards Institute
   <DT>AOML<DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
+<DT>AOOS<DD>Alaska Ocean Observing System 
   <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   <DT>ASCII<DD>American Standard Code for Information Interchange
   
   <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT><a name="C"></a><a href=#contents>C</a><DD>
+<DT>CaRA<DD>Caribbean Regional Association for Coastal Ocean Observing 
   <DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
   <DT>CBIBS<DD>Chesapeake Bay Interpretive Buoy System
   <DT>CDF<DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL<DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
+<DT>CeNCOOS<DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
   <DT>COMT<DD>Coastal and Ocean Modeling Testbed
   <DT>COOL<DD>Coastal Ocean Observation Lab (Rutgers University)
@@ -53,6 +57,8 @@ part of GSD  Information and Technology Services
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
   <DT>GIS<DD>Geographic Information System
+<DT>GCOOS<DD>Gulf of Mexico Coastal Ocean Observing System 
+<DT>GLOS<DD>Great Lakes Observing System 
   <DT>GMT<DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GrADS<DD>Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
   <DT>GRIB<DD>GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data. 
@@ -78,10 +84,12 @@ part of GSD  Information and Technology Services
   <DT>LAS<DD>Live Access Server
 
   <DT><a name="M"></a><a href=#contents>M</a><DD>
+<DT>MARACOOS<DD>Mid-Atlantic Coastal Ocean Observing System 
   <DT>MMI
   <DD> Marine Metadata Interoperability.
 
   <DT><a name="N"></a><a href=#contents>N</a><DD>
+<DT>NANOOS<DD>Northwest Association of Networked Ocean Observing Systems 
   <DT>NCAR <DD>National Center for Atmospheric Research
   <DT>NCEP <DD>National Centers for Environmental Prediction
 	<DT>ncISO<DD>Package of metadata services from NOAA/NGDC that
@@ -93,12 +101,10 @@ information if it has not already been documented.
   <DD>NcML is an XML representation of netCDF metadata.
   <DT>ncSOS
   <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
-  <DT>ncWMS 
-  <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
+  <DT>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
+<DT>NERACOOS<DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
   <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
-<DT>netCDF4<DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage
-layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited
-dimensions, compression, data chunking, parallel I/O, and other features.
+<DT>netCDF4<DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.
 
   <DT>NGDC <DD>National Geophysical Data Center (NOAA/NGDC) 
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
@@ -116,6 +122,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   
 
   <DT><a name="P"></a><a href=#contents>P</a><DD>
+<DT>PacIOOS<DD>Pacific Islands Ocean Observing System  
   <DT>PMEL<DD>Pacific Marine Environmental Laboratory (NOAA)
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
@@ -125,6 +132,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   <DT>QC<DD>Quality Control
 
   <DT><a name="R"></a><a href=#contents>R</a><DD>
+  <DT>RA<DD>Regional Association
   <DT>REST
   <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   <DT>RESTful
@@ -134,6 +142,8 @@ dimensions, compression, data chunking, parallel I/O, and other features.
 <DT>Scitools<DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python
 libraries initially created by the UK Met Office to enable the visualisation of
 weather and climate data. 
+<DT>SCCOOS<DD>Southern California Regional Coastal Ocean Observing System 
+<DT>SECOORA<DD>Southeast Coastal Ocean Observing Regional Association 
 <DT>SEED<DD>Standard for the Exchange of Earthquake Data
   <DT>SOS <DD>Sensor Observation Service
   <DT>SURA<DD>Southeastern Universities Research Association 
