@@ -47,6 +47,7 @@ part of GSD  Information and Technology Services
   <DT>Esri<DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   <DT>ESRL<DD> Earth System Research Laboratory
   <DT><a name="F"></a><a href=#contents>F</a><DD>
+  <DT>FUSE<DD>Filesystem in Userspace
   
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GeoJSON<DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
