@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 84 data management terms.
+A glossary of 87 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -72,7 +72,10 @@ part of GSD  Information and Technology Services
   <DT><a name="J"></a><a href=#contents>J</a><DD>
   <DT>JSON<DD>JavaScript Object Notation
   <DT><a name="K"></a><a href=#contents>K</a><DD>
+
   <DT><a name="L"></a><a href=#contents>L</a><DD>
+  <DT>LAS<DD>Live Access Server
+
   <DT><a name="M"></a><a href=#contents>M</a><DD>
   <DT>MMI
   <DD> Marine Metadata Interoperability.
@@ -112,6 +115,7 @@ dimensions, compression, data chunking, parallel I/O, and other features.
   
 
   <DT><a name="P"></a><a href=#contents>P</a><DD>
+  <DT>PMEL<DD>Pacific Marine Environmental Laboratory (NOAA)
   <DT>PyDAP
   <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
