@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 102 data management terms.
+A glossary of 103 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -10,7 +10,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 <DL>
-  <DT><a name="A"></a><a href=#contents>A</a><DD> 
+<DT><a name="A"></a><a href=#contents>A</a><DD> 
   <DT>ACDD<DD>Attribute Convention for Dataset Discovery (was UDDC)
   <DT>ACT<DD>Alliance for Coastal Technologies
   <DT>ANSI<DD>American National Standards Institute
@@ -19,8 +19,10 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   <DT>ASCII<DD>American Standard Code for Information Interchange
   
-  <DT><a name="B"></a><a href=#contents>B</a><DD>
-  <DT><a name="C"></a><a href=#contents>C</a><DD>
+<DT><a name="B"></a><a href=#contents>B</a><DD>
+  <DT>BOEM<DD>Bureau of Ocean Energy Management
+
+<DT><a name="C"></a><a href=#contents>C</a><DD>
   <DT>CaRA<DD>Caribbean Regional Association for Coastal Ocean Observing 
   <DT>CarICOOS<DD>CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
   <DT>Cartopy<DD>A library providing cartographic tools for Python.  A part of Scitools.
