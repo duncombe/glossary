@@ -30,7 +30,8 @@ fi
 # stupid Hugo.
 
 touch content/.gitkeep
-hugo 
 
-
+# Trouble with hugo version numbers.
+# Decide which hugo to run outside the script. 
+# hugo 
 
