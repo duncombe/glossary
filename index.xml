@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on ocean data acronyms </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://duncombe.github.io/index.xml</link>
+    <link>http://duncombe.github.io/glossary/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/about</link>
+      <link>http://duncombe.github.io/glossary/about/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/about</guid>
+      <guid>http://duncombe.github.io/glossary/about/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;About glossary&lt;/h1&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/website-install</link>
+      <link>http://duncombe.github.io/glossary/website-install/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/website-install</guid>
+      <guid>http://duncombe.github.io/glossary/website-install/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
@@ -93,15 +93,15 @@ git subtree push --prefix=public origin gh-pages
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/</link>
+      <link>http://duncombe.github.io/glossary/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/</guid>
+      <guid>http://duncombe.github.io/glossary/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 102 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 103 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -111,7 +111,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
 &lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;#A&#34;&gt;A&lt;/a&gt; &lt;a href=&#34;#B&#34;&gt;B&lt;/a&gt; &lt;a href=&#34;#C&#34;&gt;C&lt;/a&gt; &lt;a href=&#34;#D&#34;&gt;D&lt;/a&gt; &lt;a href=&#34;#E&#34;&gt;E&lt;/a&gt; &lt;a href=&#34;#F&#34;&gt;F&lt;/a&gt; &lt;a href=&#34;#G&#34;&gt;G&lt;/a&gt; &lt;a href=&#34;#H&#34;&gt;H&lt;/a&gt; &lt;a href=&#34;#I&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;#J&#34;&gt;J&lt;/a&gt; &lt;a href=&#34;#K&#34;&gt;K&lt;/a&gt; &lt;a href=&#34;#L&#34;&gt;L&lt;/a&gt; &lt;a href=&#34;#M&#34;&gt;M&lt;/a&gt; &lt;a href=&#34;#N&#34;&gt;N&lt;/a&gt; &lt;a href=&#34;#O&#34;&gt;O&lt;/a&gt; &lt;a href=&#34;#P&#34;&gt;P&lt;/a&gt; &lt;a href=&#34;#Q&#34;&gt;Q&lt;/a&gt; &lt;a href=&#34;#R&#34;&gt;R&lt;/a&gt; &lt;a href=&#34;#S&#34;&gt;S&lt;/a&gt; &lt;a href=&#34;#T&#34;&gt;T&lt;/a&gt; &lt;a href=&#34;#U&#34;&gt;U&lt;/a&gt; &lt;a href=&#34;#V&#34;&gt;V&lt;/a&gt; &lt;a href=&#34;#W&#34;&gt;W&lt;/a&gt; &lt;a href=&#34;#X&#34;&gt;X&lt;/a&gt; &lt;a href=&#34;#Y&#34;&gt;Y&lt;/a&gt; &lt;a href=&#34;#Z&#34;&gt;Z&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;DL&gt;
-  &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
+&lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ACDD&lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
   &lt;DT&gt;ACT&lt;DD&gt;Alliance for Coastal Technologies
   &lt;DT&gt;ANSI&lt;DD&gt;American National Standards Institute
@@ -121,7 +121,9 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   &lt;DT&gt;ASCII&lt;DD&gt;American Standard Code for Information Interchange&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;B&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;B&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;&lt;a name=&#34;C&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;C&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;BOEM&lt;DD&gt;Bureau of Ocean Energy Management&lt;/p&gt;
+
+&lt;p&gt;&lt;DT&gt;&lt;a name=&#34;C&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;C&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;CaRA&lt;DD&gt;Caribbean Regional Association for Coastal Ocean Observing
   &lt;DT&gt;CarICOOS&lt;DD&gt;CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
   &lt;DT&gt;Cartopy&lt;DD&gt;A library providing cartographic tools for Python.  A part of Scitools.
