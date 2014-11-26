@@ -1,95 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on ocean data acronyms </title>
+      <title>Abouts on ocean data acronyms </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/glossary/index.xml/</link>
+    <link>http://localhost:1313/glossary/about/index.xml/</link>
     <language>en-us</language>
     
     
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/glossary/docs/about/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/glossary/docs/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;About glossary&lt;/h1&gt;
-
-&lt;p&gt;Created over five months in 2014 while new and exciting terms were encountered.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/glossary/docs/website-install/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/glossary/docs/website-install/</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
-
-&lt;p&gt;The website relies on Hugo for creation and deployment.  The premise is to have
-the document appear in both the github readme.md and the website index.html.
-The way this is accomplished is to sym-link the README.md to index.md in the
-content subdir. Thus Hugo creates index.html in public, while the same document
-still appears in the github repository. Scripts like stats.sh need to be aware
-of the sym-link so that they preserve it and the relationship between the
-files.&lt;/p&gt;
-
-&lt;p&gt;It turns out that the above fix is problematic for GitHub if the symlink points
-to README.md from index.md. Having the link point the other way is a problem
-for hugo, but we fix that by making some changes in the scripts.&lt;/p&gt;
-
-&lt;p&gt;Automating the website build process is scary if it is all in one script. The
-update.sh script is now split into generate.sh which builds the new website,
-and update.sh, which runs does some commits and pushes the changes and pages up
-to GitHub.&lt;/p&gt;
-
-&lt;h1 id=&#34;toc_1&#34;&gt;Installing changes to the website&lt;/h1&gt;
-
-&lt;p&gt;After struggling to get &lt;code&gt;git subtree&lt;/code&gt; and &lt;code&gt;hugo&lt;/code&gt; to update gh-pages properly,
-this listing of commands seemed to work. Intend to turn it into a decent script.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# git status
-# git remote -v
-# git pull
-# this is a housekeeping item: the script counts the number of entries (using
-# the script stats.sh), changes number in the file and commits the changes to
-# the repository.
-./update.sh &amp;amp;&amp;amp; git push
-
-# git subtree pull --prefix=public 
-# git status
-
-# run hugo to build the website
-hugo
-# git status
-# add everything that changed
-git add -A -v
-git commit -m &amp;quot;Update website `date`&amp;quot;
-
-git push
-# git subtree pull --prefix=public 
-git subtree push --prefix=public origin gh-pages
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;With the new scripts, this becomes:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# edit the files, making changes
-
-./generate.sh
-./update.sh
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;!-- vi:se nowrap tw=0: --&gt;
-</description>
-    </item>
     
     <item>
       <title></title>
