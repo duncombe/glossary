@@ -34,4 +34,4 @@ touch content/.gitkeep
 # Trouble with hugo version numbers.
 # Decide which hugo to run outside the script. 
 # hugo 
-
+echo hugo has not been run
