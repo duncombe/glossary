@@ -33,7 +33,7 @@
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 105 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 106 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -50,7 +50,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   &lt;DT&gt;AOML&lt;DD&gt;Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   &lt;DT&gt;AOOS&lt;DD&gt;Alaska Ocean Observing System
   &lt;DT&gt;ArcGIS&lt;DD&gt;A geographic information system (GIS) product from Esri.
-  &lt;DT&gt;ASCII&lt;DD&gt;American Standard Code for Information Interchange&lt;/p&gt;
+  &lt;DT&gt;ASCII&lt;DD&gt;American Standard Code for Information Interchange
+  &lt;DT&gt;AWS&lt;DD&gt;Amazon Web Services&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;B&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;B&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;BOEM&lt;DD&gt;Bureau of Ocean Energy Management&lt;/p&gt;
@@ -68,8 +69,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   &lt;DT&gt;COMT&lt;DD&gt;Coastal and Ocean Modeling Testbed
   &lt;DT&gt;COOL&lt;DD&gt;Coastal Ocean Observation Lab (Rutgers University)
   &lt;DT&gt;CoRTAD&lt;DD&gt;Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
-  &lt;DT&gt;CSV
-  &lt;DD&gt;Comma Separated Values (sometimes CSV/TSV)
+  &lt;DT&gt;CSV &lt;DD&gt;Comma Separated Values (sometimes CSV/TSV)
   &lt;DT&gt;CSW &lt;DD&gt;Catalog Services for the Web. Service provided by OGC.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;D&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;D&lt;/a&gt;&lt;DD&gt;
