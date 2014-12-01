@@ -25,6 +25,5 @@ cp -a public/* $TEMPDIR
     git push 
 )
 
-
-
+rm -rf dummy $TEMPDIR
 
