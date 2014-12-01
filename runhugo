@@ -1,0 +1,19 @@
+#!/bin/bash
+# Usage: runhugo [11|12] [hugo-command] [hugo-options]
+# 
+
+HUGOBIN="hugo" 
+
+case ${1} in 
+	11|12)	HUGOBIN="hugo${1}" ; shift ;;
+esac 
+
+$HUGOBIN ${@}
+
+# the version will only be updated if hugo is not run in server mode
+
+HUGOVER=`$HUGOBIN version | awk '{print $NF}'`
+
+grep -rl "Created with Hugo.*DEFAULT" public/ |
+	xargs sed -i "/Created with Hugo.*DEFAULT/s/DEFAULT/$HUGOVER/" 
+
