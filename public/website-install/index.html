@@ -92,6 +92,11 @@ old <code>update.sh</code> script is now split into <code>generate.sh</code> whi
 and <code>update.sh</code>, which does some commits and pushes the changes and pages up
 to GitHub.</p>
 
+<p>There are issues with version numbers. Hugo versions 0.11 and 0.12 treat
+BaseUrl differently and generating under one or the other does not necessarily
+produce the same result when pushed to the website, although both may render
+correctly in the server mode.</p>
+
 <h1 id="toc_1">Installing changes to the website</h1>
 
 <p>After struggling to get <code>git subtree</code> and <code>hugo</code> to update gh-pages properly,
