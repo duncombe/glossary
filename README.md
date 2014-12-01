@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 103 data management terms.
+A glossary of 105 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -169,8 +169,9 @@ graphs, and maps from tabular datasets (for example, buoy data).
 <DT>URN<DD>uniform resource name
   
   <DT><a name="V"></a><a href=#contents>V</a><DD>
-  <DT>vocabulary<DD>This is a computer science term, not grammar. The same yet
-subtly different. From <a href="https://github.com/ioos/vocabularies">IOOS Vocabularies</a> README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
+  <DT>VM<DD>virtual machine
+  <DT>vocabulary<DD>This is a computer science term, not grammar. The same yet subtly different. From <a href="https://github.com/ioos/vocabularies">IOOS Vocabularies</a> README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
+  <DT>VPN<DD>Virtual Private Network
   
   <DT><a name="W"></a><a href=#contents>W</a><DD>
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web 
