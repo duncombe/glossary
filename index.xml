@@ -25,74 +25,6 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/website-install</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://duncombe.github.io/website-install</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
-
-&lt;p&gt;The website relies on Hugo for creation and deployment.  The premise is to have
-the document appear in both the github readme.md and the website index.html.
-The way this is accomplished is to sym-link the README.md to index.md in the
-content subdir. Thus Hugo creates index.html in public, while the same document
-still appears in the github repository. Scripts like stats.sh need to be aware
-of the sym-link so that they preserve it and the relationship between the
-files.&lt;/p&gt;
-
-&lt;p&gt;It turns out that the above fix is problematic for GitHub if the symlink points
-to README.md from index.md. Having the link point the other way is a problem
-for hugo, but we fix that by making some changes in the scripts.&lt;/p&gt;
-
-&lt;p&gt;Automating the website build process is scary if it is all in one script. The
-update.sh script is now split into generate.sh which builds the new website,
-and update.sh, which runs does some commits and pushes the changes and pages up
-to GitHub.&lt;/p&gt;
-
-&lt;h1 id=&#34;toc_1&#34;&gt;Installing changes to the website&lt;/h1&gt;
-
-&lt;p&gt;After struggling to get &lt;code&gt;git subtree&lt;/code&gt; and &lt;code&gt;hugo&lt;/code&gt; to update gh-pages properly,
-this listing of commands seemed to work. Intend to turn it into a decent script.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# git status
-# git remote -v
-# git pull
-# this is a housekeeping item: the script counts the number of entries (using
-# the script stats.sh), changes number in the file and commits the changes to
-# the repository.
-./update.sh &amp;amp;&amp;amp; git push
-
-# git subtree pull --prefix=public 
-# git status
-
-# run hugo to build the website
-hugo
-# git status
-# add everything that changed
-git add -A -v
-git commit -m &amp;quot;Update website `date`&amp;quot;
-
-git push
-# git subtree pull --prefix=public 
-git subtree push --prefix=public origin gh-pages
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;With the new scripts, this becomes:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# edit the files, making changes
-
-./generate.sh
-./update.sh
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;!-- vi:se nowrap tw=0: --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://duncombe.github.io/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
@@ -101,7 +33,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 103 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 105 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -269,8 +201,9 @@ graphs, and maps from tabular datasets (for example, buoy data).
 &lt;DT&gt;URN&lt;DD&gt;uniform resource name&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;V&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;V&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;vocabulary&lt;DD&gt;This is a computer science term, not grammar. The same yet
-subtly different. From &lt;a href=&#34;https://github.com/ioos/vocabularies&#34;&gt;IOOS Vocabularies&lt;/a&gt; README, &amp;ldquo;Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references.&amp;rdquo;&lt;/p&gt;
+  &lt;DT&gt;VM&lt;DD&gt;virtual machine
+  &lt;DT&gt;vocabulary&lt;DD&gt;This is a computer science term, not grammar. The same yet subtly different. From &lt;a href=&#34;https://github.com/ioos/vocabularies&#34;&gt;IOOS Vocabularies&lt;/a&gt; README, &amp;ldquo;Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references.&amp;rdquo;&lt;br /&gt;
+  &lt;DT&gt;VPN&lt;DD&gt;Virtual Private Network&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;W&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;W&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;WCS &lt;DD&gt;Web Coverage Service - The Open Geospatial Consortium Web
@@ -293,6 +226,79 @@ More terms
 --&gt;
 
 &lt;!-- vim:se nowrap tw=0 : --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://duncombe.github.io/website-install</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://duncombe.github.io/website-install</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
+
+&lt;p&gt;The website relies on Hugo for creation and deployment.  The premise is to have
+the document appear in both the github &lt;code&gt;README.md&lt;/code&gt; and the website
+&lt;code&gt;index.html&lt;/code&gt;.  The way this is accomplished is to sym-link the &lt;code&gt;README.md&lt;/code&gt; to
+&lt;code&gt;index.md&lt;/code&gt; in the content subdir. Thus Hugo creates &lt;code&gt;index.html&lt;/code&gt; in public,
+while the same document still appears in the github repository. Scripts like
+&lt;code&gt;stats.sh&lt;/code&gt; need to be aware of the sym-link so that they preserve it and the
+relationship between the files.&lt;/p&gt;
+
+&lt;p&gt;It turns out that the above fix is problematic for GitHub if the symlink points
+to &lt;code&gt;README.md&lt;/code&gt; from &lt;code&gt;index.md&lt;/code&gt;. Having the link point the other way is a
+problem for &lt;code&gt;hugo&lt;/code&gt;, but we fix that by making some changes in the scripts.&lt;/p&gt;
+
+&lt;p&gt;Automating the website build process is scary if it is all in one script. The
+old &lt;code&gt;update.sh&lt;/code&gt; script is now split into &lt;code&gt;generate.sh&lt;/code&gt; which builds the new website,
+and &lt;code&gt;update.sh&lt;/code&gt;, which does some commits and pushes the changes and pages up
+to GitHub.&lt;/p&gt;
+
+&lt;p&gt;There are issues with version numbers. Hugo versions 0.11 and 0.12 treat
+BaseUrl differently and generating under one or the other does not necessarily
+produce the same result when pushed to the website, although both may render
+correctly in the server mode.&lt;/p&gt;
+
+&lt;h1 id=&#34;toc_1&#34;&gt;Installing changes to the website&lt;/h1&gt;
+
+&lt;p&gt;After struggling to get &lt;code&gt;git subtree&lt;/code&gt; and &lt;code&gt;hugo&lt;/code&gt; to update gh-pages properly,
+this listing of commands seemed to work. Intend to turn it into a decent script.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# git status
+# git remote -v
+# git pull
+# this is a housekeeping item: the script counts the number of entries (using
+# the script stats.sh), changes number in the file and commits the changes to
+# the repository.
+./update.sh &amp;amp;&amp;amp; git push
+
+# git subtree pull --prefix=public 
+# git status
+
+# run hugo to build the website
+hugo
+# git status
+# add everything that changed
+git add -A -v
+git commit -m &amp;quot;Update website `date`&amp;quot;
+
+git push
+# git subtree pull --prefix=public 
+git subtree push --prefix=public origin gh-pages
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With the new scripts, this becomes:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# edit the files, making changes
+
+./generate.sh
+./update.sh
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!-- vi:se nowrap tw=0: --&gt;
 </description>
     </item>
     

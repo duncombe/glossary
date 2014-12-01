@@ -76,21 +76,26 @@
 <h1 id="toc_0">glossary structure and installation</h1>
 
 <p>The website relies on Hugo for creation and deployment.  The premise is to have
-the document appear in both the github readme.md and the website index.html.
-The way this is accomplished is to sym-link the README.md to index.md in the
-content subdir. Thus Hugo creates index.html in public, while the same document
-still appears in the github repository. Scripts like stats.sh need to be aware
-of the sym-link so that they preserve it and the relationship between the
-files.</p>
+the document appear in both the github <code>README.md</code> and the website
+<code>index.html</code>.  The way this is accomplished is to sym-link the <code>README.md</code> to
+<code>index.md</code> in the content subdir. Thus Hugo creates <code>index.html</code> in public,
+while the same document still appears in the github repository. Scripts like
+<code>stats.sh</code> need to be aware of the sym-link so that they preserve it and the
+relationship between the files.</p>
 
 <p>It turns out that the above fix is problematic for GitHub if the symlink points
-to README.md from index.md. Having the link point the other way is a problem
-for hugo, but we fix that by making some changes in the scripts.</p>
+to <code>README.md</code> from <code>index.md</code>. Having the link point the other way is a
+problem for <code>hugo</code>, but we fix that by making some changes in the scripts.</p>
 
 <p>Automating the website build process is scary if it is all in one script. The
-update.sh script is now split into generate.sh which builds the new website,
-and update.sh, which runs does some commits and pushes the changes and pages up
+old <code>update.sh</code> script is now split into <code>generate.sh</code> which builds the new website,
+and <code>update.sh</code>, which does some commits and pushes the changes and pages up
 to GitHub.</p>
+
+<p>There are issues with version numbers. Hugo versions 0.11 and 0.12 treat
+BaseUrl differently and generating under one or the other does not necessarily
+produce the same result when pushed to the website, although both may render
+correctly in the server mode.</p>
 
 <h1 id="toc_1">Installing changes to the website</h1>
 
