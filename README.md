@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 105 data management terms.
+A glossary of 106 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -18,6 +18,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>AOOS<DD>Alaska Ocean Observing System 
   <DT>ArcGIS<DD>A geographic information system (GIS) product from Esri.
   <DT>ASCII<DD>American Standard Code for Information Interchange
+  <DT>AWS<DD>Amazon Web Services
   
 <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT>BOEM<DD>Bureau of Ocean Energy Management
@@ -35,8 +36,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>COMT<DD>Coastal and Ocean Modeling Testbed
   <DT>COOL<DD>Coastal Ocean Observation Lab (Rutgers University)
   <DT>CoRTAD<DD>Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
-  <DT>CSV
-  <DD>Comma Separated Values (sometimes CSV/TSV)
+  <DT>CSV <DD>Comma Separated Values (sometimes CSV/TSV)
   <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
   
   <DT><a name="D"></a><a href=#contents>D</a><DD>
