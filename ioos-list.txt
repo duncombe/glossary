@@ -1,0 +1,639 @@
+
+3DVAR Three‐Dimensional Variational Data Assimilation 
+AABW  Antarctic Bottom Water 
+AAPA  American Association of Port Authorities
+AATAMS  Australian Animal Tagging and Monitoring System
+ABI Acoustic Backscatter Intensity 
+ABS Animal Borne Sensors
+ACC Antarctic Circumpolar Current
+ACO   ALOHA Cabled Observatory 
+ACOMO Australian Coastal and Ocean Modeling and Observing 
+ACT Alliance for Coastal Technologies
+ACTN  Atlantic Coastal Telemetry Network
+ADCIRC  Advanced Circulation Model
+ADCP  Acoustic Doppler Current Profiler
+AIS Automatic Identification System 
+ALPS  Autonomous and Lagrangian Platforms and Sensors 
+AMAPPS  Atlantic Marine Assessment Program for Protected Species
+AMG Autonomous Microbial Genosensor
+AMO   Atlantic Multidecadal Oscillation 
+AMOC  Atlantic Meridional Overturning Circulation
+AMP Autonomous Moored Profilers
+AOA Analysis of Alternatives
+AODN  Australian Ocean Data Network 
+AOML  Atlantic Oceanographic and Meteorological Laboratory
+AON Arctic Observing Network 
+AOOS  Alaska Ocean Observing System
+ARDAS Acoustic Receiver Data Acquisition System
+ASAP  Automated Shipboard Aerological Program 
+ATLAS Autonomous Temperature Line Acquisition System 
+ATN Animal Telemetry Observing Network
+AUV Autonomous Underwater Vehicles
+AVHRR Advanced Very High Resolution Radiometer
+AXCTD Aerial eXpendable Conductivity-Temperature-Depth 
+AZMP  Atlantic Zone Monitoring Program 
+BOB Basic Observation Buoy
+BOD Biological Observations Data 
+BOEM  Bureau of Ocean Energy Management
+BON Biodiversity Observation Network 
+BOP Build Out Plans
+CALCOFI NOAA Fisheries California Cooperative Oceanic Fisheries
+Investigations 
+CaRA  Caribbean Regional Association
+CBA Cost Benefit Analysis
+CBD Convention on Biological Diversity 
+CBOFS Chesapeake Bay Operational Forecast System 
+CCAN  California Current Acidification Network 
+CCAR  Colorado Center for Astrodynamics Research
+CCE California Current Ecosystem
+CCHDO Carbon Hydrographic Data Office 
+CCP Comprehensive Conservation Plan 
+CDC Centers for Disease Control and Prevention
+CDIAC Carbon Dioxide Information Analysis Center 
+CDIP  Coastal Data Information Program
+CDOM  Colored Dissolved Organic Matter
+CEFAS Centre for Environment, Fisheries and Aquaculture Science 
+CeNCOOS Central and Northern California Ocean Observing System
+CEOS  Committee on Earth Observation Satellites
+CF  Climate and Forecast Conventions
+CGN Coastal Scale Nodes 
+CGSN  Coastal and Global Scale Nodes 
+CI  Cyberinfrastructure 
+CIDA  U.S. Geological Survey’s Center for Integrated Data Analytics 
+CILER Cooperative Institute for Limnology and Ecosystems Research
+CIMSS Cooperative Institute for Meteorological Satellite Studies
+CIS Canadian Ice Service
+CLASS Comprehensive Large Array Stewardship System 
+CLIVAR  Climate Variability and Predictability Program
+C-MAN Coastal Marine Automated Network
+CMB Coastal Monitoring Buoy 
+CMD Continuously Managed Database 
+CMSER Commission on Marine Science, Engineering and Resources 
+CNMOC Commander Naval Meteorology and Oceanography Command
+CNO Chief of Naval Operations
+COAMPS  Coastal Ocean-Atmosphere Mesoscale Prediction System
+COD   NOAA Climate Observation Division
+CODAR Coastal Ocean Dynamic Applications Radar
+COL Consortium for Ocean Leadership
+CoML  Census of Marine Life
+COMPS Coastal Ocean Monitoring and Prediction System
+COMT  IOOS Coastal Ocean Modeling Testbed 
+CONOPS  Concept of Operations
+COOA  Coastal Ocean Observation and Analysis 
+COOL  Coastal Ocean Observation Lab
+CO-OPS  Center for Operational Oceanographic Products and Services 
+CORL  Consolidated Observations Requirements List (NOAA)
+COSEE Center for Ocean Sciences Education Excellence 
+COSEE-NOW COSEE Networked Ocean World
+COSEE-OS  COSEE Ocean Systems
+COTS  Commercial Off-the-Shelf
+COTS  Coastal Observation Technology System
+CPR Continuous Plankton Recorder 
+CRCP  NOAA Coral Reef Conservation Program 
+CSDL  Coast Survey Development Laboratory 
+CSIRO Australia's Commonwealth Scientific and Industrial Research
+Organisation 
+CSMI  Cooperative Science and Monitoring Initiative 
+CSR National Center for Secure and Resilient Maritime Commerce 
+CTD Conductivity-Temperature-Depth 
+CZCS  Coastal Zone Color Scanner
+D&F Determinations and Findings
+DA    Domoic Acid
+DAC Data Assembly Center
+DAM Data Analyses and Modeling
+DAP Data Access Protocol 
+DART  Deep-ocean Assessment and Reporting of Tsunami stations
+DEM Digital Elevation Models
+DIC Dissolved Inorganic Carbon 
+DIF Data Integration Framework
+DMAC  Data Management and Communications
+DMAC-ST Data Management and Communications Steering Team
+DO  Dissolved Oxygen
+DOC Department of Commerce
+DOD Department of Defense
+DOE Department of Energy
+DOI Digital Object Identifyers
+DOI Department of Interior
+DRGS  Direct Readout Ground Station 
+DWBC  Deep Western Boundary Current 
+DWH Deepwater Horizion/BP oil spill
+E&O Education and Outreach
+EA  Enterprise Architecture 
+EBA Ecosystem-Based Approache
+EBC Eastern Boundary Currents
+EBM Ecosystem Based Management
+eBOB  Elementary Basic Observation Buoy
+EBRM  Ecosystem-Based Resource Management 
+ECOHAB  Ecology and Oceanography of Harmful Algal Blooms
+ECV Essential Climate Variable
+EDS USCG Environmental Data Server 
+EEZ Exclusive Economic Zone
+EIS Environmental Impact Statements
+EMC Environmental Modeling Center
+eMOLT Environmental Monitors on Lobster Traps 
+ENGO  Environmental Non-Governmental Organization 
+ENSO  El Niño Southern Oscillation 
+EPA Environnemental Protection Agency
+EPE Education and Public Engagement 
+ERD Environmental Research Division
+ERDDAP  Environmental Research Division Data Access Program
+ERMA  Environmental Response Management Application
+ES  Expert System
+ESA Endangered Species Act
+ESIP  Gulf of Maine Council EcoSystem Indicator Partnership
+ESP Environmental Sample Processor
+ESSD  Earth System Science Data 
+ESSEA Earth System Science Education Alliance 
+EUC Equatorial Undercurrent
+FAC Federal Advisory Committee
+FACT  Florida Atlantic Coast Telemetry
+FADS  Fish Aggregating Devices
+FEMA  Federal Emergency Management Agency
+FGDC  Federal Geographic Data Committee
+FISH  Fluorescent In Situ Hybridization
+FLH Fluorescent Line Height 
+FMC Fully Mission Capable 
+FNMOC Fleet Numerical Meteorology and Oceanography Center
+FOARAM  Federal Ocean Acidification and Monitoring Act
+FOC Final Operating Capability (or Full Operational Capability)
+FOO Framework for Ocean Observing
+FOSTER-LIS  Ferry-based Observations for Science Targeting Estuarine
+Research - Long Island Sound
+FRD Functional Requirements Document
+FVCOM Finite Volume Ocean Model 
+FY  Fiscal Year
+G&S Goods and Services
+GCN   GLOSS Core Network
+GCN   Global Coastal Network
+GCOOS Gulf of Mexico Coastal Ocean Observing System
+GCOS  Global Climate Observing System
+GDAP  Global Data Assembly Center
+GDP Global Surface Drifter Program
+GDP Gross Domestic Product 
+GEO Group on Earth Observations
+GEO Geostationary Earth Orbits
+GEO-IDE Global Earth Observation–Integrated Data Environment
+GEOS  Global Earth Observation System
+GEOSS Global Earth Observation System of Systems
+GEWEX Global Energy and Water Exchanges 
+GHRSST  Group on High Resolution Sea Surface Temperature
+GIS Geographic Information System
+GLERL Great Lakes Environmental Research Lab 
+GLOBE Global Learning and Observations to Benefit the Environment
+GLOBEC  Global Ocean Ecosystem Dynamics
+GLOS  Great Lakes Observing System
+GLOS RA Great Lakes Observing System Regional Association
+GLOSS Global Sea Level Observing System (JCOMM)
+GLRI  Great Lakes Restoration Initiative  
+GMES  Global Monitoring for Environmental Security
+GMSL  Global Mean Sea Level
+GNOME General NOAA Operational Modeling Environment
+GO-CEPT Global Oceans Collaborative Expedition Planning Tool
+GODAE Global Ocean Data Assimilation Experiment
+GOES   Geostationary Operational Environmental Satellites
+GOMC  Gulf of Maine Council on the Marine Environment 
+GOMOOS  Gulf of Maine Ocean Observing System
+GOOS  Global Ocean Observing System
+GO-SHIP Global Ocean Ship-based Hydrographic Investigations Program 
+GOTS  Government Off-the-Shelf
+GPM Global Precipitation Measurement 
+GPRA  Government Performance and Results Act
+GRA GOOS-Regional Alliance
+GRACE Gravity Recovery And Climate Experiment
+GSAA  Governor’s South Atlantic Alliance 
+GSC GOOS - Steering Committee 
+GSSC  GOOS Scientific Steering Committee
+GTMBA Global Tropical Moored Buoy Array 
+GTOPP Global Tagging of Pelagic Predators
+GTOS  Global Terrestrial Observing System
+GTS Global Telecommunication System
+GTSPP Global Temperature and Salinity Profile Programme
+GUI Graphical User Interface
+HAB Harmful Algal Bloom
+HABHRCA   Harmful Algal Bloom and Hypoxia Research and Control Act
+HFIP  Hurricane Forecast Improvement Project
+HFR High Frequency Radar
+HLFR  High Level Functional Requirements
+HOT   Hawaii Ocean Time-series 
+HOTO  Health of the Ocean
+HPIES Horizontal Electric Field and Pressure Inverted Echo Sounder 
+HSI                 Hyperspectral Imager
+HSRP  Hydrographic Services Review Panel
+HSTP  Hydrographic Systems and Technology Program 
+HTTP  Hypertext Transfer Protocol
+HYCOM Hybrid Coordinate Ocean Model
+I&M Inventory and Monitoring 
+IAA Interagency Agreement 
+IAPSO International Association for the Physical Sciences of the Oceans
+IAS Intra-America Seas 
+ICES  International Council for the Exploration of the Sea
+ICOADS  International Comprehensive Ocean-Atmosphere Dataset
+ICOAOS  Integrated Coastal Ocean Acidification Observing System
+ICOOS Act Integrated Coastal Ocean Observing System Act 
+iCORDI  International Collaboration on Research Data Infrastructures
+ICOSRMI Interagency Committee on Ocean Science and Resource Management
+Integration
+ICSU  International Council for Science
+ICW Indian Central Water 
+IEA Integrated Ecosystem Assessment
+IEOS  Integrated Earth Observation System
+IGES  Institute for Global Environmental Strategies 
+IGLD  International Great Lakes Datum 
+I-GOOS  Intergovernmental Committee for the Global Ocean Observing System
+IGOS  Intergovernmental Global Observing Strategy
+IHO International Hydrographic Office 
+IIP International Ice Patrol
+IJC International Joint Commission
+IMBER Integrated Marine Biogeochemistry and Ecosystem Research
+IMO International Maritime Organization 
+IMON  Integrated Marine Observing Network 
+IMOS  Integrated Marine Observing System 
+IMP Inventory and Monitoring Plan 
+IndOOS  Indian Ocean Observing System 
+InSAR Synthetic Aperture Radar Interferometry
+INSTANT International Nusantara Stratification and Transport 
+IOC Intergovernmental Oceanographic Commission
+IOC Initial Operational Capability
+IOCCP International Ocean Carbon Coordination Project 
+IOCM  Integrated Ocean and Coastal Mapping
+IOCOS Comprehensive Integrated Ocean Carbon Observing System 
+IOD Indian Ocean Dipole/Zonal Mode
+IODE  International Oceanographic Data and Information Exchange 
+IOOC  Interagency Ocean Observing Committee
+IOOS  Integrated Ocean Observing System
+IPCC  Intergovernmental Panel on Climate Change
+IPET  Interagency Performance Evaluation Task 
+IPT Integrated Product Team
+IPY International Polar Year 
+ISO International Organization for Standardization
+ISS International Space Station
+ITF Indonesian Throughflow
+IWG-OP  Interagency Working Group – Ocean Partnership
+JAMSTEC Japan Agency for Marine-Earth Science and Technology
+JCOMM Joint Technical Commission for  Oceanographic and Marine Meteorology
+JCOMMOPS  JCOMM In Situ Observing Platform Support Centre 
+JCSDA Joint Center for Satellite Data Assimilation
+JERICO  Joint European Research Infrastructure Network for Coastal
+Observatories 
+JIMO  Joint Institute for Marine Observations
+JISAO Joint Institute for the Study of the Atmosphere and Ocean 
+JIWG  US-Canada Joint Ice Working Group 
+JOCI  Joint Ocean Commission Initiative
+J-PICO  Joint Panel for Integrated Coastal Observations
+JSOST Joint Subcommittee on Ocean Science and Technology
+KD  Extinction Coefficient
+KESS  Kuroshio Extension System Study 
+KUDOS Kintama Underlying Data Operations System
+LATEX Louisiana-Texas Shelf Physical Oceanography Program
+LIDAR Light Detection and Ranging Technologies
+LIS Long Island Sound
+LISICOS Long Island Sound Integrated Coastal Observing System
+LLO Large Lakes Observatory 
+LMR-ES  Living Marine Resources–Ecosystems Survey
+LMSL  Local Mean Sea Level 
+LOSLR Lake Ontario-St. Lawrence River Study 
+LRI Liquid Robotics Inc.
+LSCOP Large-Scale Carbon Observing Plan
+LTER  Long Term Ecological Research
+M&A Modeling and Analysis
+MAB Mid-Atlantic Bight 
+MABL  Marine Atmospheric Boundary Layer
+MACOORA Mid-Atlantic Coastal Ocean Observing Regional Association
+MADIS Meteorological Assimilation Data Ingest System 
+MAPCO2  Moored Autonomous pCO2 system
+MARACOOS  Mid-Atlantic Regional Association Coastal Ocean Observing System
+MARAD Maritime Administration 
+MARPOL  Marine Pollution treaties (IMO)
+MAS Modeling and Analysis Subsystems
+MAST  Modeling and Analysis Steering Team
+MBARI Monterey Bay Aquarium Research Institute
+MBC Mesopelagic Boundary Community 
+MBG Marine BioGeography data standard
+MCSST Multichannel Sea Surface Temperature 
+MDA Maritime Domain Awareness
+MEE Model Evaluation Environments 
+MERHAB  Monitoring and Event Response for Harmful Algal Bloom
+MHK Marine and Hydrokinetic 
+MHW Mean High Water
+MI  Michigan 
+MIPR  Military Interdepartmental Purchase Request
+MLLW  Mean Lower Low Water 
+MMC Marine Mammal Commission
+MMHSRP  Marine Mammal Health and Stranding Response Program
+MMI Marine Metadata Interoperability
+MMPA  Marine Mammal Protection Act  
+MMS Minerals Management Service
+MMS Master Metadata Management System
+MN  Minnesota
+MOB Management Oversight Board 
+MOC Meridional Overturning Circulation
+MOCHA Meridional Overturning Circulation Heat-Transport Array
+MODIS Moderate Resolution Imaging Spectrometer
+MODU  Mobile Drilling Units
+MOU Memorandum of Understanding
+MPA Marine Protected Area
+MPR Multi-Parameter Regressions 
+MSL Mean Sea Level 
+MSP Marine Spatial Planning 
+MSTN  Multi-Sensor Telemetry Nodes 
+MSU Michigan State University
+MTRI  Michigan Tech Research Institute 
+MVCO  Martha’s Vineyard Coastal Observatory
+NAIS  North American Ice Service
+NANOOS  Northwest Association of Networked Coastal Ocean Observing Systems
+NAO North Atlantic Oscillation
+NART  NOAA’s North Atlantic Regional Team
+NAS National Academy of Sciences
+NASA  National Aeronautics and Space Administration
+NASBA Nucleic Acid Sequence-Based Amplification
+NAVD88  North American Vertical Datum of 1988 
+NAVO  Naval Oceanographic Office
+NAVOCEANO Naval Oceanographic Office
+NAWQA   USCG National Water Quality Assessment 
+NB  National Backbone
+NCDC  National Climate Data Center 
+NCEP  National Centers for Environmental Prediction
+NCOM  Navy Coastal Ocean Model
+NDBC  National Data Buoy Center
+nDIC  Surface Dissolved Inorganic Carbon 
+NEBO  Northeast Benthic Observatory 
+NECC  North Equatorial Countercurrent 
+NeCODP  Northeast Coastal and Ocean Data Partnership
+NEO   NASA Earth Observations 
+NEOSEC  New England Ocean Science Education Collaborative
+NEP   National Estuaries Partnerships 
+NEPA  National Environmental Policy Act
+NERACOOS  North Eastern Regional Association of Coastal Ocean Observing
+Systems
+NERRS National Estuarine Research Reserve System
+NESDIS  National Environmental Satellite, Data, and Information
+NETC  Naval Education and Training Command
+NetCDF  Network Common Data Form 
+NEXRAD  Next-Generation Radar
+NFRA  National Federation of Regional Associations for Coastal and Ocean
+Observing 
+NGDC  NOAA's National Geophysical Data Center 
+NGO Nongovernmental Organizations
+NHC National Hurricane Center 
+NIC National Ice Center
+NIO Near Inertial Oscillations 
+NJDEP New Jersey Department of Environmental Protection
+NMFS  National Marine Fisheries Service 
+NMML  National Marine Mammal Laboratory
+NMP National Mesonet Program 
+NOAA  National Oceanic and Atmospheric Administration
+NODC  National Ocean Data Center
+NOEP  National Ocean Economics Program
+NOMAD Navy Oceanographic Meteorological Automatic Device
+NOPP  National Oceanographic Partnership Program
+NORLC National Ocean Research Leadership Council 
+NOS National Ocean Service
+NPP Suomi-National Polar Partnership 
+NRC National Research Council
+NREL  National Renewable Energy Laboratory
+NRL Naval Research Laboratory
+NRLSSC  Naval Research Laboratory - Stennis Space Center
+NROC  Northeast Regional Ocean Council 
+NRPC  Natural Resources Program Center
+NRT Near Real-Time
+NSF National Science Foundation
+NSIP  National Streamflow Information Program
+NSQAN National Stream Quality Accounting Network
+NSRS  National Spatial Reference System 
+NSTC  National Science and Technology Council
+NTDE  National Tidal Datum Epoch
+NTL Notice to Lessees
+NWLON National Water Level Observation Network
+NWP Numerical Weather Prediction
+NWQMN National Water Quality Monitoring Network
+NWR National Wildlife Refuge
+NWRC  National Wildlife Refuge Complex
+NWRS  National Wildlife Refuge System
+NWS National Weather Service
+NWSTG NWS Telecommunication Gateway
+NYHOPS  New York Harbor Observation and Prediction System 
+O&M Operations and Maintenance
+O&T Observations and Telemetry
+OA    Ocean Acidification 
+OAIS  Open Archival Information System
+OAP Ocean Acidification Program
+OAP Ocean Action Plan
+OBIS  Ocean Biogeographic Information System
+OCB Ocean Carbon and Biogeochemistry 
+OceanSITES  Ocean Sustained Interdisciplinary Time-series Environment
+observation System
+OCEH  Ocean and Coastal Ecosystem Health 
+OCI Office of Cyberinfrastructure 
+OCS Outer Continental Shelf
+OCSLA Outer Continental Shelf Lands Act
+ODIP  Ocean Data Interoperability Platform 
+ODIP  Ocean Data Interoperability Platform 
+OEL Ocean Engineering Laboratory
+OEM New York Office of Emergency Management 
+OEPM  Office of Education Performance Measurement
+OGC Open Geospatial Consortium
+OHHI  Oceans and Human Health Initiative
+OMZ Oxygen Minimum Zone
+ONR Office of Naval Research
+OOI Ocean Observatories Initiative
+OOPC  Ocean Observations Panel for Climate 
+OOPC  Ocean Observations Panel for Climate
+OOS Ocean Observing Systems 
+OOSC  Ocean Observing Science Committee (UNLOS)
+OPeNDAP Open Source Project for a Network Data Access Protocol
+OR&R  Office of Response and Restoration 
+ORAP  Ocean Research Advisory Panel 
+ORCA  Ocean Radar Conference for Asia
+OREP  Office of Renewable Energy Programs 
+ORION Ocean Research Interactive Observatory Networks
+ORRAP Ocean Research and Resources Advisory Panel (now ORAP)
+OSCAR Ocean Surface Current Analysis Real-time 
+OSE Observing System Evaluations 
+OSE Observing System Experiment
+OSMC  Observing System Monitoring Center
+OSRA  Oil Spill Risk Analysis
+OSRP  Oil Spill Response Plans 
+OSSE  Observing System Simulation Experiment
+OSTEP Ocean Systems Test and Evaluation Program 
+OSTP  Office of Science and Technology Policy 
+OSVW  Ocean Surface Vector Winds
+OTEC  Ocean Thermal Energy Conversion
+OTN Ocean Tracking Network 
+PA  Passive Acoustic
+PA  Pennsylvania
+PAC   OOI Program Advisory Committee 
+PacIOOS Pacific Islands Ocean Observing System
+PANGEA  Partnership for new GEOSS Applications 
+PANYNJ  Port Authority of New York and New Jersey
+PAR Photosynthetically Active Radiation
+PARC  Palmyra Atoll Research Consortium 
+PAWSA Ports and Waterways Safety Assessment 
+PBL Planetary Boundary Layer
+PDO Pacific Decadal Oscillation
+PFRP  Pelagic Fisheries Research Program
+PI  Principal Investigators
+PICCC Pacific Islands Climate Change Cooperative 
+PIFSC Pacific Islands Fisheries Science Center 
+PIRATA  Pacific, Prediction and Research Moored Array in the Tropical
+Atlantic 
+PIT Plastic Infusion Technology
+PLOCAN  Platforma Oceanica de Canarias  
+PMEL  Pacific Marine Environmental Laboratory 
+POES  Polar Operational Environmental Satellite
+PORTS Physical Oceanographic Real-Time System
+POST  Pacific Ocean Shelf Tracking
+PP  Primary Productivity
+PRIMNM  Pacific Remote Islands Marine National Monument 
+PSU Practical Salinity Units
+PSV Platform Supply Vessels 
+QA  Quality Assurance  
+QARTOD  Quality Assurance for Real-Time Oceanographic Data
+QC  Quality Control
+R&D Research and Development
+R2O Research to Operations
+R2R Rolling-Deck-To-Repository (NSF)
+RA  Regional Association
+RACDC Resource Assessment and Design Conditions
+RACOONS Regional Association Coordinators for Coastal Ocean Observing
+Networks
+RAMA  Research Moored Array for African-Asian-Australian Monsoon Analysis
+and Prediction 
+RCM RADARSAT Constellation Mission 
+RCOOS Regional Coastal Ocean Observing Systems
+RCT NOAA Regional Collaboration Team 
+RECON Real-time Coastal Observation Network
+RFID  Radio-Frequency Identification
+RICE  Regional Information Coordination Entity 
+ROFFS™ Roffer’s Ocean Fishing Forecasting Service, Inc. 
+ROM   Regional Ocean Model
+ROMS  Regional Ocean Modeling System
+ROV Remotely Operated Vehicle
+ROWG  Radiowave Operators Working Group 
+RSN Regional Scale Nodes 
+RTOFS Real-Time Ocean Forecast System
+RU  Rutgers University
+RU COOL Rutgers University Coastal Ocean Observation Lab 
+RUIMCS  Rutgers University Institute of Marine and Coastal Sciences 
+RV  Research Vessel
+S4  Super Computer for Satellite Simulation and Data Assimilation Studies
+SAFMC South Atlantic Fisheries Marine Council 
+SAIC  Science Applications International. Corporation
+SAMOS Shipboard Automated Meteorological and Oceanographic System
+SAON  Sustained Arctic Observing Network 
+SAR Search and Rescue
+SAR Synthetic Aperture Radar
+SAROPS  Search and Rescue Optimal Planning System
+SARR  South Asian Regional Reanalysis 
+SAWS  South African Weather Service 
+SBAs  Societal Benefit Areas
+SCCOOS  Southern California Coastal Ocean Observing System
+SCDHEC  South Carolina Department of Health and Environmental Control
+SCOR  Scientific Committee on Oceanic Research
+SCTR  Seychelles Chagos Thermocline Ridge 
+SDI Spatial Data Infrastructure
+SDR Subcommittee on Disaster Relief
+SDS Science Data Segment 
+SE  Standard Error
+SeaBASS SeaWiFS Bio-optical Archive and Storage System
+SEAMAP  NOAA Fisheries Southeast Area Monitoring and Assessment Program
+SEaOS Southern Elephant Seals as Oceanographic Samplers 
+SeaWiFS Sea-viewing Wide Field-of-view Sensor
+SECOORA Southeast Coastal Ocean Observing Regional Association
+SEI System Engineering and Integration
+SHA Sandwich Hybridization Assays
+SHC Strategic Habitat Conservation 
+SIF Submission Integration Form 
+SIMOR Subcommittee on Integrated Management of Ocean Resources
+SIO Scripps Institution of Oceanography 
+SLA Sea Level Anomalies
+SLDMB Self-Locating Datum Marker Buoy
+SLOSH Sea, Lake and Overland Surges from Hurricanes
+SMCCP Sentineal Monitoring for Climate Change in Long Island Sound Program 
+SMRU  Sea Mammal Research Unit
+SMZ Special Management Zones
+SOCAT Surface Ocean Carbon Atlas 
+SOLAS Safety of Life at Sea
+SOLEC State of the Lakes Ecosystem Conference 
+SOOP  Ship of Opportunity Program
+SOOS  Southern Ocean Observing System 
+SOP Standard Operating Procedure
+SOS Sensor Observation Service
+SOSUS U.S. Navy Sound Surveillance System 
+SOT Ship Observations Team (JCOMM)
+SPI Strategic Planning and Implementation team
+SRB Surface Radiation Budget  
+SRU Search and Rescue Units
+SSC Seacoast Science Center
+SSH Sea Surface Height
+SSS Sea Surface Salinity
+SST Sea Surface Temperature
+SSV Sea Surface Velocity
+STAR  Center fro Satellite Applications and Research
+STEM  Science, Technology, Engineering, and Mathematics
+STEWS Seismic-Tsunami Early Warning System 
+STPS  Short Term Prediction System statistical model
+SURA  Southeastern Universities Research Association
+SWAQ  Subcommittee on Water Availability and Quality
+SWE Sensor Web Enablement
+SWOT  Surface Water and Ocean Topography 
+TA  Total Alkalinity
+TAO   Tropical Atmosphere Ocean
+TAO/TRITON  Tropical Atmosphere Ocean/Triangle Trans-Ocean Buoy Network 
+TC  Tropical Cyclones
+TCOON Texas Coastal Ocean Observing Network 
+TCP/IP  Transmission Control Protocol / Internet Protocol
+TDS THREDDS Data Server
+TDWG  Trilateral Datums Working Group 
+THREDDS Thematic Real-time Environmental Distributed Data Services
+TIP Tropical Implementation Panel 
+TNC The Nature Conservancy 
+TOGA  Tropical Ocean Global Atmosphere 
+TOPP  Tagging of Pelagic Predators
+TPIO  Technology, Planning and Integration Office 
+TRITON  Triangle Trans Ocean Buoy Network
+TRL Technology Readiness Level
+TSG ThermoSalinoGraph
+TSS Total Suspended Sediment 
+UAF Unified Access Framework
+UAV Unmanned Aerial Vehicle
+U-GLOS  Upper Great Lakes Observing System 
+UMV Unmanned Maritime Vehicles 
+UNCLOS  United Nations Convention on the Law of the Sea 
+UNESCO  United Nations Educational, Scientific and Cultural Organization
+UNFCCC  United Nations Framework Convention on Climate Change 
+UNOLS University-National Oceanographic Laboratory System
+UOT Upper Ocean Thermal 
+USACE United States Army Corps of Engineers
+USCG  United States Coast Guard
+USCOP United States Commission on Ocean Policy
+USDOT United States Department of Transportation
+USFWS United States Fish and Wildlife Service
+USGS  United States Geological Survey
+USMC  United States Marine Corps
+USWRP United States Weather Research Program
+VD&T  Vessel Detection and Tracking
+VHF Very High Frequency
+VIIRS Visible Infrared Imaging Radiometer Suite
+VOS Voluntary Observing Ships 
+WBC Western Boundary Currents 
+WCOFS West Coast Operational Forecast System
+WCRP  World Climate Research Programme 
+WCS Web Coverage Services
+WERA  Wellen Radar
+WFO Weather Forecast Offices
+WFS Web Feature Service
+WFS West Florida Shelf 
+WGFAST  ICES Working Group on Fisheries Acoustics, Science and Technology 
+WGMS  Wave Glider Management System
+WMO World Meteorological Organization
+WMS Web Map Services
+WOC   World Ocean Council 
+WOCE  World Ocean Circulation 
+WOD World Ocean Database 
+WRA Wind Resource Areas
+WRC World Radio-communication Conference
+WSDE  Web Services and Data Encoding
+XBT Expendable Bathythermograph
+XML Extensible Markup Language
+XSEDE Extreme Science and Engineering Discovery Environment 
+
