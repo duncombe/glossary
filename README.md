@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 116 data management terms.
+A glossary of 119 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon. 
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html).
@@ -104,8 +104,10 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>ncSOS <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
   <DT>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   <DT>NERACOOS <DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
+  <DT>NESDIS <DD>National Environmental Satellite, Data, and Information Service
   <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
   <DT>netCDF4 <DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.  
+  <DT>NEXRAD <DD>Next Generation Weather Radar
   <DT>NGDC <DD>National Geophysical Data Center (NOAA/NGDC) 
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
   <DT>NODC <DD>National Oceanographic Data Center
@@ -142,6 +144,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>SECOORA <DD>Southeast Coastal Ocean Observing Regional Association 
   <DT>SEED <DD>Standard for the Exchange of Earthquake Data
   <DT>SOS <DD>Sensor Observation Service
+  <DT>STAR <DD>Center for Satellite Applications and Research (NOAA/NESDIS)
   <DT>SURA <DD>Southeastern Universities Research Association 
   
   <DT><a name="T"></a><a href=#contents>T</a><DD>
