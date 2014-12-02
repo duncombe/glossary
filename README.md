@@ -25,6 +25,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   
 <DT><a name="B"></a><a href=#contents>B</a><DD>
   <DT>BOEM <DD>Bureau of Ocean Energy Management
+  <DT>BON <DD>Biodiversity Observation Network
+  
 
 <DT><a name="C"></a><a href=#contents>C</a><DD>
   <DT>CaRA <DD>Caribbean Regional Association for Coastal Ocean Observing 
@@ -59,6 +61,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   
   <DT><a name="G"></a><a href=#contents>G</a><DD>
   <DT>GCOS <DD>Global Climate Observing System
+  <DT>GEO <DD>Group on Earth Observations 
   <DT>GeoJSON <DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
   <DT>GIS <DD>Geographic Information System
   <DT>GCOOS <DD>Gulf of Mexico Coastal Ocean Observing System 
