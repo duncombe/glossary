@@ -33,7 +33,7 @@
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 116 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 119 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are like-yet-not-like normal language, in another word, jargon.
 This is an attempt to make some sense of it for a relative newcomer. Some (most?) of these terms are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;.&lt;/p&gt;
@@ -137,8 +137,10 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   &lt;DT&gt;ncSOS &lt;DD&gt;NcSOS adds a OGC SOS service to your existing THREDDS server.
   &lt;DT&gt;ncWMS &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   &lt;DT&gt;NERACOOS &lt;DD&gt;Northeastern Regional Association of Coastal Ocean Observing Systems
+  &lt;DT&gt;NESDIS &lt;DD&gt;National Environmental Satellite, Data, and Information Service
   &lt;DT&gt;netCDF &lt;DD&gt;&lt;a href=&#34;http://www.unidata.ucar.edu/software/netcdf/&#34;&gt;Network Common Data Form&lt;/a&gt;
   &lt;DT&gt;netCDF4 &lt;DD&gt;Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.&lt;br /&gt;
+  &lt;DT&gt;NEXRAD &lt;DD&gt;Next Generation Weather Radar
   &lt;DT&gt;NGDC &lt;DD&gt;National Geophysical Data Center (NOAA/NGDC)
   &lt;DT&gt;NOAA &lt;DD&gt;National Oceanic and Atmospheric Administration
   &lt;DT&gt;NODC &lt;DD&gt;National Oceanographic Data Center
@@ -174,6 +176,7 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   &lt;DT&gt;SECOORA &lt;DD&gt;Southeast Coastal Ocean Observing Regional Association
   &lt;DT&gt;SEED &lt;DD&gt;Standard for the Exchange of Earthquake Data
   &lt;DT&gt;SOS &lt;DD&gt;Sensor Observation Service
+  &lt;DT&gt;STAR &lt;DD&gt;Center for Satellite Applications and Research (NOAA/NESDIS)
   &lt;DT&gt;SURA &lt;DD&gt;Southeastern Universities Research Association&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;T&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;T&lt;/a&gt;&lt;DD&gt;
