@@ -68,7 +68,8 @@ This is an attempt to make some sense of it for a relative newcomer. Some (most?
   <DT>GLOS <DD>Great Lakes Observing System 
   <DT>GMT <DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GODAE <DD>Global Ocean Data Assimilation Experiment
-  <DT>GrADS <DD>Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
+ <DT> GOOS <DD>   
+ <DT>GrADS <DD>Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
   <DT>GRIB <DD>GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data. 
   <DT>GSD <DD>Global Systems Division (ESRL)
   <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers
