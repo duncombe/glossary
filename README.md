@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 128 data management terms.
+A glossary of 130 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -105,6 +105,7 @@ which has 639 acronyms defined.
   <DT>NANOOS <DD>Northwest Association of Networked Ocean Observing Systems 
   <DT>NCAR <DD>National Center for Atmospheric Research
   <DT>NCEP <DD>National Centers for Environmental Prediction
+  <DT>NCEI <DD>National Center for Education Information
   <DT>ncISO <DD>Package of metadata services from NOAA/NGDC that provides NCML, ISO, and UDDC services. 
   <DT>NCML <DD> THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   <DT>NcML <DD>NcML is an XML representation of netCDF metadata.
@@ -126,6 +127,7 @@ which has 639 acronyms defined.
 
 <DT><a name="O"></a><a href=#contents>O</a><DD>
   <DT>O&M <DD>Operations and Maintenance
+  <DT>OAR <DD>Office of Oceanic and Atmospheric Research (NOAA)
   <DT>ODV <DD>[Ocean Data View](http://odv.awi.de/en/home/). A data visualization software. Also a spreadsheet style data format, used in the software.
   <DT>OGC <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI <DD> <a href="http://oceanobservatories.org/">Ocean Observatories Initiative</a>
