@@ -25,79 +25,6 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/website-install</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://duncombe.github.io/website-install</guid>
-      <description>
-
-&lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
-
-&lt;p&gt;The website relies on Hugo for creation and deployment.  The premise is to have
-the document appear in both the github &lt;code&gt;README.md&lt;/code&gt; and the website
-&lt;code&gt;index.html&lt;/code&gt;.  The way this is accomplished is to sym-link the &lt;code&gt;README.md&lt;/code&gt; to
-&lt;code&gt;index.md&lt;/code&gt; in the content subdir. Thus Hugo creates &lt;code&gt;index.html&lt;/code&gt; in public,
-while the same document still appears in the github repository. Scripts like
-&lt;code&gt;stats.sh&lt;/code&gt; need to be aware of the sym-link so that they preserve it and the
-relationship between the files.&lt;/p&gt;
-
-&lt;p&gt;It turns out that the above fix is problematic for GitHub if the symlink points
-to &lt;code&gt;README.md&lt;/code&gt; from &lt;code&gt;index.md&lt;/code&gt;. Having the link point the other way is a
-problem for &lt;code&gt;hugo&lt;/code&gt;, but we fix that by making some changes in the scripts.&lt;/p&gt;
-
-&lt;p&gt;Automating the website build process is scary if it is all in one script. The
-old &lt;code&gt;update.sh&lt;/code&gt; script is now split into &lt;code&gt;generate.sh&lt;/code&gt; which builds the new website,
-and &lt;code&gt;update.sh&lt;/code&gt;, which does some commits and pushes the changes and pages up
-to GitHub.&lt;/p&gt;
-
-&lt;p&gt;There are issues with version numbers. Hugo versions 0.11 and 0.12 treat
-BaseUrl differently and generating under one or the other does not necessarily
-produce the same result when pushed to the website, although both may render
-correctly in the server mode.&lt;/p&gt;
-
-&lt;h1 id=&#34;toc_1&#34;&gt;Installing changes to the website&lt;/h1&gt;
-
-&lt;p&gt;After struggling to get &lt;code&gt;git subtree&lt;/code&gt; and &lt;code&gt;hugo&lt;/code&gt; to update gh-pages properly,
-this listing of commands seemed to work. Intend to turn it into a decent script.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# git status
-# git remote -v
-# git pull
-# this is a housekeeping item: the script counts the number of entries (using
-# the script stats.sh), changes number in the file and commits the changes to
-# the repository.
-./update.sh &amp;amp;&amp;amp; git push
-
-# git subtree pull --prefix=public 
-# git status
-
-# run hugo to build the website
-hugo
-# git status
-# add everything that changed
-git add -A -v
-git commit -m &amp;quot;Update website `date`&amp;quot;
-
-git push
-# git subtree pull --prefix=public 
-git subtree push --prefix=public origin gh-pages
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;With the new scripts, this becomes:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# edit the files, making changes
-
-./generate.sh
-./update.sh
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;!-- vi:se nowrap tw=0: --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://duncombe.github.io/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
@@ -106,7 +33,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 128 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 130 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -211,6 +138,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;NANOOS &lt;DD&gt;Northwest Association of Networked Ocean Observing Systems
   &lt;DT&gt;NCAR &lt;DD&gt;National Center for Atmospheric Research
   &lt;DT&gt;NCEP &lt;DD&gt;National Centers for Environmental Prediction
+  &lt;DT&gt;NCEI &lt;DD&gt;National Center for Education Information
   &lt;DT&gt;ncISO &lt;DD&gt;Package of metadata services from NOAA/NGDC that provides NCML, ISO, and UDDC services.
   &lt;DT&gt;NCML &lt;DD&gt; THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   &lt;DT&gt;NcML &lt;DD&gt;NcML is an XML representation of netCDF metadata.
@@ -232,6 +160,7 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;O&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;O&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;O&amp;amp;M &lt;DD&gt;Operations and Maintenance
+  &lt;DT&gt;OAR &lt;DD&gt;Office of Oceanic and Atmospheric Research (NOAA)
   &lt;DT&gt;ODV &lt;DD&gt;&lt;a href=&#34;http://odv.awi.de/en/home/&#34;&gt;Ocean Data View&lt;/a&gt;. A data visualization software. Also a spreadsheet style data format, used in the software.
   &lt;DT&gt;OGC &lt;DD&gt;Open Geospatial Consortium, Inc. (OGC)
   &lt;DT&gt;OOI &lt;DD&gt; &lt;a href=&#34;http://oceanobservatories.org/&#34;&gt;Ocean Observatories Initiative&lt;/a&gt;
@@ -307,6 +236,79 @@ More terms
 --&gt;
 
 &lt;!-- vim:se nowrap tw=0 : --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://duncombe.github.io/website-install</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://duncombe.github.io/website-install</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
+
+&lt;p&gt;The website relies on Hugo for creation and deployment.  The premise is to have
+the document appear in both the github &lt;code&gt;README.md&lt;/code&gt; and the website
+&lt;code&gt;index.html&lt;/code&gt;.  The way this is accomplished is to sym-link the &lt;code&gt;README.md&lt;/code&gt; to
+&lt;code&gt;index.md&lt;/code&gt; in the content subdir. Thus Hugo creates &lt;code&gt;index.html&lt;/code&gt; in public,
+while the same document still appears in the github repository. Scripts like
+&lt;code&gt;stats.sh&lt;/code&gt; need to be aware of the sym-link so that they preserve it and the
+relationship between the files.&lt;/p&gt;
+
+&lt;p&gt;It turns out that the above fix is problematic for GitHub if the symlink points
+to &lt;code&gt;README.md&lt;/code&gt; from &lt;code&gt;index.md&lt;/code&gt;. Having the link point the other way is a
+problem for &lt;code&gt;hugo&lt;/code&gt;, but we fix that by making some changes in the scripts.&lt;/p&gt;
+
+&lt;p&gt;Automating the website build process is scary if it is all in one script. The
+old &lt;code&gt;update.sh&lt;/code&gt; script is now split into &lt;code&gt;generate.sh&lt;/code&gt; which builds the new website,
+and &lt;code&gt;update.sh&lt;/code&gt;, which does some commits and pushes the changes and pages up
+to GitHub.&lt;/p&gt;
+
+&lt;p&gt;There are issues with version numbers. Hugo versions 0.11 and 0.12 treat
+BaseUrl differently and generating under one or the other does not necessarily
+produce the same result when pushed to the website, although both may render
+correctly in the server mode.&lt;/p&gt;
+
+&lt;h1 id=&#34;toc_1&#34;&gt;Installing changes to the website&lt;/h1&gt;
+
+&lt;p&gt;After struggling to get &lt;code&gt;git subtree&lt;/code&gt; and &lt;code&gt;hugo&lt;/code&gt; to update gh-pages properly,
+this listing of commands seemed to work. Intend to turn it into a decent script.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# git status
+# git remote -v
+# git pull
+# this is a housekeeping item: the script counts the number of entries (using
+# the script stats.sh), changes number in the file and commits the changes to
+# the repository.
+./update.sh &amp;amp;&amp;amp; git push
+
+# git subtree pull --prefix=public 
+# git status
+
+# run hugo to build the website
+hugo
+# git status
+# add everything that changed
+git add -A -v
+git commit -m &amp;quot;Update website `date`&amp;quot;
+
+git push
+# git subtree pull --prefix=public 
+git subtree push --prefix=public origin gh-pages
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;With the new scripts, this becomes:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# edit the files, making changes
+
+./generate.sh
+./update.sh
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!-- vi:se nowrap tw=0: --&gt;
 </description>
     </item>
     
