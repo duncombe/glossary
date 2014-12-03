@@ -159,7 +159,7 @@ which has 639 acronyms defined.
   <DT>SOS <DD>Sensor Observation Service
   <DT>STAR <DD>Center for Satellite Applications and Research (NOAA/NESDIS)
   <DT>SURA <DD>Southeastern Universities Research Association 
-  <DT>SWE <DD>
+  <DT>SWE <DD>Sensor Web Enablement
 
 <DT><a name="T"></a><a href=#contents>T</a><DD>
   <DT>TableDAP <DD>Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets, graphs, and maps from tabular datasets (for example, buoy data). 
