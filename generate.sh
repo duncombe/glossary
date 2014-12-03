@@ -16,6 +16,8 @@ else
 	git commit -m "Updating ${num} files"
 fi
 
+git push
+
 # check if hugo is running
 if `ps xu | grep -v grep | grep hugo > /dev/null` ; then 
 	echo Hugo is running as a server. Kill the Hugo server then run hugo.
