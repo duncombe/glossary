@@ -1,7 +1,9 @@
 
 # this script pushes the regenerated website to github
 
-git add -A -v && git commit -m "Update website `date`" && git push
+git add -A -v &&
+  { echo added ; git commit -m "Update website `date`" ; } &&
+    { echo commited ; git push && echo pushed ; }
 
 # up to this part should work ... 
 # BUT THE NEXT PART DOESN'T ...

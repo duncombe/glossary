@@ -201,7 +201,6 @@ which has 639 acronyms defined.
 
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
-More terms 
 -->
 
 <!-- vim:se nowrap tw=0 : -->
