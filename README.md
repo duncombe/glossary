@@ -104,8 +104,8 @@ which has 639 acronyms defined.
 <DT><a name="N"></a><a href=#contents>N</a><DD>
   <DT>NANOOS <DD>Northwest Association of Networked Ocean Observing Systems 
   <DT>NCAR <DD>National Center for Atmospheric Research
+  <DT>NCEI <DD>National Center for Environmental Innovation; National Center for Education Information
   <DT>NCEP <DD>National Centers for Environmental Prediction
-  <DT>NCEI <DD>National Center for Education Information
   <DT>ncISO <DD>Package of metadata services from NOAA/NGDC that provides NCML, ISO, and UDDC services. 
   <DT>NCML <DD> THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   <DT>NcML <DD>NcML is an XML representation of netCDF metadata.
