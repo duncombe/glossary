@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 130 data management terms.
+A glossary of 131 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -20,9 +20,9 @@ which has 639 acronyms defined.
   <DT>AOML <DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   <DT>AOOS <DD>Alaska Ocean Observing System 
   <DT>ArcGIS <DD>A geographic information system (GIS) product from Esri.
-  <DT>Argo <DD>A global float array. [Argo](http://www.argo.ucsd.edu/About_Argo.html) is not an acronym.
-  <DT>Argos <DD>Satellite-based system which collects, processes and disseminates environmental data from fixed and mobile platforms since 1978. Not an acronym.
-  <DT>ARGOS <DD>Advanced Research and Global Observation Satellite. A US-DoD satellite in flight from 1999 - 2003.
+  <DT>Argo <DD>A global float array. <a href="http://www.argo.ucsd.edu/About_Argo.html">Argo</a> is not an acronym.
+  <DT>Argos <DD>Satellite-based system which collects, processes and disseminates environmental data from fixed and mobile platforms since 1978. Argos is not an acronym.
+  <DT>ARGOS <DD>Advanced Research and Global Observation Satellite. A US-DOD satellite in flight from 1999 - 2003.
   <DT>ASCII <DD>American Standard Code for Information Interchange
   <DT>AWS <DD>Amazon Web Services
 
@@ -48,6 +48,7 @@ which has 639 acronyms defined.
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
   <DT>DMAC <DD>Data Management and Communications
+  <DT>DOD<DD>Department of Defence (sometimes DoD).
   <DT>DODS <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data providers to share data with each other and with end users.  
   <DT>DSG <DD><a href="http://www.esrl.noaa.gov/gsd/its/dsg/">Data Systems Group</a>, part of GSD  Information and Technology Services 
 
