@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 131 data management terms.
+A glossary of 132 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -86,6 +86,7 @@ which has 639 acronyms defined.
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>IOOS <DD>Integrated Ocean Observing System
+  <DT>IPT <DD>Integrated Planning Team 
   <DT>IRIS <DD>Incorporated Research Institutions for Seismology
   <DT>Iris <DD><a href="http://scitools.org.uk/iris/">Iris</a> is a Python library for Meteorology and Climatology, a part of Scitools.
   <DT>ISO <DD>THREDDS service that provides an ISO 19115 metadata representation of data and metadata structure. Packaged with ncISO.
