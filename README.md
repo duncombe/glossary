@@ -55,7 +55,7 @@ which has 639 acronyms defined.
   <DT>EBCDIC <DD>Extended Binary Coded Decimal Interchange Code
   <DT>EMMA <DD>Enterprise Metadata Management Architecture
   <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
-  <DT>ERIS <DD>Earth Resources Inventory System; Earth Resources Infomation System
+  <DT>ERIS <DD>Earth Resources Inventory System; Earth Resources Information System
   <DT>Esri <DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
   <DT>ESRL <DD> Earth System Research Laboratory
 
