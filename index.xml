@@ -192,7 +192,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;SOS &lt;DD&gt;Sensor Observation Service
   &lt;DT&gt;STAR &lt;DD&gt;Center for Satellite Applications and Research (NOAA/NESDIS)
   &lt;DT&gt;SURA &lt;DD&gt;Southeastern Universities Research Association
-  &lt;DT&gt;SWE &lt;DD&gt;&lt;/p&gt;
+  &lt;DT&gt;SWE &lt;DD&gt;Sensor Web Enablement&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;T&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;T&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;TableDAP &lt;DD&gt;Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets, graphs, and maps from tabular datasets (for example, buoy data).
