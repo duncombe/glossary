@@ -1,9 +1,7 @@
 
 # this script pushes the regenerated website to github
 
-git add -A -v
-git commit -m "Update website `date`"
-git push
+git add -A -v && git commit -m "Update website `date`" && git push
 
 # up to this part should work ... 
 # BUT THE NEXT PART DOESN'T ...
@@ -14,15 +12,18 @@ git push
 # to user error (what else? it's always the dumb user). Fail safe method?
 
 TEMPDIR=`mktemp -d`
-git clone -b gh-pages ssh://git@github.com/duncombe/glossary.git $TEMPDIR
-rm -rf $TEMPDIR/*
-cp -a public/* $TEMPDIR
+git clone -b gh-pages ssh://git@github.com/duncombe/glossary.git $TEMPDIR ||
+  { echo failed to clone; exit 1 ; }
+rm -rf $TEMPDIR/* ||
+  { echo failed to clear old data ; exit 2 ; }
+cp -a public/* $TEMPDIR ||
+  { echo failed to copy website ; exit 3 ; }
 
 (
     cd $TEMPDIR
-    git add -v -A
-    git commit -m "Updating website `date`"
-    git push 
+    git add -v -A && 
+      git commit -m "Updating website `date`" &&
+        git push 
 )
 
 rm -rf dummy $TEMPDIR
