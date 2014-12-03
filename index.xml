@@ -33,7 +33,7 @@
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 130 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 131 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -54,8 +54,8 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;AOOS &lt;DD&gt;Alaska Ocean Observing System
   &lt;DT&gt;ArcGIS &lt;DD&gt;A geographic information system (GIS) product from Esri.
   &lt;DT&gt;Argo &lt;DD&gt;A global float array. &lt;a href=&#34;http://www.argo.ucsd.edu/About_Argo.html&#34;&gt;Argo&lt;/a&gt; is not an acronym.
-  &lt;DT&gt;Argos &lt;DD&gt;Satellite-based system which collects, processes and disseminates environmental data from fixed and mobile platforms since 1978. Not an acronym.
-  &lt;DT&gt;ARGOS &lt;DD&gt;Advanced Research and Global Observation Satellite. A US-DoD satellite in flight from 1999 - 2003.
+  &lt;DT&gt;Argos &lt;DD&gt;Satellite-based system which collects, processes and disseminates environmental data from fixed and mobile platforms since 1978. Argos is not an acronym.
+  &lt;DT&gt;ARGOS &lt;DD&gt;Advanced Research and Global Observation Satellite. A US-DOD satellite in flight from 1999 - 2003.
   &lt;DT&gt;ASCII &lt;DD&gt;American Standard Code for Information Interchange
   &lt;DT&gt;AWS &lt;DD&gt;Amazon Web Services&lt;/p&gt;
 
@@ -81,6 +81,7 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;D&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;D&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;DMAC &lt;DD&gt;Data Management and Communications
+  &lt;DT&gt;DOD&lt;DD&gt;Department of Defence (sometimes DoD).
   &lt;DT&gt;DODS &lt;DD&gt;Distributed Oceanographic Data Systems. &lt;a href=&#34;http://dods.ndbc.noaa.gov/&#34;&gt;DODS&lt;/a&gt; is a framework for data providers to share data with each other and with end users.&lt;br /&gt;
   &lt;DT&gt;DSG &lt;DD&gt;&lt;a href=&#34;http://www.esrl.noaa.gov/gsd/its/dsg/&#34;&gt;Data Systems Group&lt;/a&gt;, part of GSD  Information and Technology Services&lt;/p&gt;
 
