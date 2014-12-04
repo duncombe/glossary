@@ -106,7 +106,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 132 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 134 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -178,7 +178,8 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;GLOS &lt;DD&gt;Great Lakes Observing System
   &lt;DT&gt;GMT &lt;DD&gt;&lt;a href=&#34;hhtp://gmt.soest.hawaii.edu/&#34;&gt;Generic Mapping Tools&lt;/a&gt;
   &lt;DT&gt;GODAE &lt;DD&gt;Global Ocean Data Assimilation Experiment
-  &lt;DT&gt; GOOS &lt;DD&gt;  Global Ocean Observing System
+  &lt;DT&gt;GOOS &lt;DD&gt;Global Ocean Observing System
+  &lt;DT&gt;GO-SHIP &lt;DD&gt;Global Ocean Ship-based Hydrographic Investigations Program
   &lt;DT&gt;GrADS &lt;DD&gt;Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
   &lt;DT&gt;GRIB &lt;DD&gt;GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data.
   &lt;DT&gt;GSD &lt;DD&gt;Global Systems Division (ESRL)
@@ -191,6 +192,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;HDF5 &lt;DD&gt;Hierarchical Data Format version 5&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination Project
   &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
   &lt;DT&gt;IPT &lt;DD&gt;Integrated Planning Team
   &lt;DT&gt;IRIS &lt;DD&gt;Incorporated Research Institutions for Seismology
@@ -307,6 +309,8 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;!--
 Copyright reserved. C.M. Duncombe Rae. 
+More: 
+GEOSECS, TTO/SAVE, WOCE / JGOFS, and CLIVAR.  
 --&gt;
 
 &lt;!-- vim:se nowrap tw=0 : --&gt;
