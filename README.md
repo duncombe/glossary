@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 132 data management terms.
+A glossary of 134 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -72,7 +72,8 @@ which has 639 acronyms defined.
   <DT>GLOS <DD>Great Lakes Observing System 
   <DT>GMT <DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GODAE <DD>Global Ocean Data Assimilation Experiment
-  <DT> GOOS <DD>  Global Ocean Observing System
+  <DT>GOOS <DD>Global Ocean Observing System
+  <DT>GO-SHIP <DD>Global Ocean Ship-based Hydrographic Investigations Program 
   <DT>GrADS <DD>Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
   <DT>GRIB <DD>GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data. 
   <DT>GSD <DD>Global Systems Division (ESRL)
@@ -85,6 +86,7 @@ which has 639 acronyms defined.
   <DT>HDF5 <DD>Hierarchical Data Format version 5
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>IOCCP <DD>International Ocean Carbon Coordination Project
   <DT>IOOS <DD>Integrated Ocean Observing System
   <DT>IPT <DD>Integrated Planning Team 
   <DT>IRIS <DD>Incorporated Research Institutions for Seismology
@@ -202,6 +204,8 @@ which has 639 acronyms defined.
 
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
+More: 
+GEOSECS, TTO/SAVE, WOCE / JGOFS, and CLIVAR.  
 -->
 
 <!-- vim:se nowrap tw=0 : -->
