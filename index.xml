@@ -106,7 +106,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 134 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 135 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -249,6 +249,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;PacIOOS &lt;DD&gt;Pacific Islands Ocean Observing System&lt;br /&gt;
   &lt;DT&gt;PEA &lt;DD&gt;Programmatic Environmental Assessment
   &lt;DT&gt;PMEL &lt;DD&gt;Pacific Marine Environmental Laboratory (NOAA)
+  &lt;DT&gt;pyCSW &lt;DD&gt;Python Catalog Services for the Web (OGC)
   &lt;DT&gt;PyDAP &lt;DD&gt;Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;Q&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;Q&lt;/a&gt;&lt;DD&gt;
