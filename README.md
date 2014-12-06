@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 134 data management terms.
+A glossary of 135 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -143,6 +143,7 @@ which has 639 acronyms defined.
   <DT>PacIOOS <DD>Pacific Islands Ocean Observing System  
   <DT>PEA <DD>Programmatic Environmental Assessment
   <DT>PMEL <DD>Pacific Marine Environmental Laboratory (NOAA)
+  <DT>pyCSW <DD>Python Catalog Services for the Web (OGC)
   <DT>PyDAP <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
 <DT><a name="Q"></a><a href=#contents>Q</a><DD>
