@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 135 data management terms.
+A glossary of 137 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -86,6 +86,7 @@ which has 639 acronyms defined.
   <DT>HDF5 <DD>Hierarchical Data Format version 5
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>IOC <DD>Intergovernmental Oceanographic Commission
   <DT>IOCCP <DD>International Ocean Carbon Coordination Project
   <DT>IOOS <DD>Integrated Ocean Observing System
   <DT>IPT <DD>Integrated Planning Team 
@@ -176,6 +177,7 @@ which has 639 acronyms defined.
   <DT>UAF <DD>Unified Access Framework
   <DT>UCAR <DD>University Corporation for Atmospheric Research
   <DT>UDDC <DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library. 
+  <DT>UNESCO <DD>United Nations Educational, Scientific and Cultural Organization
   <DT>URI <DD>uniform resource identifier (comprises a URL and/or a URN).
   <DT>URL <DD>uniform resource locator
   <DT>URN <DD>uniform resource name
