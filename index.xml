@@ -106,7 +106,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 135 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 137 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -192,6 +192,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;HDF5 &lt;DD&gt;Hierarchical Data Format version 5&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;IOC &lt;DD&gt;Intergovernmental Oceanographic Commission
   &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination Project
   &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
   &lt;DT&gt;IPT &lt;DD&gt;Integrated Planning Team
@@ -282,6 +283,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;UAF &lt;DD&gt;Unified Access Framework
   &lt;DT&gt;UCAR &lt;DD&gt;University Corporation for Atmospheric Research
   &lt;DT&gt;UDDC &lt;DD&gt;Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library.
+  &lt;DT&gt;UNESCO &lt;DD&gt;United Nations Educational, Scientific and Cultural Organization
   &lt;DT&gt;URI &lt;DD&gt;uniform resource identifier (comprises a URL and/or a URN).
   &lt;DT&gt;URL &lt;DD&gt;uniform resource locator
   &lt;DT&gt;URN &lt;DD&gt;uniform resource name&lt;/p&gt;
