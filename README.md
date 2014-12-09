@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 134 data management terms.
+A glossary of 137 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -40,6 +40,7 @@ which has 639 acronyms defined.
   <DT>CDL <DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
   <DT>CeNCOOS <DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
+<!-- <DT>CMAS <DD>World Confederation of Underwater Activities -->
   <DT>COMT <DD>Coastal and Ocean Modeling Testbed
   <DT>COOL <DD>Coastal Ocean Observation Lab (Rutgers University)
   <DT>CoRTAD <DD>Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
@@ -86,6 +87,7 @@ which has 639 acronyms defined.
   <DT>HDF5 <DD>Hierarchical Data Format version 5
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>IOC <DD>Intergovernmental Oceanographic Commission
   <DT>IOCCP <DD>International Ocean Carbon Coordination Project
   <DT>IOOS <DD>Integrated Ocean Observing System
   <DT>IPT <DD>Integrated Planning Team 
@@ -144,6 +146,7 @@ which has 639 acronyms defined.
   <DT>PacIOOS <DD>Pacific Islands Ocean Observing System  
   <DT>PEA <DD>Programmatic Environmental Assessment
   <DT>PMEL <DD>Pacific Marine Environmental Laboratory (NOAA)
+  <DT>pyCSW <DD>[Python Catalog Services for the Web](http://pycsw.org) (OGC)
   <DT>PyDAP <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
 <DT><a name="Q"></a><a href=#contents>Q</a><DD>
@@ -176,6 +179,7 @@ which has 639 acronyms defined.
   <DT>UAF <DD>Unified Access Framework
   <DT>UCAR <DD>University Corporation for Atmospheric Research
   <DT>UDDC <DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library. 
+  <DT>UNESCO <DD>United Nations Educational, Scientific and Cultural Organization
   <DT>URI <DD>uniform resource identifier (comprises a URL and/or a URN).
   <DT>URL <DD>uniform resource locator
   <DT>URN <DD>uniform resource name
