@@ -121,6 +121,7 @@ which has 639 acronyms defined.
   <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
   <DT>netCDF4 <DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.  
   <DT>NEXRAD <DD>Next Generation Weather Radar
+  <DT>NGDAC <DD>National Glider Data Assembly Center
   <DT>NGDC <DD>National Geophysical Data Center (NOAA/NGDC) 
   <DT>NMFS  <DD>National Marine Fisheries Service 
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
