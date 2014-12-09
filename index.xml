@@ -146,6 +146,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;CDL &lt;DD&gt;Common Data Language (Unidata).  Text notation for netCDF objects and data.
   &lt;DT&gt;CeNCOOS &lt;DD&gt;Central and Northern California Ocean Observing System
   &lt;DT&gt;CF &lt;DD&gt;Climate and Forecast (CF)
+&amp;lt;!&amp;ndash; &lt;DT&gt;CMAS &lt;DD&gt;World Confederation of Underwater Activities &amp;ndash;&amp;gt;
   &lt;DT&gt;COMT &lt;DD&gt;Coastal and Ocean Modeling Testbed
   &lt;DT&gt;COOL &lt;DD&gt;Coastal Ocean Observation Lab (Rutgers University)
   &lt;DT&gt;CoRTAD &lt;DD&gt;Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
@@ -228,6 +229,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;netCDF &lt;DD&gt;&lt;a href=&#34;http://www.unidata.ucar.edu/software/netcdf/&#34;&gt;Network Common Data Form&lt;/a&gt;
   &lt;DT&gt;netCDF4 &lt;DD&gt;Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.&lt;br /&gt;
   &lt;DT&gt;NEXRAD &lt;DD&gt;Next Generation Weather Radar
+  &lt;DT&gt;NGDAC &lt;DD&gt;National Glider Data Assembly Center
   &lt;DT&gt;NGDC &lt;DD&gt;National Geophysical Data Center (NOAA/NGDC)
   &lt;DT&gt;NMFS  &lt;DD&gt;National Marine Fisheries Service
   &lt;DT&gt;NOAA &lt;DD&gt;National Oceanic and Atmospheric Administration
@@ -250,7 +252,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;PacIOOS &lt;DD&gt;Pacific Islands Ocean Observing System&lt;br /&gt;
   &lt;DT&gt;PEA &lt;DD&gt;Programmatic Environmental Assessment
   &lt;DT&gt;PMEL &lt;DD&gt;Pacific Marine Environmental Laboratory (NOAA)
-  &lt;DT&gt;pyCSW &lt;DD&gt;Python Catalog Services for the Web (OGC)
+  &lt;DT&gt;pyCSW &lt;DD&gt;&lt;a href=&#34;http://pycsw.org&#34;&gt;Python Catalog Services for the Web&lt;/a&gt; (OGC)
   &lt;DT&gt;PyDAP &lt;DD&gt;Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;Q&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;Q&lt;/a&gt;&lt;DD&gt;
