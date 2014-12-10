@@ -157,6 +157,7 @@ which has 639 acronyms defined.
   <DT>RA <DD>Regional Association
   <DT>REST <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   <DT>RESTful <DD>A descriptor or link that conforms with REST concept.
+  <DT>RFB <DD>Remote Frame Buffer
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
@@ -186,6 +187,7 @@ which has 639 acronyms defined.
 
 <DT><a name="V"></a><a href=#contents>V</a><DD>
   <DT>VM <DD>virtual machine
+  <DT>VNC <DD>Virtual Network Computing
   <DT>vocabulary <DD>This is a computer science term, not grammar. The same yet subtly different. From <a href="https://github.com/ioos/vocabularies">IOOS Vocabularies</a> README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   <DT>VPN <DD>Virtual Private Network
 
