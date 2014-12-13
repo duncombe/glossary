@@ -40,6 +40,7 @@ which has 639 acronyms defined.
   <DT>CDL <DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
   <DT>CeNCOOS <DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
+  <DT>CKAN <DD> Comprehensive Knowledge Archive Network 
 <!-- <DT>CMAS <DD>World Confederation of Underwater Activities -->
   <DT>COMT <DD>Coastal and Ocean Modeling Testbed
   <DT>COOL <DD>Coastal Ocean Observation Lab (Rutgers University)
@@ -48,6 +49,7 @@ which has 639 acronyms defined.
   <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
+  <DT>DAS <DD>Dataset Attribute Structure (as file extension .das)
   <DT>DMAC <DD>Data Management and Communications
   <DT>DOD<DD>Department of Defence (sometimes DoD).
   <DT>DODS <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data providers to share data with each other and with end users.  
@@ -123,6 +125,7 @@ which has 639 acronyms defined.
   <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
   <DT>netCDF4 <DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.  
   <DT>NEXRAD <DD>Next Generation Weather Radar
+  <DT>NGDAC <DD>National Glider Data Assembly Center
   <DT>NGDC <DD>National Geophysical Data Center (NOAA/NGDC) 
   <DT>NMFS  <DD>National Marine Fisheries Service 
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
@@ -146,7 +149,7 @@ which has 639 acronyms defined.
   <DT>PacIOOS <DD>Pacific Islands Ocean Observing System  
   <DT>PEA <DD>Programmatic Environmental Assessment
   <DT>PMEL <DD>Pacific Marine Environmental Laboratory (NOAA)
-  <DT>pyCSW <DD>Python Catalog Services for the Web (OGC)
+  <DT>pyCSW <DD>[Python Catalog Services for the Web](http://pycsw.org) (OGC)
   <DT>PyDAP <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
 <DT><a name="Q"></a><a href=#contents>Q</a><DD>
@@ -157,6 +160,7 @@ which has 639 acronyms defined.
   <DT>RA <DD>Regional Association
   <DT>REST <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   <DT>RESTful <DD>A descriptor or link that conforms with REST concept.
+  <DT>RFB <DD>Remote Frame Buffer
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
@@ -186,6 +190,7 @@ which has 639 acronyms defined.
 
 <DT><a name="V"></a><a href=#contents>V</a><DD>
   <DT>VM <DD>virtual machine
+  <DT>VNC <DD>Virtual Network Computing
   <DT>vocabulary <DD>This is a computer science term, not grammar. The same yet subtly different. From <a href="https://github.com/ioos/vocabularies">IOOS Vocabularies</a> README, "Controlled vocabularies clarify the meaning of common concepts and enable more interoperable data systems through more precise definitions and machine readable online references."  
   <DT>VPN <DD>Virtual Private Network
 
