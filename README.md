@@ -143,7 +143,7 @@ which has 639 acronyms defined.
   <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OPeNDAP organization</a> has developed. 
   <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
   <DT>OSC <DD> Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
-  <DT>OWSLib <DD>Open Geospatial Consortium (OGC) Web Service python package
+  <DT>OWSLib <DD>Open Geospatial Consortium (OGC) Web Service Library,  a python package
 
 <DT><a name="P"></a><a href=#contents>P</a><DD>
   <DT>PacIOOS <DD>Pacific Islands Ocean Observing System  
