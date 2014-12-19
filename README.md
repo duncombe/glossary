@@ -181,7 +181,7 @@ which has 639 acronyms defined.
   <DT>TSV <DD>Tab Separated Values (CSV/TSV)
 
 <DT><a name="U"></a><a href=#contents>U</a><DD>
-  <DT>UAF <DD>Unified Access Framework    
+  <DT>UAF <DD>Unified Access Framework <p>
   University of Alaska, Fairbanks
   <DT>UCAR <DD>University Corporation for Atmospheric Research
   <DT>UDDC <DD>Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library. 
