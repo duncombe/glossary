@@ -58,6 +58,7 @@ which has 639 acronyms defined.
 <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>EBCDIC <DD>Extended Binary Coded Decimal Interchange Code
   <DT>EMMA <DD>Enterprise Metadata Management Architecture
+  <DT>EMODnet <DD>European Marine Observation and Data Network
   <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
   <DT>ERIS <DD>Earth Resources Inventory System; Earth Resources Information System
   <DT>Esri <DD>Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
