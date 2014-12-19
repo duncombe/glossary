@@ -91,6 +91,7 @@ which has 639 acronyms defined.&lt;/p&gt;
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;E&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;E&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;EBCDIC &lt;DD&gt;Extended Binary Coded Decimal Interchange Code
   &lt;DT&gt;EMMA &lt;DD&gt;Enterprise Metadata Management Architecture
+  &lt;DT&gt;EMODnet &lt;DD&gt;European Marine Observation and Data Network
   &lt;DT&gt;ERDDAP &lt;DD&gt;Environmental Research Division&amp;rsquo;s Data Access Program
   &lt;DT&gt;ERIS &lt;DD&gt;Earth Resources Inventory System; Earth Resources Information System
   &lt;DT&gt;Esri &lt;DD&gt;Environmental Systems Research Institute, Inc. Environmental research company, developers of ArcGIS
@@ -175,7 +176,8 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;OOI &lt;DD&gt; &lt;a href=&#34;http://oceanobservatories.org/&#34;&gt;Ocean Observatories Initiative&lt;/a&gt;
   &lt;DT&gt;OPeNDAP &lt;DD&gt;Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the &lt;a href=&#34;http://www.opendap.org/about&#34;&gt;OPeNDAP organization&lt;/a&gt; has developed.
   &lt;DT&gt;ORR &lt;DD&gt; &lt;a href=&#34;http://mmisw.org&#34;&gt;Ontology Registry and Repository&lt;/a&gt; of MMI
-  &lt;DT&gt;OSC &lt;DD&gt; Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)&lt;/p&gt;
+  &lt;DT&gt;OSC &lt;DD&gt; Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
+  &lt;DT&gt;OWSLib &lt;DD&gt;Open Geospatial Consortium (OGC) Web Service Library,  a python package&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;P&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;P&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;PacIOOS &lt;DD&gt;Pacific Islands Ocean Observing System&lt;br /&gt;
