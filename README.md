@@ -18,6 +18,7 @@ which has 639 acronyms defined.
   <DT>ACDD <DD>Attribute Convention for Dataset Discovery (was UDDC)
   <DT>ACT <DD>Alliance for Coastal Technologies
   <DT>ANSI <DD>American National Standards Institute
+  <DT>ADCP <DD>Acoustic Doppler Current Profiler
   <DT>AOML <DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   <DT>AOOS <DD>Alaska Ocean Observing System 
   <DT>ArcGIS <DD>A geographic information system (GIS) product from Esri.
