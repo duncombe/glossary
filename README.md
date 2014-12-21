@@ -103,6 +103,7 @@ which has 639 acronyms defined.
   <DT>ISO <DD>THREDDS service that provides an ISO 19115 metadata representation of data and metadata structure. Packaged with ncISO.
 
 <DT><a name="J"></a><a href=#contents>J</a><DD>
+  <DT>JGOFS<DD>Joint Global Ocean Flux Study
   <DT>JSON <DD>JavaScript Object Notation
 
 <DT><a name="K"></a><a href=#contents>K</a><DD>
@@ -221,8 +222,9 @@ which has 639 acronyms defined.
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
 More: 
-GEOSECS, TTO/SAVE, WOCE / JGOFS, and CLIVAR.  
+GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
 -->
 
 <!-- vim:se nowrap tw=0 : -->
+
 
