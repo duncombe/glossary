@@ -151,7 +151,8 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;!-- &lt;DT&gt;CMAS &lt;DD&gt;World Confederation of Underwater Activities --&gt;
 
-&lt;p&gt;&lt;DT&gt;COMT &lt;DD&gt;Coastal and Ocean Modeling Testbed
+&lt;p&gt;&lt;DT&gt;CODATA&lt;DD&gt;Committee on Data for Science and Technology (ICSU)
+  &lt;DT&gt;COMT &lt;DD&gt;Coastal and Ocean Modeling Testbed
   &lt;DT&gt;COOL &lt;DD&gt;Coastal Ocean Observation Lab (Rutgers University)
   &lt;DT&gt;CoRTAD &lt;DD&gt;Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   &lt;DT&gt;CSV &lt;DD&gt;Comma Separated Values (sometimes CSV/TSV)
@@ -199,6 +200,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;HDF5 &lt;DD&gt;Hierarchical Data Format version 5&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science
   &lt;DT&gt;IOC &lt;DD&gt;Intergovernmental Oceanographic Commission
   &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination Project
   &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
