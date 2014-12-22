@@ -46,6 +46,7 @@ which has 639 acronyms defined.
 
 <!-- <DT>CMAS <DD>World Confederation of Underwater Activities -->
 
+  <DT>CODATA<DD>Committee on Data for Science and Technology (ICSU)
   <DT>COMT <DD>Coastal and Ocean Modeling Testbed
   <DT>COOL <DD>Coastal Ocean Observation Lab (Rutgers University)
   <DT>CoRTAD <DD>Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
@@ -94,6 +95,7 @@ which has 639 acronyms defined.
   <DT>HDF5 <DD>Hierarchical Data Format version 5
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>ICSU <DD> International Council for Science
   <DT>IOC <DD>Intergovernmental Oceanographic Commission
   <DT>IOCCP <DD>International Ocean Carbon Coordination Project
   <DT>IOOS <DD>Integrated Ocean Observing System
