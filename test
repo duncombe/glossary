@@ -1,6 +1,0 @@
-
-if ! git status --porcelain -b | grep \#\# | grep master > /dev/null ; then
-  echo not on master
-else
-  echo on master
-fi
