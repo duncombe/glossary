@@ -19,7 +19,7 @@
 if ! git status --porcelain -b | grep \#\# | grep master > /dev/null ; then
   echo You are not on master branch and about to push to gh-pages.
   YN=N
-  readline -p "Continue to publish to the website, despite being on a side branch? (y/N) " YN
+  read -p "Continue to publish to the website, despite being on a side branch? (y/N) " YN
   [ "$YN" != "y" -a "$YN" != "Y" ] && exit 1
 
 fi
