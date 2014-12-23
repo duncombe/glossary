@@ -13,6 +13,11 @@
 # It flakes out periodically for dumb stupid unknown reason, probably due
 # to user error (what else? it's always the dumb user). Fail safe method?
 
+# if we are working on a branch we may not want to  update gh-pages. Get
+# confirmation.
+
+if git status --porcelain -b | grep \#\# | grep master ; 
+
 TEMPDIR=`mktemp -d`
 git clone -b gh-pages ssh://git@github.com/duncombe/glossary.git $TEMPDIR ||
   { echo failed to clone; exit 1 ; }
