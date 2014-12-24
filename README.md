@@ -43,6 +43,7 @@ which has 639 acronyms defined.
   <DT>CeNCOOS <DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
   <DT>CKAN <DD> Comprehensive Knowledge Archive Network 
+  <DT>CLIVAR <DD>Climate and Ocean: Variability, Predictability and Change (WCRP)
 
 <!-- <DT>CMAS <DD>World Confederation of Underwater Activities -->
 
@@ -204,6 +205,7 @@ which has 639 acronyms defined.
   <DT>VPN <DD>Virtual Private Network
 
 <DT><a name="W"></a><a href=#contents>W</a><DD>
+  <DT>WCRP <DD>World Climate Research Programme
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
   <DT>WIS <DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   <DT>WMO <DD>World Meteorological Organization
@@ -224,7 +226,8 @@ which has 639 acronyms defined.
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
 More: 
-GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
+GEOSECS, Geochemical Ocean Section Study (GEOSECS) 
+TTO/SAVE, 
 -->
 
 <!-- vim:se nowrap tw=0 : -->
