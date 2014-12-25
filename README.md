@@ -77,6 +77,7 @@ which has 639 acronyms defined.
   <DT>GCOS <DD>Global Climate Observing System
   <DT>GEO <DD>Group on Earth Observations 
   <DT>GeoJSON <DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
+  <DT>GEOSECS <DD> Geochemical Ocean Section Study (GEOSECS) 
   <DT>GIS <DD>Geographic Information System
   <DT>GCOOS <DD>Gulf of Mexico Coastal Ocean Observing System 
   <DT>GLOS <DD>Great Lakes Observing System 
@@ -226,7 +227,6 @@ which has 639 acronyms defined.
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
 More: 
-GEOSECS, Geochemical Ocean Section Study (GEOSECS) 
 TTO/SAVE, 
 -->
 
