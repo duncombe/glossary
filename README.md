@@ -33,6 +33,7 @@ which has 639 acronyms defined.
   <DT>BON <DD>Biodiversity Observation Network
  
 <DT><a name="C"></a><a href=#contents>C</a><DD>
+  <DT>CalCOFI <DD>California Cooperative Oceanic Fisheries Investigations
   <DT>CaRA <DD>Caribbean Regional Association for Coastal Ocean Observing 
   <DT>CarICOOS <DD>CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
   <DT>Cartopy <DD>A library providing cartographic tools for Python.  A part of Scitools.
