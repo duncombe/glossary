@@ -22,12 +22,23 @@ A collection of acronyms from IIOE-2.
 <DT><a name="F"></a><a href=#contents>F</a><DD>
 
 <DT><a name="G"></a><a href=#contents>G</a><DD>
+  <DT>GOOS   <DD>Global Ocean Observing System
+  <DT>GOOS SSC   <DD>Global Ocean Observing System Scientific Steering Committee
+  <DT>GRAs   <DD>GOOS Regional Alliances
 
 <DT><a name="H"></a><a href=#contents>H</a><DD>
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>ICG/IOTWS    <DD>Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System 
+  <DT>IIOE-2 <DD>2nd International Indian Ocean Expedition
+  <DT>IMOS  <DD>Australian Integrated Marine Observing System
+  <DT>IOC   <DD>Intergovernmental Oceanographic Commission of UNESCO
+  <DT>IOCI3   <DD>Indian Ocean Climate Initiative Stage 3
+  <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
+  <DT>IORA    <DD>
 
 <DT><a name="J"></a><a href=#contents>J</a><DD>
+  <DT>JCOMM   <DD>Joint WMO-IOC Technical Commission on Oceanography and Marine Meteorology 
 
 <DT><a name="L"></a><a href=#contents>L</a><DD>
 
@@ -42,12 +53,21 @@ A collection of acronyms from IIOE-2.
 <DT><a name="Q"></a><a href=#contents>Q</a><DD>
 
 <DT><a name="R"></a><a href=#contents>R</a><DD>
+  <DT>ROOS  <DD>Regional Ocean Observing System
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
+  <DT>SAEON <DD>South African Environmental Observation Network
+  <DT>SCOR <DD>Scientific Committee for Oceanic Research
+  <DT>SEAGOOS   <DD>South East Asian Global Ocean Observing System
+  <DT>SEREAD  <DD>Scientific Educational Resources and Experience Associated with the Deployment of Argo Profiling Floats in the South Pacific Ocean
+  <DT>SIBER   <DD>Sustained Indian Ocean Biogeochemical and Ecological Research
+  <DT>SOPAC   <DD>SPCs Division of the Pacific Islands Applied Geoscience Commission
+  <DT>SPC   <DD>Secretariat of the Pacific Community
 
 <DT><a name="T"></a><a href=#contents>T</a><DD>
 
 <DT><a name="U"></a><a href=#contents>U</a><DD>
+  <DT>UNESCO  <DD>United Nations Educational, Scientific and Cultural Organisation 
 
 <DT><a name="V"></a><a href=#contents>V</a><DD>
 
@@ -64,8 +84,8 @@ A collection of acronyms from IIOE-2.
 
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
+
 -->
 
 <!-- vim:se nowrap tw=0 : -->
-
 

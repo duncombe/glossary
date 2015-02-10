@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 137 data management terms.
+A glossary of 157 data management terms.
 
 IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -101,6 +101,7 @@ which has 639 acronyms defined.
   <DT>ICSU <DD> International Council for Science
   <DT>IOC <DD>Intergovernmental Oceanographic Commission
   <DT>IOCCP <DD>International Ocean Carbon Coordination Project
+  <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
   <DT>IOOS <DD>Integrated Ocean Observing System
   <DT>IPT <DD>Integrated Planning Team 
   <DT>IRIS <DD>Incorporated Research Institutions for Seismology
@@ -174,8 +175,11 @@ which has 639 acronyms defined.
   <DT>RFB <DD>Remote Frame Buffer
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
+  <DT>SAVE <DD>South Atlantic Ventilation Experiment
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
   <DT>SCCOOS <DD>Southern California Regional Coastal Ocean Observing System 
+  <DT>SCOR <DD>Scientific Committee for Oceanic Research
+  <DT>SEAGOOS   <DD>South East Asian Global Ocean Observing System
   <DT>SECOORA <DD>Southeast Coastal Ocean Observing Regional Association 
   <DT>SEED <DD>Standard for the Exchange of Earthquake Data
   <DT>SOS <DD>Sensor Observation Service
@@ -189,6 +193,7 @@ which has 639 acronyms defined.
   <DT>THREDDS <DD> Thematic Realtime Environmental Distributed Data Services
   <DT>TPIO <DD>NOAA Technology, Planning and Integration for Observation program 
   <DT>TSV <DD>Tab Separated Values (CSV/TSV)
+  <DT>TTO <DD>Transient Tracers in the Oceans  
 
 <DT><a name="U"></a><a href=#contents>U</a><DD>
   <DT>UAF <DD>Unified Access Framework <p>
@@ -227,8 +232,8 @@ which has 639 acronyms defined.
 
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
-More: 
-TTO/SAVE, 
+Test of the Broadcast (TB)
+TB Test of the Broadcast 
 -->
 
 <!-- vim:se nowrap tw=0 : -->
