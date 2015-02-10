@@ -106,7 +106,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 137 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 157 data management terms.&lt;/p&gt;
 
 &lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -138,6 +138,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;BON &lt;DD&gt;Biodiversity Observation Network&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;C&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;C&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;CalCOFI &lt;DD&gt;California Cooperative Oceanic Fisheries Investigations
   &lt;DT&gt;CaRA &lt;DD&gt;Caribbean Regional Association for Coastal Ocean Observing
   &lt;DT&gt;CarICOOS &lt;DD&gt;CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
   &lt;DT&gt;Cartopy &lt;DD&gt;A library providing cartographic tools for Python.  A part of Scitools.
@@ -147,7 +148,8 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;CDL &lt;DD&gt;Common Data Language (Unidata).  Text notation for netCDF objects and data.
   &lt;DT&gt;CeNCOOS &lt;DD&gt;Central and Northern California Ocean Observing System
   &lt;DT&gt;CF &lt;DD&gt;Climate and Forecast (CF)
-  &lt;DT&gt;CKAN &lt;DD&gt; Comprehensive Knowledge Archive Network&lt;/p&gt;
+  &lt;DT&gt;CKAN &lt;DD&gt; Comprehensive Knowledge Archive Network
+  &lt;DT&gt;CLIVAR &lt;DD&gt;Climate and Ocean: Variability, Predictability and Change (WCRP)&lt;/p&gt;
 
 &lt;!-- &lt;DT&gt;CMAS &lt;DD&gt;World Confederation of Underwater Activities --&gt;
 
@@ -181,6 +183,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;GCOS &lt;DD&gt;Global Climate Observing System
   &lt;DT&gt;GEO &lt;DD&gt;Group on Earth Observations
   &lt;DT&gt;GeoJSON &lt;DD&gt;GeoJSON is a JSON format for encoding a variety of geographic data structures.  &lt;a href=&#34;http://geojson.org/geojson-spec.html&#34;&gt;GeoJSON Specification&lt;/a&gt;
+  &lt;DT&gt;GEOSECS &lt;DD&gt; Geochemical Ocean Section Study (GEOSECS)
   &lt;DT&gt;GIS &lt;DD&gt;Geographic Information System
   &lt;DT&gt;GCOOS &lt;DD&gt;Gulf of Mexico Coastal Ocean Observing System
   &lt;DT&gt;GLOS &lt;DD&gt;Great Lakes Observing System
@@ -203,6 +206,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science
   &lt;DT&gt;IOC &lt;DD&gt;Intergovernmental Oceanographic Commission
   &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination Project
+  &lt;DT&gt;IOGOOS    &lt;DD&gt;Indian Ocean Global Ocean Observing System
   &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
   &lt;DT&gt;IPT &lt;DD&gt;Integrated Planning Team
   &lt;DT&gt;IRIS &lt;DD&gt;Incorporated Research Institutions for Seismology
@@ -276,8 +280,11 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;RFB &lt;DD&gt;Remote Frame Buffer&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;S&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;S&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;SAVE &lt;DD&gt;South Atlantic Ventilation Experiment
   &lt;DT&gt;Scitools &lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk&#34;&gt;Scitools&lt;/a&gt; comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data.
   &lt;DT&gt;SCCOOS &lt;DD&gt;Southern California Regional Coastal Ocean Observing System
+  &lt;DT&gt;SCOR &lt;DD&gt;Scientific Committee for Oceanic Research
+  &lt;DT&gt;SEAGOOS   &lt;DD&gt;South East Asian Global Ocean Observing System
   &lt;DT&gt;SECOORA &lt;DD&gt;Southeast Coastal Ocean Observing Regional Association
   &lt;DT&gt;SEED &lt;DD&gt;Standard for the Exchange of Earthquake Data
   &lt;DT&gt;SOS &lt;DD&gt;Sensor Observation Service
@@ -290,7 +297,8 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;TDS &lt;DD&gt; THREDDS Data Server
   &lt;DT&gt;THREDDS &lt;DD&gt; Thematic Realtime Environmental Distributed Data Services
   &lt;DT&gt;TPIO &lt;DD&gt;NOAA Technology, Planning and Integration for Observation program
-  &lt;DT&gt;TSV &lt;DD&gt;Tab Separated Values (CSV/TSV)&lt;/p&gt;
+  &lt;DT&gt;TSV &lt;DD&gt;Tab Separated Values (CSV/TSV)
+  &lt;DT&gt;TTO &lt;DD&gt;Transient Tracers in the Oceans&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;U&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;U&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;UAF &lt;DD&gt;Unified Access Framework &lt;p&gt;
@@ -309,6 +317,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;VPN &lt;DD&gt;Virtual Private Network&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;W&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;W&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;WCRP &lt;DD&gt;World Climate Research Programme
   &lt;DT&gt;WCS &lt;DD&gt;Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
   &lt;DT&gt;WIS &lt;DD&gt;WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   &lt;DT&gt;WMO &lt;DD&gt;World Meteorological Organization
@@ -327,8 +336,8 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;!--
 Copyright reserved. C.M. Duncombe Rae. 
-More: 
-GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
+Test of the Broadcast (TB)
+TB Test of the Broadcast 
 --&gt;
 
 &lt;!-- vim:se nowrap tw=0 : --&gt;
