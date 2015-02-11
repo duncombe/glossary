@@ -8,6 +8,8 @@ like-yet-not-like normal language, in another word, jargon.  This is an attempt
 to make some sense of it for a relative newcomer. There are other sites that define these terms
 such as the [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html),
 which has 639 acronyms defined. This page provides from my personal experience and does not pretend to be complete or even totally relevant.
+It now extends to southern African relevant acronyms and 
+includes a collection of acronyms from IIOE-2.
 
 <a name="contents"></a>
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
@@ -25,6 +27,7 @@ which has 639 acronyms defined. This page provides from my personal experience a
   <DT>Argo <DD>A global float array. <a href="http://www.argo.ucsd.edu/About_Argo.html">Argo</a> is not an acronym.
   <DT>Argos <DD>Satellite-based system which collects, processes and disseminates environmental data from fixed and mobile platforms since 1978. Argos is not an acronym.
   <DT>ARGOS <DD>Advanced Research and Global Observation Satellite. A US-DOD satellite in flight from 1999 - 2003.
+  <DT>ASCA  <DD>Agulhas System Climate Array
   <DT>ASCII <DD>American Standard Code for Information Interchange
   <DT>AWS <DD>Amazon Web Services
 
@@ -86,8 +89,10 @@ which has 639 acronyms defined. This page provides from my personal experience a
   <DT>GMT <DD><a href="hhtp://gmt.soest.hawaii.edu/">Generic Mapping Tools</a>
   <DT>GODAE <DD>Global Ocean Data Assimilation Experiment
   <DT>GOOS <DD>Global Ocean Observing System
+  <DT>GOOS SSC   <DD>Global Ocean Observing System Scientific Steering Committee
   <DT>GO-SHIP <DD>Global Ocean Ship-based Hydrographic Investigations Program 
   <DT>GrADS <DD>Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
+  <DT>GRAs   <DD>GOOS Regional Alliances
   <DT>GRIB <DD>GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data. 
   <DT>GSD <DD>Global Systems Division (ESRL)
   <DT>GTS <DD>The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers
@@ -99,6 +104,13 @@ which has 639 acronyms defined. This page provides from my personal experience a
   <DT>HDF5 <DD>Hierarchical Data Format version 5
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>ICG/IOTWS    <DD>Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System 
+  <DT>IIOE-2 <DD>2nd International Indian Ocean Expedition
+  <DT>IMOS  <DD>Australian Integrated Marine Observing System
+  <DT>IOC   <DD>Intergovernmental Oceanographic Commission of UNESCO
+  <DT>IOCI3   <DD>Indian Ocean Climate Initiative Stage 3
+  <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
+  <DT>IORA    <DD>
   <DT>ICSU <DD> International Council for Science
   <DT>IOC <DD>Intergovernmental Oceanographic Commission
   <DT>IOCCP <DD>International Ocean Carbon Coordination Project
@@ -110,6 +122,7 @@ which has 639 acronyms defined. This page provides from my personal experience a
   <DT>ISO <DD>THREDDS service that provides an ISO 19115 metadata representation of data and metadata structure. Packaged with ncISO.
 
 <DT><a name="J"></a><a href=#contents>J</a><DD>
+  <DT>JCOMM   <DD>Joint WMO-IOC Technical Commission on Oceanography and Marine Meteorology 
   <DT>JGOFS<DD>Joint Global Ocean Flux Study
   <DT>JSON <DD>JavaScript Object Notation
 
@@ -174,8 +187,10 @@ which has 639 acronyms defined. This page provides from my personal experience a
   <DT>REST <DD>Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   <DT>RESTful <DD>A descriptor or link that conforms with REST concept.
   <DT>RFB <DD>Remote Frame Buffer
+  <DT>ROOS  <DD>Regional Ocean Observing System
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
+  <DT>SAEON <DD>South African Environmental Observation Network
   <DT>SANCOR <DD>South African Network for Coastal and Oceanic Research 
   <DT>SAVE <DD>South Atlantic Ventilation Experiment
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
@@ -184,7 +199,11 @@ which has 639 acronyms defined. This page provides from my personal experience a
   <DT>SEAGOOS   <DD>South East Asian Global Ocean Observing System
   <DT>SECOORA <DD>Southeast Coastal Ocean Observing Regional Association 
   <DT>SEED <DD>Standard for the Exchange of Earthquake Data
+  <DT>SEREAD  <DD>Scientific Educational Resources and Experience Associated with the Deployment of Argo Profiling Floats in the South Pacific Ocean
+  <DT>SIBER   <DD>Sustained Indian Ocean Biogeochemical and Ecological Research
+  <DT>SOPAC   <DD>SPCs Division of the Pacific Islands Applied Geoscience Commission
   <DT>SOS <DD>Sensor Observation Service
+  <DT>SPC   <DD>Secretariat of the Pacific Community
   <DT>STAR <DD>Center for Satellite Applications and Research (NOAA/NESDIS)
   <DT>SURA <DD>Southeastern Universities Research Association 
   <DT>SWE <DD>Sensor Web Enablement
