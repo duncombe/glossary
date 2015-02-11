@@ -64,7 +64,7 @@ which has 639 acronyms defined. This page provides from my personal experience a
 
 <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>EBCDIC <DD>Extended Binary Coded Decimal Interchange Code
-  <DT>Emacs <DD>Emacs Makes Any Computer Slow
+  <DT>EMACS <DD>Emacs Makes Any Computer Slow
   <DT>EMMA <DD>Enterprise Metadata Management Architecture
   <DT>EMODnet <DD>European Marine Observation and Data Network
   <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
