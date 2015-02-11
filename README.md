@@ -1,13 +1,13 @@
 glossary
 ========
 
-A glossary of 157 data management terms.
+A glossary of 149 environmental data management terms.
 
-IOOS is a veritable alphabet soup of acronyms and terms that are
+Ocean data management is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
-to make some sense of it for a relative newcomer. Some (most?) of these terms
-are in [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html),
-which has 639 acronyms defined.
+to make some sense of it for a relative newcomer. There are other sites that define these terms
+such as the [IOOS Acronym List](http://www.ioos.noaa.gov/about/acronym_list.html),
+which has 639 acronyms defined. This page provides from my personal experience and does not pretend to be complete or even totally relevant.
 
 <a name="contents"></a>
 ## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
@@ -64,6 +64,7 @@ which has 639 acronyms defined.
 
 <DT><a name="E"></a><a href=#contents>E</a><DD>
   <DT>EBCDIC <DD>Extended Binary Coded Decimal Interchange Code
+  <DT>Emacs <DD>Emacs Makes Any Computer Slow
   <DT>EMMA <DD>Enterprise Metadata Management Architecture
   <DT>EMODnet <DD>European Marine Observation and Data Network
   <DT>ERDDAP <DD>Environmental Research Division's Data Access Program 
@@ -175,6 +176,7 @@ which has 639 acronyms defined.
   <DT>RFB <DD>Remote Frame Buffer
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
+  <DT>SANCOR <DD>South African Network for Coastal and Oceanic Research 
   <DT>SAVE <DD>South Atlantic Ventilation Experiment
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
   <DT>SCCOOS <DD>Southern California Regional Coastal Ocean Observing System 
@@ -232,8 +234,19 @@ which has 639 acronyms defined.
 
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
-Test of the Broadcast (TB)
-TB Test of the Broadcast 
+
+More: 
+GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
+
+
+
+SANCOR's activities are made possible through financial contributions
+from the Department of Agriculture, Forestry and Fisheries (DAFF), the
+Department of Environmental Affairs (DEA) and the National Research
+Foundation (NRF).
+
+
+
 -->
 
 <!-- vim:se nowrap tw=0 : -->

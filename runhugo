@@ -2,6 +2,8 @@
 # Usage: runhugo [11|12] [hugo-command] [hugo-options]
 # 
 
+
+
 HUGOBIN="hugo" 
 
 case ${1} in 
