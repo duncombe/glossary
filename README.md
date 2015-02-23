@@ -163,7 +163,7 @@ includes a collection of acronyms from IIOE-2.
 <DT><a name="O"></a><a href=#contents>O</a><DD>
   <DT>O&M <DD>Operations and Maintenance
   <DT>OAR <DD>Office of Oceanic and Atmospheric Research (NOAA)
-  <DT>ODV <DD>[Ocean Data View](http://odv.awi.de/en/home/). A data visualization software. Also a spreadsheet style data format, used in the software.
+  <DT>ODV <DD><a href="http://odv.awi.de/en/home/">Ocean Data View</a>. A data visualization software. Also a spreadsheet style data format, used in the software.
   <DT>OGC <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI <DD> <a href="http://oceanobservatories.org/">Ocean Observatories Initiative</a>
   <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OPeNDAP organization</a> has developed. 
