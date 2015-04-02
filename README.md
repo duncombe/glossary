@@ -241,7 +241,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
   <DT>WIS <DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   <DT>WMO <DD>World Meteorological Organization
-  <DT>WMS <DD>Web Map Service <a href=#ncWMS>ncWMS</a>
+  <DT>WMS <DD>Web Map Service (see <a href=#ncWMS>ncWMS</a>)
   <DT>WOA <DD>World Ocean Atlas
   <DT>WOCE <DD>World Ocean Circulation Experiment
   <DT>WOD <DD>World Ocean Database
