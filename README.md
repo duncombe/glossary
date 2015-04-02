@@ -203,6 +203,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>SEED <DD>Standard for the Exchange of Earthquake Data
   <DT>SEREAD  <DD>Scientific Educational Resources and Experience Associated with the Deployment of Argo Profiling Floats in the South Pacific Ocean
   <DT>SIBER   <DD>Sustained Indian Ocean Biogeochemical and Ecological Research
+  <DT>SOCCO  <DD>Southern Ocean Carbon & Climate Observatory
   <DT>SOPAC   <DD>SPCs Division of the Pacific Islands Applied Geoscience Commission
   <DT>SOS <DD>Sensor Observation Service
   <DT>SPC   <DD>Secretariat of the Pacific Community
@@ -227,6 +228,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>URI <DD>uniform resource identifier (comprises a URL and/or a URN).
   <DT>URL <DD>uniform resource locator
   <DT>URN <DD>uniform resource name
+  <DT>UUID <DD>Universally Unique Identifier
 
 <DT><a name="V"></a><a href=#contents>V</a><DD>
   <DT>VM <DD>virtual machine
