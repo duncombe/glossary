@@ -111,7 +111,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>IOC   <DD>Intergovernmental Oceanographic Commission of UNESCO
   <DT>IOCI3   <DD>Indian Ocean Climate Initiative Stage 3
   <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
-  <DT>IORA    <DD>
+  <DT>IORA    <DD>Indian Ocean Rim Association
   <DT>ICSU <DD> International Council for Science
   <DT>IOC <DD>Intergovernmental Oceanographic Commission
   <DT>IOCCP <DD>International Ocean Carbon Coordination Project
@@ -145,7 +145,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>NCML <DD> THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   <DT>NcML <DD>NcML is an XML representation of netCDF metadata.
   <DT>ncSOS <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
-  <DT>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
+  <DT><a name="ncWMS"></a>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   <DT>NDBC <DD>National Data Buoy Center
   <DT>NERACOOS <DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
   <DT>NESDIS <DD>National Environmental Satellite, Data, and Information Service
@@ -241,6 +241,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
   <DT>WIS <DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   <DT>WMO <DD>World Meteorological Organization
+  <DT>WMS <DD>Web Map Service <a href=#ncWMS>ncWMS</a>
   <DT>WOA <DD>World Ocean Atlas
   <DT>WOCE <DD>World Ocean Circulation Experiment
   <DT>WOD <DD>World Ocean Database
