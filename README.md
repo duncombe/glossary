@@ -18,9 +18,10 @@ includes a collection of acronyms from IIOE-2.
 <DL>
 <DT><a name="A"></a><a href=#contents>A</a><DD> 
   <DT>ACDD <DD>Attribute Convention for Dataset Discovery (was UDDC)
+  <DT>ACEP <DD>African Coelacanth Ecosystem Programme 
   <DT>ACT <DD>Alliance for Coastal Technologies
-  <DT>ANSI <DD>American National Standards Institute
   <DT>ADCP <DD>Acoustic Doppler Current Profiler
+  <DT>ANSI <DD>American National Standards Institute
   <DT>AOML <DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   <DT>AOOS <DD>Alaska Ocean Observing System 
   <DT>ArcGIS <DD>A geographic information system (GIS) product from Esri.
@@ -191,6 +192,7 @@ includes a collection of acronyms from IIOE-2.
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
   <DT>SAEON <DD>South African Environmental Observation Network
+  <DT>SANCCOB  <DD>Southern African Foundation for the Conservation of Coastal Birds 
   <DT>SANCOR <DD>South African Network for Coastal and Oceanic Research 
   <DT>SAVE <DD>South Atlantic Ventilation Experiment
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
@@ -264,6 +266,31 @@ from the Department of Agriculture, Forestry and Fisheries (DAFF), the
 Department of Environmental Affairs (DEA) and the National Research
 Foundation (NRF).
 
+ Southern African Foundation for the Conservation of Coastal Birds (SANCCOB)
+ ACC - Antarctic Circumpolar Current
+ BODC - British Oceanographic Data Centre
+ CSIR - Council for Scientific and Industrial Research
+ DAFF - Department of Agriculture, Forestry and Fisheries
+ DEA - Department of Environmental Affairs
+ ERDDAP - Environmental Research Division's Data Access Program
+ ICSU - International Council for Science (originally International Council of Scientific Unions)
+ IEP - Integrated Ecosystem Programme
+ MPA - Marine Protected Area
+ NetCDF - Network Common Data Form
+ O&C - Oceans and Coasts (branch of DEA)
+ OCR - Ocean and Coastal Research (chief directorate of O&C)
+ OR - Ocean Research (directorate of OCR)
+ ORSL - Ocean Remote Sensing Library
+ REST - REpresentative State Transfer
+ SADCO - Southern African Data Centre for Oceanography
+ SMS - Specialist Monitoring Services
+ TENET - Tertiary Education and Research Network of South Africa
+ THREDDS - Thematic Realtime Environmental Distributed Data Services
+ WDC - World Data Center (for Oceanography) 
+ US NODC - United States National Oceanographic Data Center
+
+
+IPCC
 
 
 -->
