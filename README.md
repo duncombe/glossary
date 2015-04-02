@@ -226,6 +226,7 @@ includes a collection of acronyms from IIOE-2.
   <DT>URI <DD>uniform resource identifier (comprises a URL and/or a URN).
   <DT>URL <DD>uniform resource locator
   <DT>URN <DD>uniform resource name
+  <DT>UUID <DD>Universally Unique Identifier
 
 <DT><a name="V"></a><a href=#contents>V</a><DD>
   <DT>VM <DD>virtual machine
