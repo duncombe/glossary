@@ -114,7 +114,7 @@ to make some sense of it for a relative newcomer. There are other sites that def
 such as the &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;,
 which has 639 acronyms defined. This page provides from my personal experience and does not pretend to be complete or even totally relevant.
 It now extends to southern African relevant acronyms and
-includes a collection of acronyms from IIOE-2.&lt;/p&gt;
+includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&#34;contents&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -211,7 +211,7 @@ includes a collection of acronyms from IIOE-2.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ICG/IOTWS    &lt;DD&gt;Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System
-  &lt;DT&gt;IIOE-2 &lt;DD&gt;2nd International Indian Ocean Expedition
+  &lt;DT&gt;&lt;a name=#IIOE2&gt;&lt;/a&gt;IIOE-2 &lt;DD&gt;2nd International Indian Ocean Expedition
   &lt;DT&gt;IMOS  &lt;DD&gt;Australian Integrated Marine Observing System
   &lt;DT&gt;IOC   &lt;DD&gt;Intergovernmental Oceanographic Commission of UNESCO
   &lt;DT&gt;IOCI3   &lt;DD&gt;Indian Ocean Climate Initiative Stage 3
