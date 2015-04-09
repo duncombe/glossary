@@ -106,13 +106,15 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 157 data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 181 environmental data management terms.&lt;/p&gt;
 
-&lt;p&gt;IOOS is a veritable alphabet soup of acronyms and terms that are
+&lt;p&gt;Ocean data management is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
-to make some sense of it for a relative newcomer. Some (most?) of these terms
-are in &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;,
-which has 639 acronyms defined.&lt;/p&gt;
+to make some sense of it for a relative newcomer. There are other sites that define these terms
+such as the &lt;a href=&#34;http://www.ioos.noaa.gov/about/acronym_list.html&#34;&gt;IOOS Acronym List&lt;/a&gt;,
+which has 639 acronyms defined. This page provides from my personal experience and does not pretend to be complete or even totally relevant.
+It now extends to southern African relevant acronyms and
+includes a collection of acronyms from IIOE-2.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&#34;contents&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -121,15 +123,17 @@ which has 639 acronyms defined.&lt;/p&gt;
 &lt;p&gt;&lt;DL&gt;
 &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ACDD &lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
+  &lt;DT&gt;ACEP &lt;DD&gt;African Coelacanth Ecosystem Programme
   &lt;DT&gt;ACT &lt;DD&gt;Alliance for Coastal Technologies
-  &lt;DT&gt;ANSI &lt;DD&gt;American National Standards Institute
   &lt;DT&gt;ADCP &lt;DD&gt;Acoustic Doppler Current Profiler
+  &lt;DT&gt;ANSI &lt;DD&gt;American National Standards Institute
   &lt;DT&gt;AOML &lt;DD&gt;Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   &lt;DT&gt;AOOS &lt;DD&gt;Alaska Ocean Observing System
   &lt;DT&gt;ArcGIS &lt;DD&gt;A geographic information system (GIS) product from Esri.
   &lt;DT&gt;Argo &lt;DD&gt;A global float array. &lt;a href=&#34;http://www.argo.ucsd.edu/About_Argo.html&#34;&gt;Argo&lt;/a&gt; is not an acronym.
   &lt;DT&gt;Argos &lt;DD&gt;Satellite-based system which collects, processes and disseminates environmental data from fixed and mobile platforms since 1978. Argos is not an acronym.
   &lt;DT&gt;ARGOS &lt;DD&gt;Advanced Research and Global Observation Satellite. A US-DOD satellite in flight from 1999 - 2003.
+  &lt;DT&gt;ASCA  &lt;DD&gt;Agulhas System Climate Array
   &lt;DT&gt;ASCII &lt;DD&gt;American Standard Code for Information Interchange
   &lt;DT&gt;AWS &lt;DD&gt;Amazon Web Services&lt;/p&gt;
 
@@ -169,6 +173,7 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;E&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;E&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;EBCDIC &lt;DD&gt;Extended Binary Coded Decimal Interchange Code
+  &lt;DT&gt;EMACS &lt;DD&gt;Emacs Makes Any Computer Slow
   &lt;DT&gt;EMMA &lt;DD&gt;Enterprise Metadata Management Architecture
   &lt;DT&gt;EMODnet &lt;DD&gt;European Marine Observation and Data Network
   &lt;DT&gt;ERDDAP &lt;DD&gt;Environmental Research Division&amp;rsquo;s Data Access Program
@@ -190,8 +195,10 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;GMT &lt;DD&gt;&lt;a href=&#34;hhtp://gmt.soest.hawaii.edu/&#34;&gt;Generic Mapping Tools&lt;/a&gt;
   &lt;DT&gt;GODAE &lt;DD&gt;Global Ocean Data Assimilation Experiment
   &lt;DT&gt;GOOS &lt;DD&gt;Global Ocean Observing System
+  &lt;DT&gt;GOOS SSC   &lt;DD&gt;Global Ocean Observing System Scientific Steering Committee
   &lt;DT&gt;GO-SHIP &lt;DD&gt;Global Ocean Ship-based Hydrographic Investigations Program
   &lt;DT&gt;GrADS &lt;DD&gt;Grid Analysis and Display System. GrADS is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data
+  &lt;DT&gt;GRAs   &lt;DD&gt;GOOS Regional Alliances
   &lt;DT&gt;GRIB &lt;DD&gt;GRIdded Binary (or General Regularly-distributed Information in Binary form). GRIB is a concise data format commonly used in meteorology to store historical and forecast weather data.
   &lt;DT&gt;GSD &lt;DD&gt;Global Systems Division (ESRL)
   &lt;DT&gt;GTS &lt;DD&gt;The World Meteorological Organization (WMO) Global Telecommunications System (GTS) disseminates data in near-real-time to operational weather and ocean forecasting centers
@@ -203,6 +210,13 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;HDF5 &lt;DD&gt;Hierarchical Data Format version 5&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;ICG/IOTWS    &lt;DD&gt;Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System
+  &lt;DT&gt;IIOE-2 &lt;DD&gt;2nd International Indian Ocean Expedition
+  &lt;DT&gt;IMOS  &lt;DD&gt;Australian Integrated Marine Observing System
+  &lt;DT&gt;IOC   &lt;DD&gt;Intergovernmental Oceanographic Commission of UNESCO
+  &lt;DT&gt;IOCI3   &lt;DD&gt;Indian Ocean Climate Initiative Stage 3
+  &lt;DT&gt;IOGOOS    &lt;DD&gt;Indian Ocean Global Ocean Observing System
+  &lt;DT&gt;IORA    &lt;DD&gt;Indian Ocean Rim Association
   &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science
   &lt;DT&gt;IOC &lt;DD&gt;Intergovernmental Oceanographic Commission
   &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination Project
@@ -214,6 +228,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;ISO &lt;DD&gt;THREDDS service that provides an ISO 19115 metadata representation of data and metadata structure. Packaged with ncISO.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;J&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;J&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;JCOMM   &lt;DD&gt;Joint WMO-IOC Technical Commission on Oceanography and Marine Meteorology
   &lt;DT&gt;JGOFS&lt;DD&gt;Joint Global Ocean Flux Study
   &lt;DT&gt;JSON &lt;DD&gt;JavaScript Object Notation&lt;/p&gt;
 
@@ -235,7 +250,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;NCML &lt;DD&gt; THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   &lt;DT&gt;NcML &lt;DD&gt;NcML is an XML representation of netCDF metadata.
   &lt;DT&gt;ncSOS &lt;DD&gt;NcSOS adds a OGC SOS service to your existing THREDDS server.
-  &lt;DT&gt;ncWMS &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
+  &lt;DT&gt;&lt;a name=&#34;ncWMS&#34;&gt;&lt;/a&gt;ncWMS &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   &lt;DT&gt;NDBC &lt;DD&gt;National Data Buoy Center
   &lt;DT&gt;NERACOOS &lt;DD&gt;Northeastern Regional Association of Coastal Ocean Observing Systems
   &lt;DT&gt;NESDIS &lt;DD&gt;National Environmental Satellite, Data, and Information Service
@@ -277,9 +292,13 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;RA &lt;DD&gt;Regional Association
   &lt;DT&gt;REST &lt;DD&gt;Representational state transfer (REST) is an abstraction of the architecture of the World Wide Web; more precisely, REST is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
   &lt;DT&gt;RESTful &lt;DD&gt;A descriptor or link that conforms with REST concept.
-  &lt;DT&gt;RFB &lt;DD&gt;Remote Frame Buffer&lt;/p&gt;
+  &lt;DT&gt;RFB &lt;DD&gt;Remote Frame Buffer
+  &lt;DT&gt;ROOS  &lt;DD&gt;Regional Ocean Observing System&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;S&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;S&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;SAEON &lt;DD&gt;South African Environmental Observation Network
+  &lt;DT&gt;SANCCOB  &lt;DD&gt;Southern African Foundation for the Conservation of Coastal Birds
+  &lt;DT&gt;SANCOR &lt;DD&gt;South African Network for Coastal and Oceanic Research
   &lt;DT&gt;SAVE &lt;DD&gt;South Atlantic Ventilation Experiment
   &lt;DT&gt;Scitools &lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk&#34;&gt;Scitools&lt;/a&gt; comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data.
   &lt;DT&gt;SCCOOS &lt;DD&gt;Southern California Regional Coastal Ocean Observing System
@@ -287,7 +306,12 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;SEAGOOS   &lt;DD&gt;South East Asian Global Ocean Observing System
   &lt;DT&gt;SECOORA &lt;DD&gt;Southeast Coastal Ocean Observing Regional Association
   &lt;DT&gt;SEED &lt;DD&gt;Standard for the Exchange of Earthquake Data
+  &lt;DT&gt;SEREAD  &lt;DD&gt;Scientific Educational Resources and Experience Associated with the Deployment of Argo Profiling Floats in the South Pacific Ocean
+  &lt;DT&gt;SIBER   &lt;DD&gt;Sustained Indian Ocean Biogeochemical and Ecological Research
+  &lt;DT&gt;SOCCO  &lt;DD&gt;Southern Ocean Carbon &amp;amp; Climate Observatory
+  &lt;DT&gt;SOPAC   &lt;DD&gt;SPCs Division of the Pacific Islands Applied Geoscience Commission
   &lt;DT&gt;SOS &lt;DD&gt;Sensor Observation Service
+  &lt;DT&gt;SPC   &lt;DD&gt;Secretariat of the Pacific Community
   &lt;DT&gt;STAR &lt;DD&gt;Center for Satellite Applications and Research (NOAA/NESDIS)
   &lt;DT&gt;SURA &lt;DD&gt;Southeastern Universities Research Association
   &lt;DT&gt;SWE &lt;DD&gt;Sensor Web Enablement&lt;/p&gt;
@@ -308,7 +332,8 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;UNESCO &lt;DD&gt;United Nations Educational, Scientific and Cultural Organization
   &lt;DT&gt;URI &lt;DD&gt;uniform resource identifier (comprises a URL and/or a URN).
   &lt;DT&gt;URL &lt;DD&gt;uniform resource locator
-  &lt;DT&gt;URN &lt;DD&gt;uniform resource name&lt;/p&gt;
+  &lt;DT&gt;URN &lt;DD&gt;uniform resource name
+  &lt;DT&gt;UUID &lt;DD&gt;Universally Unique Identifier&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;V&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;V&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;VM &lt;DD&gt;virtual machine
@@ -321,6 +346,7 @@ which has 639 acronyms defined.&lt;/p&gt;
   &lt;DT&gt;WCS &lt;DD&gt;Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
   &lt;DT&gt;WIS &lt;DD&gt;WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   &lt;DT&gt;WMO &lt;DD&gt;World Meteorological Organization
+  &lt;DT&gt;WMS &lt;DD&gt;Web Map Service (see &lt;a href=#ncWMS&gt;ncWMS&lt;/a&gt;)
   &lt;DT&gt;WOA &lt;DD&gt;World Ocean Atlas
   &lt;DT&gt;WOCE &lt;DD&gt;World Ocean Circulation Experiment
   &lt;DT&gt;WOD &lt;DD&gt;World Ocean Database
@@ -336,8 +362,44 @@ which has 639 acronyms defined.&lt;/p&gt;
 
 &lt;!--
 Copyright reserved. C.M. Duncombe Rae. 
-Test of the Broadcast (TB)
-TB Test of the Broadcast 
+
+More: 
+GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
+
+
+
+SANCOR&#39;s activities are made possible through financial contributions
+from the Department of Agriculture, Forestry and Fisheries (DAFF), the
+Department of Environmental Affairs (DEA) and the National Research
+Foundation (NRF).
+
+ Southern African Foundation for the Conservation of Coastal Birds (SANCCOB)
+ ACC - Antarctic Circumpolar Current
+ BODC - British Oceanographic Data Centre
+ CSIR - Council for Scientific and Industrial Research
+ DAFF - Department of Agriculture, Forestry and Fisheries
+ DEA - Department of Environmental Affairs
+ ERDDAP - Environmental Research Division&#39;s Data Access Program
+ ICSU - International Council for Science (originally International Council of Scientific Unions)
+ IEP - Integrated Ecosystem Programme
+ MPA - Marine Protected Area
+ NetCDF - Network Common Data Form
+ O&amp;C - Oceans and Coasts (branch of DEA)
+ OCR - Ocean and Coastal Research (chief directorate of O&amp;C)
+ OR - Ocean Research (directorate of OCR)
+ ORSL - Ocean Remote Sensing Library
+ REST - REpresentative State Transfer
+ SADCO - Southern African Data Centre for Oceanography
+ SMS - Specialist Monitoring Services
+ TENET - Tertiary Education and Research Network of South Africa
+ THREDDS - Thematic Realtime Environmental Distributed Data Services
+ WDC - World Data Center (for Oceanography) 
+ US NODC - United States National Oceanographic Data Center
+
+
+IPCC
+
+
 --&gt;
 
 &lt;!-- vim:se nowrap tw=0 : --&gt;
