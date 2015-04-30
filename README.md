@@ -45,6 +45,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>CDF <DD> Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.  
   <DT>CDIP <DD>Coastal Data Information Program
   <DT>CDL <DD>Common Data Language (Unidata).  Text notation for netCDF objects and data.
+  <DT>CDM <DD>Unidata's Common Data Model
   <DT>CeNCOOS <DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
   <DT>CKAN <DD> Comprehensive Knowledge Archive Network 
@@ -145,6 +146,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>NCML <DD> THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   <DT>NcML <DD>NcML is an XML representation of netCDF metadata.
   <DT>ncSOS <DD>NcSOS adds a OGC SOS service to your existing THREDDS server.
+  <DT>NCSS <DD> NetCDF Subset Service
   <DT><a name="ncWMS"></a>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   <DT>NDBC <DD>National Data Buoy Center
   <DT>NERACOOS <DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
