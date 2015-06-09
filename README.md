@@ -58,7 +58,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>COOL <DD>Coastal Ocean Observation Lab (Rutgers University)
   <DT>CoRTAD <DD>Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   <DT>CSV <DD>Comma Separated Values (sometimes CSV/TSV)
-  <DT>CSW <DD>Catalog Services for the Web. Service provided by OGC.
+  <DT>CSW <DD>Catalog Services for the Web. Service provided by <a href="#OGC">OGC</a>.
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
   <DT>DAS <DD>Dataset Attribute Structure (as file extension .das)
@@ -167,7 +167,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>O&M <DD>Operations and Maintenance
   <DT>OAR <DD>Office of Oceanic and Atmospheric Research (NOAA)
   <DT>ODV <DD><a href="http://odv.awi.de/en/home/">Ocean Data View</a>. A data visualization software. Also a spreadsheet style data format, used in the software.
-  <DT>OGC <DD>Open Geospatial Consortium, Inc. (OGC)
+  <DT><a name="OGC">OGC</a> <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI <DD> <a href="http://oceanobservatories.org/">Ocean Observatories Initiative</a>
   <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OPeNDAP organization</a> has developed. 
   <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
