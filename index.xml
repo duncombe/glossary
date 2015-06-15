@@ -106,7 +106,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 181 environmental data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 183 environmental data management terms.&lt;/p&gt;
 
 &lt;p&gt;Ocean data management is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -150,6 +150,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;CDF &lt;DD&gt; Common Data Format (CDF).  Self-describing data format for the storage of scalar and multidimensional data in a platform- and discipline-independent way.&lt;br /&gt;
   &lt;DT&gt;CDIP &lt;DD&gt;Coastal Data Information Program
   &lt;DT&gt;CDL &lt;DD&gt;Common Data Language (Unidata).  Text notation for netCDF objects and data.
+  &lt;DT&gt;CDM &lt;DD&gt;Unidata&amp;rsquo;s Common Data Model
   &lt;DT&gt;CeNCOOS &lt;DD&gt;Central and Northern California Ocean Observing System
   &lt;DT&gt;CF &lt;DD&gt;Climate and Forecast (CF)
   &lt;DT&gt;CKAN &lt;DD&gt; Comprehensive Knowledge Archive Network
@@ -162,7 +163,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;COOL &lt;DD&gt;Coastal Ocean Observation Lab (Rutgers University)
   &lt;DT&gt;CoRTAD &lt;DD&gt;Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
   &lt;DT&gt;CSV &lt;DD&gt;Comma Separated Values (sometimes CSV/TSV)
-  &lt;DT&gt;CSW &lt;DD&gt;Catalog Services for the Web. Service provided by OGC.&lt;/p&gt;
+  &lt;DT&gt;CSW &lt;DD&gt;Catalog Services for the Web. Service provided by &lt;a href=&#34;#OGC&#34;&gt;OGC&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;D&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;D&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;DAS &lt;DD&gt;Dataset Attribute Structure (as file extension .das)
@@ -250,6 +251,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;NCML &lt;DD&gt; THREDDS service provided by ncISO package that provides NcML representation and adds geospatial extent information if it has not already been documented.
   &lt;DT&gt;NcML &lt;DD&gt;NcML is an XML representation of netCDF metadata.
   &lt;DT&gt;ncSOS &lt;DD&gt;NcSOS adds a OGC SOS service to your existing THREDDS server.
+  &lt;DT&gt;NCSS &lt;DD&gt; NetCDF Subset Service
   &lt;DT&gt;&lt;a name=&#34;ncWMS&#34;&gt;&lt;/a&gt;ncWMS &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   &lt;DT&gt;NDBC &lt;DD&gt;National Data Buoy Center
   &lt;DT&gt;NERACOOS &lt;DD&gt;Northeastern Regional Association of Coastal Ocean Observing Systems
@@ -270,7 +272,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;O&amp;amp;M &lt;DD&gt;Operations and Maintenance
   &lt;DT&gt;OAR &lt;DD&gt;Office of Oceanic and Atmospheric Research (NOAA)
   &lt;DT&gt;ODV &lt;DD&gt;&lt;a href=&#34;http://odv.awi.de/en/home/&#34;&gt;Ocean Data View&lt;/a&gt;. A data visualization software. Also a spreadsheet style data format, used in the software.
-  &lt;DT&gt;OGC &lt;DD&gt;Open Geospatial Consortium, Inc. (OGC)
+  &lt;DT&gt;&lt;a name=&#34;OGC&#34;&gt;OGC&lt;/a&gt; &lt;DD&gt;Open Geospatial Consortium, Inc. (OGC)
   &lt;DT&gt;OOI &lt;DD&gt; &lt;a href=&#34;http://oceanobservatories.org/&#34;&gt;Ocean Observatories Initiative&lt;/a&gt;
   &lt;DT&gt;OPeNDAP &lt;DD&gt;Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the &lt;a href=&#34;http://www.opendap.org/about&#34;&gt;OPeNDAP organization&lt;/a&gt; has developed.
   &lt;DT&gt;ORR &lt;DD&gt; &lt;a href=&#34;http://mmisw.org&#34;&gt;Ontology Registry and Repository&lt;/a&gt; of MMI
