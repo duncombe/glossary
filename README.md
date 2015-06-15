@@ -1,7 +1,7 @@
 glossary
 ========
 
-A glossary of 181 environmental data management terms.
+A glossary of 183 environmental data management terms.
 
 Ocean data management is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -178,7 +178,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>PacIOOS <DD>Pacific Islands Ocean Observing System  
   <DT>PEA <DD>Programmatic Environmental Assessment
   <DT>PMEL <DD>Pacific Marine Environmental Laboratory (NOAA)
-  <DT>pyCSW <DD>[Python Catalog Services for the Web](http://pycsw.org) (OGC)
+  <DT>pyCSW <DD><a href="http://pycsw.org">Python Catalog Services for the Web</a> (OGC)
   <DT>PyDAP <DD>Pydap is a pure Python library implementing the Data Access Protocol, also known as DODS or OPeNDAP.
 
 <DT><a name="Q"></a><a href=#contents>Q</a><DD>
