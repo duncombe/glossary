@@ -112,6 +112,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>IMBER <DD>Integrated Marine Biogeochemistry and Ecosystem Research
   <DT>IMOS  <DD>Australian Integrated Marine Observing System
   <DT>INCOIS <DD>Indian National Center for Ocean Information Services
+  <DT>IndOOS <DD>Indian Ocean Observing System
   <DT>IOC <DD>Intergovernmental Oceanographic Commission of UNESCO
   <DT>IOCCP <DD>International Ocean Carbon Coordination 
   <DT>IOCI3   <DD>Indian Ocean Climate Initiative Stage 3
