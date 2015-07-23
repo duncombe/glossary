@@ -164,6 +164,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>NWS <DD>National Weather Service
 
 <DT><a name="O"></a><a href=#contents>O</a><DD>
+  <DT>O&C <DD>Oceans and Coasts (branch of DEA)
   <DT>O&M <DD>Operations and Maintenance
   <DT>OAR <DD>Office of Oceanic and Atmospheric Research (NOAA)
   <DT>ODV <DD><a href="http://odv.awi.de/en/home/">Ocean Data View</a>. A data visualization software. Also a spreadsheet style data format, used in the software.
@@ -193,9 +194,11 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>ROOS  <DD>Regional Ocean Observing System
 
 <DT><a name="S"></a><a href=#contents>S</a><DD>
+  <DT>SADCO <DD>Southern African Data Centre for Oceanography
   <DT>SAEON <DD>South African Environmental Observation Network
   <DT>SANCCOB  <DD>Southern African Foundation for the Conservation of Coastal Birds 
   <DT>SANCOR <DD>South African Network for Coastal and Oceanic Research 
+  <DT>SANReN <DD>South African National Research Network
   <DT>SAVE <DD>South Atlantic Ventilation Experiment
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
   <DT>SCCOOS <DD>Southern California Regional Coastal Ocean Observing System 
@@ -205,6 +208,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>SEED <DD>Standard for the Exchange of Earthquake Data
   <DT>SEREAD  <DD>Scientific Educational Resources and Experience Associated with the Deployment of Argo Profiling Floats in the South Pacific Ocean
   <DT>SIBER   <DD>Sustained Indian Ocean Biogeochemical and Ecological Research
+  <DT>SMS <DD>Specialist Monitoring Services (DEA:O&C:SMS)
   <DT>SOCCO  <DD>Southern Ocean Carbon & Climate Observatory
   <DT>SOPAC   <DD>SPCs Division of the Pacific Islands Applied Geoscience Commission
   <DT>SOS <DD>Sensor Observation Service
@@ -214,10 +218,11 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>SWE <DD>Sensor Web Enablement
 
 <DT><a name="T"></a><a href=#contents>T</a><DD>
-  <DT>TableDAP <DD>Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets, graphs, and maps from tabular datasets (for example, buoy data). 
-  <DT>TDS <DD> THREDDS Data Server
+  <DT>TableDAP <DD>TableDAP lets you use the OPeNDAP constraint/selection protocol to request data subsets, graphs, and maps from tabular datasets (for example, buoy data). 
+  <DT>TDS <DD>THREDDS Data Server
+  <DT>TENET <DD>Tertiary Education and Research Network of South Africa
   <DT>THREDDS <DD> Thematic Realtime Environmental Distributed Data Services
-  <DT>TPIO <DD>NOAA Technology, Planning and Integration for Observation program 
+  <DT>TPIO <DD>(NOAA) Technology, Planning and Integration for Observation program 
   <DT>TSV <DD>Tab Separated Values (CSV/TSV)
   <DT>TTO <DD>Transient Tracers in the Oceans  
 
@@ -230,6 +235,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>URI <DD>uniform resource identifier (comprises a URL and/or a URN).
   <DT>URL <DD>uniform resource locator
   <DT>URN <DD>uniform resource name
+  <DT>USNODC <DD>United States National Oceanographic Data Center
   <DT>UUID <DD>Universally Unique Identifier
 
 <DT><a name="V"></a><a href=#contents>V</a><DD>
@@ -241,6 +247,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
 <DT><a name="W"></a><a href=#contents>W</a><DD>
   <DT>WCRP <DD>World Climate Research Programme
   <DT>WCS <DD>Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
+  <DT>WDC <DD>World Data Center (for Oceanography) 
   <DT>WIS <DD>WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   <DT>WMO <DD>World Meteorological Organization
   <DT>WMS <DD>Web Map Service (see <a href=#ncWMS>ncWMS</a>)
@@ -282,17 +289,9 @@ Foundation (NRF).
  IEP - Integrated Ecosystem Programme
  MPA - Marine Protected Area
  NetCDF - Network Common Data Form
- O&C - Oceans and Coasts (branch of DEA)
  OCR - Ocean and Coastal Research (chief directorate of O&C)
  OR - Ocean Research (directorate of OCR)
  ORSL - Ocean Remote Sensing Library
- REST - REpresentative State Transfer
- SADCO - Southern African Data Centre for Oceanography
- SMS - Specialist Monitoring Services
- TENET - Tertiary Education and Research Network of South Africa
- THREDDS - Thematic Realtime Environmental Distributed Data Services
- WDC - World Data Center (for Oceanography) 
- US NODC - United States National Oceanographic Data Center
 
 
 IPCC
