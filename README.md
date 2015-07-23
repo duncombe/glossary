@@ -12,7 +12,7 @@ It now extends to southern African relevant acronyms and
 includes a collection of acronyms from [IIOE-2](#IIOE2).
 
 <a name="contents"></a>
-## [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
+## [ A ](#A) [ B ](#B) [ C ](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 
 <DL>
@@ -107,17 +107,19 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>ICG/IOTWS    <DD>Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System 
+  <DT>ICSU <DD> International Council for Science
   <DT><a name=#IIOE2></a>IIOE-2 <DD>2nd International Indian Ocean Expedition
+  <DT>IMBER <DD>Integrated Marine Biogeochemistry and Ecosystem Research
   <DT>IMOS  <DD>Australian Integrated Marine Observing System
-  <DT>IOC   <DD>Intergovernmental Oceanographic Commission of UNESCO
+  <DT>INCOIS <DD>Indian National Center for Ocean Information Services
+  <DT>INDARE <DD>Indian Ocean Data Rescue Initiative
+  <DT>IndOOS <DD>Indian Ocean Observing System
+  <DT>IOC <DD>Intergovernmental Oceanographic Commission of UNESCO
+  <DT>IOCCP <DD>International Ocean Carbon Coordination 
   <DT>IOCI3   <DD>Indian Ocean Climate Initiative Stage 3
   <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
-  <DT>IORA    <DD>Indian Ocean Rim Association
-  <DT>ICSU <DD> International Council for Science
-  <DT>IOC <DD>Intergovernmental Oceanographic Commission
-  <DT>IOCCP <DD>International Ocean Carbon Coordination Project
-  <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
   <DT>IOOS <DD>Integrated Ocean Observing System
+  <DT>IORA <DD>Indian Ocean Rim Association
   <DT>IPT <DD>Integrated Planning Team 
   <DT>IRIS <DD>Incorporated Research Institutions for Seismology
   <DT>Iris <DD><a href="http://scitools.org.uk/iris/">Iris</a> is a Python library for Meteorology and Climatology, a part of Scitools.
@@ -149,6 +151,8 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
   <DT>NCSS <DD> NetCDF Subset Service
   <DT><a name="ncWMS"></a>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   <DT>NDBC <DD>National Data Buoy Center
+  <DT>NEMA <DD>(South African) National Environmental Management Act
+  <DT>NEMO <DD>(South African) National Environmental Management of the Ocean
   <DT>NERACOOS <DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
   <DT>NESDIS <DD>National Environmental Satellite, Data, and Information Service
   <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
