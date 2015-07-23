@@ -106,7 +106,7 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 183 environmental data management terms.&lt;/p&gt;
+&lt;p&gt;A glossary of 194 environmental data management terms.&lt;/p&gt;
 
 &lt;p&gt;Ocean data management is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -118,7 +118,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 
 &lt;p&gt;&lt;a name=&#34;contents&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;#A&#34;&gt;A&lt;/a&gt; &lt;a href=&#34;#B&#34;&gt;B&lt;/a&gt; &lt;a href=&#34;#C&#34;&gt;C&lt;/a&gt; &lt;a href=&#34;#D&#34;&gt;D&lt;/a&gt; &lt;a href=&#34;#E&#34;&gt;E&lt;/a&gt; &lt;a href=&#34;#F&#34;&gt;F&lt;/a&gt; &lt;a href=&#34;#G&#34;&gt;G&lt;/a&gt; &lt;a href=&#34;#H&#34;&gt;H&lt;/a&gt; &lt;a href=&#34;#I&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;#J&#34;&gt;J&lt;/a&gt; &lt;a href=&#34;#K&#34;&gt;K&lt;/a&gt; &lt;a href=&#34;#L&#34;&gt;L&lt;/a&gt; &lt;a href=&#34;#M&#34;&gt;M&lt;/a&gt; &lt;a href=&#34;#N&#34;&gt;N&lt;/a&gt; &lt;a href=&#34;#O&#34;&gt;O&lt;/a&gt; &lt;a href=&#34;#P&#34;&gt;P&lt;/a&gt; &lt;a href=&#34;#Q&#34;&gt;Q&lt;/a&gt; &lt;a href=&#34;#R&#34;&gt;R&lt;/a&gt; &lt;a href=&#34;#S&#34;&gt;S&lt;/a&gt; &lt;a href=&#34;#T&#34;&gt;T&lt;/a&gt; &lt;a href=&#34;#U&#34;&gt;U&lt;/a&gt; &lt;a href=&#34;#V&#34;&gt;V&lt;/a&gt; &lt;a href=&#34;#W&#34;&gt;W&lt;/a&gt; &lt;a href=&#34;#X&#34;&gt;X&lt;/a&gt; &lt;a href=&#34;#Y&#34;&gt;Y&lt;/a&gt; &lt;a href=&#34;#Z&#34;&gt;Z&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;#A&#34;&gt; A &lt;/a&gt; &lt;a href=&#34;#B&#34;&gt; B &lt;/a&gt; &lt;a href=&#34;#C&#34;&gt; C &lt;/a&gt; &lt;a href=&#34;#D&#34;&gt;D&lt;/a&gt; &lt;a href=&#34;#E&#34;&gt;E&lt;/a&gt; &lt;a href=&#34;#F&#34;&gt;F&lt;/a&gt; &lt;a href=&#34;#G&#34;&gt;G&lt;/a&gt; &lt;a href=&#34;#H&#34;&gt;H&lt;/a&gt; &lt;a href=&#34;#I&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;#J&#34;&gt;J&lt;/a&gt; &lt;a href=&#34;#K&#34;&gt;K&lt;/a&gt; &lt;a href=&#34;#L&#34;&gt;L&lt;/a&gt; &lt;a href=&#34;#M&#34;&gt;M&lt;/a&gt; &lt;a href=&#34;#N&#34;&gt;N&lt;/a&gt; &lt;a href=&#34;#O&#34;&gt;O&lt;/a&gt; &lt;a href=&#34;#P&#34;&gt;P&lt;/a&gt; &lt;a href=&#34;#Q&#34;&gt;Q&lt;/a&gt; &lt;a href=&#34;#R&#34;&gt;R&lt;/a&gt; &lt;a href=&#34;#S&#34;&gt;S&lt;/a&gt; &lt;a href=&#34;#T&#34;&gt;T&lt;/a&gt; &lt;a href=&#34;#U&#34;&gt;U&lt;/a&gt; &lt;a href=&#34;#V&#34;&gt;V&lt;/a&gt; &lt;a href=&#34;#W&#34;&gt;W&lt;/a&gt; &lt;a href=&#34;#X&#34;&gt;X&lt;/a&gt; &lt;a href=&#34;#Y&#34;&gt;Y&lt;/a&gt; &lt;a href=&#34;#Z&#34;&gt;Z&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;DL&gt;
 &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
@@ -212,17 +212,19 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ICG/IOTWS    &lt;DD&gt;Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System
+  &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science
   &lt;DT&gt;&lt;a name=#IIOE2&gt;&lt;/a&gt;IIOE-2 &lt;DD&gt;2nd International Indian Ocean Expedition
+  &lt;DT&gt;IMBER &lt;DD&gt;Integrated Marine Biogeochemistry and Ecosystem Research
   &lt;DT&gt;IMOS  &lt;DD&gt;Australian Integrated Marine Observing System
-  &lt;DT&gt;IOC   &lt;DD&gt;Intergovernmental Oceanographic Commission of UNESCO
+  &lt;DT&gt;INCOIS &lt;DD&gt;Indian National Center for Ocean Information Services
+  &lt;DT&gt;INDARE &lt;DD&gt;Indian Ocean Data Rescue Initiative
+  &lt;DT&gt;IndOOS &lt;DD&gt;Indian Ocean Observing System
+  &lt;DT&gt;IOC &lt;DD&gt;Intergovernmental Oceanographic Commission of UNESCO
+  &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination
   &lt;DT&gt;IOCI3   &lt;DD&gt;Indian Ocean Climate Initiative Stage 3
   &lt;DT&gt;IOGOOS    &lt;DD&gt;Indian Ocean Global Ocean Observing System
-  &lt;DT&gt;IORA    &lt;DD&gt;Indian Ocean Rim Association
-  &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science
-  &lt;DT&gt;IOC &lt;DD&gt;Intergovernmental Oceanographic Commission
-  &lt;DT&gt;IOCCP &lt;DD&gt;International Ocean Carbon Coordination Project
-  &lt;DT&gt;IOGOOS    &lt;DD&gt;Indian Ocean Global Ocean Observing System
   &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
+  &lt;DT&gt;IORA &lt;DD&gt;Indian Ocean Rim Association
   &lt;DT&gt;IPT &lt;DD&gt;Integrated Planning Team
   &lt;DT&gt;IRIS &lt;DD&gt;Incorporated Research Institutions for Seismology
   &lt;DT&gt;Iris &lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk/iris/&#34;&gt;Iris&lt;/a&gt; is a Python library for Meteorology and Climatology, a part of Scitools.
@@ -254,6 +256,8 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;NCSS &lt;DD&gt; NetCDF Subset Service
   &lt;DT&gt;&lt;a name=&#34;ncWMS&#34;&gt;&lt;/a&gt;ncWMS &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   &lt;DT&gt;NDBC &lt;DD&gt;National Data Buoy Center
+  &lt;DT&gt;NEMA &lt;DD&gt;(South African) National Environmental Management Act
+  &lt;DT&gt;NEMO &lt;DD&gt;(South African) National Environmental Management of the Ocean
   &lt;DT&gt;NERACOOS &lt;DD&gt;Northeastern Regional Association of Coastal Ocean Observing Systems
   &lt;DT&gt;NESDIS &lt;DD&gt;National Environmental Satellite, Data, and Information Service
   &lt;DT&gt;netCDF &lt;DD&gt;&lt;a href=&#34;http://www.unidata.ucar.edu/software/netcdf/&#34;&gt;Network Common Data Form&lt;/a&gt;
@@ -269,6 +273,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;NWS &lt;DD&gt;National Weather Service&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;O&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;O&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;O&amp;amp;C &lt;DD&gt;Oceans and Coasts (branch of DEA)
   &lt;DT&gt;O&amp;amp;M &lt;DD&gt;Operations and Maintenance
   &lt;DT&gt;OAR &lt;DD&gt;Office of Oceanic and Atmospheric Research (NOAA)
   &lt;DT&gt;ODV &lt;DD&gt;&lt;a href=&#34;http://odv.awi.de/en/home/&#34;&gt;Ocean Data View&lt;/a&gt;. A data visualization software. Also a spreadsheet style data format, used in the software.
@@ -298,9 +303,11 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;ROOS  &lt;DD&gt;Regional Ocean Observing System&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;S&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;S&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;SADCO &lt;DD&gt;Southern African Data Centre for Oceanography
   &lt;DT&gt;SAEON &lt;DD&gt;South African Environmental Observation Network
   &lt;DT&gt;SANCCOB  &lt;DD&gt;Southern African Foundation for the Conservation of Coastal Birds
   &lt;DT&gt;SANCOR &lt;DD&gt;South African Network for Coastal and Oceanic Research
+  &lt;DT&gt;SANReN &lt;DD&gt;South African National Research Network
   &lt;DT&gt;SAVE &lt;DD&gt;South Atlantic Ventilation Experiment
   &lt;DT&gt;Scitools &lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk&#34;&gt;Scitools&lt;/a&gt; comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data.
   &lt;DT&gt;SCCOOS &lt;DD&gt;Southern California Regional Coastal Ocean Observing System
@@ -310,6 +317,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;SEED &lt;DD&gt;Standard for the Exchange of Earthquake Data
   &lt;DT&gt;SEREAD  &lt;DD&gt;Scientific Educational Resources and Experience Associated with the Deployment of Argo Profiling Floats in the South Pacific Ocean
   &lt;DT&gt;SIBER   &lt;DD&gt;Sustained Indian Ocean Biogeochemical and Ecological Research
+  &lt;DT&gt;SMS &lt;DD&gt;Specialist Monitoring Services (DEA:O&amp;amp;C:SMS)
   &lt;DT&gt;SOCCO  &lt;DD&gt;Southern Ocean Carbon &amp;amp; Climate Observatory
   &lt;DT&gt;SOPAC   &lt;DD&gt;SPCs Division of the Pacific Islands Applied Geoscience Commission
   &lt;DT&gt;SOS &lt;DD&gt;Sensor Observation Service
@@ -319,10 +327,11 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;SWE &lt;DD&gt;Sensor Web Enablement&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;T&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;T&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;TableDAP &lt;DD&gt;Tabledap lets you use the OPeNDAP constraint/selection protocol to request data subsets, graphs, and maps from tabular datasets (for example, buoy data).
-  &lt;DT&gt;TDS &lt;DD&gt; THREDDS Data Server
+  &lt;DT&gt;TableDAP &lt;DD&gt;TableDAP lets you use the OPeNDAP constraint/selection protocol to request data subsets, graphs, and maps from tabular datasets (for example, buoy data).
+  &lt;DT&gt;TDS &lt;DD&gt;THREDDS Data Server
+  &lt;DT&gt;TENET &lt;DD&gt;Tertiary Education and Research Network of South Africa
   &lt;DT&gt;THREDDS &lt;DD&gt; Thematic Realtime Environmental Distributed Data Services
-  &lt;DT&gt;TPIO &lt;DD&gt;NOAA Technology, Planning and Integration for Observation program
+  &lt;DT&gt;TPIO &lt;DD&gt;(NOAA) Technology, Planning and Integration for Observation program
   &lt;DT&gt;TSV &lt;DD&gt;Tab Separated Values (CSV/TSV)
   &lt;DT&gt;TTO &lt;DD&gt;Transient Tracers in the Oceans&lt;/p&gt;
 
@@ -335,6 +344,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;URI &lt;DD&gt;uniform resource identifier (comprises a URL and/or a URN).
   &lt;DT&gt;URL &lt;DD&gt;uniform resource locator
   &lt;DT&gt;URN &lt;DD&gt;uniform resource name
+  &lt;DT&gt;USNODC &lt;DD&gt;United States National Oceanographic Data Center
   &lt;DT&gt;UUID &lt;DD&gt;Universally Unique Identifier&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;V&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;V&lt;/a&gt;&lt;DD&gt;
@@ -346,6 +356,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;W&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;W&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;WCRP &lt;DD&gt;World Climate Research Programme
   &lt;DT&gt;WCS &lt;DD&gt;Web Coverage Service - The Open Geospatial Consortium Web Coverage Service Interface Standard (WCS) defines Web-based retrieval of coverages that is, digital geospatial information representing space/time-varying phenomena.
+  &lt;DT&gt;WDC &lt;DD&gt;World Data Center (for Oceanography)
   &lt;DT&gt;WIS &lt;DD&gt;WMO Information System (WIS), the next generation of World Meteorological Organization (WMO) Global Telecommunications System (GTS), disseminates data in near-real-time to operational weather and ocean forecasting centers.
   &lt;DT&gt;WMO &lt;DD&gt;World Meteorological Organization
   &lt;DT&gt;WMS &lt;DD&gt;Web Map Service (see &lt;a href=#ncWMS&gt;ncWMS&lt;/a&gt;)
@@ -386,17 +397,9 @@ Foundation (NRF).
  IEP - Integrated Ecosystem Programme
  MPA - Marine Protected Area
  NetCDF - Network Common Data Form
- O&amp;C - Oceans and Coasts (branch of DEA)
  OCR - Ocean and Coastal Research (chief directorate of O&amp;C)
  OR - Ocean Research (directorate of OCR)
  ORSL - Ocean Remote Sensing Library
- REST - REpresentative State Transfer
- SADCO - Southern African Data Centre for Oceanography
- SMS - Specialist Monitoring Services
- TENET - Tertiary Education and Research Network of South Africa
- THREDDS - Thematic Realtime Environmental Distributed Data Services
- WDC - World Data Center (for Oceanography) 
- US NODC - United States National Oceanographic Data Center
 
 
 IPCC
