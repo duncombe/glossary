@@ -23,6 +23,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>ACEP <DD>African Coelacanth Ecosystem Programme 
   <DT>ACT <DD>Alliance for Coastal Technologies
   <DT>ADCP <DD>Acoustic Doppler Current Profiler
+  <DT>AMOC <DD>Atlantic Meridional Overturning Circulation
   <DT>ANSI <DD>American National Standards Institute
   <DT>AOML <DD>Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   <DT>AOOS <DD>Alaska Ocean Observing System 
