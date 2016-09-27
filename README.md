@@ -2,7 +2,6 @@ glossary
 ========
 
 A glossary of 
-[//]: # "Comment" and 
 [//]: # (Comment) 
 194
 environmental data management acronyms and terms.
