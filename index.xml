@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on ocean data acronyms </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://duncombe.github.io/index.xml</link>
+    <link>http://duncombe.github.io/glossary/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/about</link>
+      <link>http://duncombe.github.io/glossary/about/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/about</guid>
+      <guid>http://duncombe.github.io/glossary/about/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;About glossary&lt;/h1&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/website-install</link>
+      <link>http://duncombe.github.io/glossary/website-install/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/website-install</guid>
+      <guid>http://duncombe.github.io/glossary/website-install/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary structure and installation&lt;/h1&gt;
@@ -98,10 +98,10 @@ git subtree push --prefix=public origin gh-pages
     
     <item>
       <title></title>
-      <link>http://duncombe.github.io/</link>
+      <link>http://duncombe.github.io/glossary/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://duncombe.github.io/</guid>
+      <guid>http://duncombe.github.io/glossary/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
@@ -118,16 +118,20 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 
 &lt;p&gt;There is a glossary of coastal terminology at &lt;a href=&#34;http://www.ecy.wa.gov/programs/sea/swces/products/glossary.htm&#34;&gt;http://www.ecy.wa.gov/programs/sea/swces/products/glossary.htm&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;(For instructions on how to compile a HTML webpage from this Markdown document, see &lt;a href=&#34;website-install.md&#34;&gt;website-install.md&lt;/a&gt;)&lt;/p&gt;
+
 &lt;p&gt;&lt;a name=&#34;contents&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;#A&#34;&gt; A &lt;/a&gt; &lt;a href=&#34;#B&#34;&gt; B &lt;/a&gt; &lt;a href=&#34;#C&#34;&gt; C &lt;/a&gt; &lt;a href=&#34;#D&#34;&gt;D&lt;/a&gt; &lt;a href=&#34;#E&#34;&gt;E&lt;/a&gt; &lt;a href=&#34;#F&#34;&gt;F&lt;/a&gt; &lt;a href=&#34;#G&#34;&gt;G&lt;/a&gt; &lt;a href=&#34;#H&#34;&gt;H&lt;/a&gt; &lt;a href=&#34;#I&#34;&gt;I&lt;/a&gt; &lt;a href=&#34;#J&#34;&gt;J&lt;/a&gt; &lt;a href=&#34;#K&#34;&gt;K&lt;/a&gt; &lt;a href=&#34;#L&#34;&gt;L&lt;/a&gt; &lt;a href=&#34;#M&#34;&gt;M&lt;/a&gt; &lt;a href=&#34;#N&#34;&gt;N&lt;/a&gt; &lt;a href=&#34;#O&#34;&gt;O&lt;/a&gt; &lt;a href=&#34;#P&#34;&gt;P&lt;/a&gt; &lt;a href=&#34;#Q&#34;&gt;Q&lt;/a&gt; &lt;a href=&#34;#R&#34;&gt;R&lt;/a&gt; &lt;a href=&#34;#S&#34;&gt;S&lt;/a&gt; &lt;a href=&#34;#T&#34;&gt;T&lt;/a&gt; &lt;a href=&#34;#U&#34;&gt;U&lt;/a&gt; &lt;a href=&#34;#V&#34;&gt;V&lt;/a&gt; &lt;a href=&#34;#W&#34;&gt;W&lt;/a&gt; &lt;a href=&#34;#X&#34;&gt;X&lt;/a&gt; &lt;a href=&#34;#Y&#34;&gt;Y&lt;/a&gt; &lt;a href=&#34;#Z&#34;&gt;Z&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;DL&gt;
 &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;ACC &lt;DD&gt; Antarctic Circumpolar Current
   &lt;DT&gt;ACDD &lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
   &lt;DT&gt;ACEP &lt;DD&gt;African Coelacanth Ecosystem Programme
   &lt;DT&gt;ACT &lt;DD&gt;Alliance for Coastal Technologies
   &lt;DT&gt;ADCP &lt;DD&gt;Acoustic Doppler Current Profiler
+  &lt;DT&gt;AMOC &lt;DD&gt;Atlantic Meridional Overturning Circulation
   &lt;DT&gt;ANSI &lt;DD&gt;American National Standards Institute
   &lt;DT&gt;AOML &lt;DD&gt;Atlantic Oceanographic and Meteorological Laboratory (NOAA)
   &lt;DT&gt;AOOS &lt;DD&gt;Alaska Ocean Observing System
@@ -140,6 +144,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;AWS &lt;DD&gt;Amazon Web Services&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;B&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;B&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;BODC &lt;DD&gt;British Oceanographic Data Centre
   &lt;DT&gt;BOEM &lt;DD&gt;Bureau of Ocean Energy Management
   &lt;DT&gt;BON &lt;DD&gt;Biodiversity Observation Network&lt;/p&gt;
 
@@ -155,6 +160,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;CDM &lt;DD&gt;Unidata&amp;rsquo;s Common Data Model
   &lt;DT&gt;CeNCOOS &lt;DD&gt;Central and Northern California Ocean Observing System
   &lt;DT&gt;CF &lt;DD&gt;Climate and Forecast (CF)
+  &lt;DT&gt;CGS &lt;DD&gt; Council for Geosciences (South Africa)
   &lt;DT&gt;CKAN &lt;DD&gt; Comprehensive Knowledge Archive Network
   &lt;DT&gt;CLIVAR &lt;DD&gt;Climate and Ocean: Variability, Predictability and Change (WCRP)&lt;/p&gt;
 
@@ -164,11 +170,14 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;COMT &lt;DD&gt;Coastal and Ocean Modeling Testbed
   &lt;DT&gt;COOL &lt;DD&gt;Coastal Ocean Observation Lab (Rutgers University)
   &lt;DT&gt;CoRTAD &lt;DD&gt;Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
+  &lt;DT&gt;CSIR &lt;DD&gt; Council for Scientific and Industrial Research (South Africa)
   &lt;DT&gt;CSV &lt;DD&gt;Comma Separated Values (sometimes CSV/TSV)
   &lt;DT&gt;CSW &lt;DD&gt;Catalog Services for the Web. Service provided by &lt;a href=&#34;#OGC&#34;&gt;OGC&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;D&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;D&lt;/a&gt;&lt;DD&gt;
+  &lt;DT&gt;DAFF &lt;DD&gt; Department of Agriculture, Forestry and Fisheries (South Africa)
   &lt;DT&gt;DAS &lt;DD&gt;Dataset Attribute Structure (as file extension .das)
+  &lt;DT&gt;DEA &lt;DD&gt; Department of Environmental Affairs (South Africa)
   &lt;DT&gt;DMAC &lt;DD&gt;Data Management and Communications
   &lt;DT&gt;DOD&lt;DD&gt;Department of Defence (sometimes DoD).
   &lt;DT&gt;DODS &lt;DD&gt;Distributed Oceanographic Data Systems. &lt;a href=&#34;http://dods.ndbc.noaa.gov/&#34;&gt;DODS&lt;/a&gt; is a framework for data providers to share data with each other and with end users.&lt;br /&gt;
@@ -191,7 +200,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;GCOS &lt;DD&gt;Global Climate Observing System
   &lt;DT&gt;GEO &lt;DD&gt;Group on Earth Observations
   &lt;DT&gt;GeoJSON &lt;DD&gt;GeoJSON is a JSON format for encoding a variety of geographic data structures.  &lt;a href=&#34;http://geojson.org/geojson-spec.html&#34;&gt;GeoJSON Specification&lt;/a&gt;
-  &lt;DT&gt;GEOSECS &lt;DD&gt; Geochemical Ocean Section Study (GEOSECS)
+  &lt;DT&gt;GEOSECS &lt;DD&gt; Geochemical Ocean Section Study
   &lt;DT&gt;GIS &lt;DD&gt;Geographic Information System
   &lt;DT&gt;GCOOS &lt;DD&gt;Gulf of Mexico Coastal Ocean Observing System
   &lt;DT&gt;GLOS &lt;DD&gt;Great Lakes Observing System
@@ -214,7 +223,8 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;I&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;I&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ICG/IOTWS    &lt;DD&gt;Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System
-  &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science
+  &lt;DT&gt;ICSU &lt;DD&gt; International Council for Science (originally International Council of Scientific Unions)
+  &lt;DT&gt;IEP &lt;DD&gt; Integrated Ecosystem Programme (monitoring programme of OCR)
   &lt;DT&gt;&lt;a name=#IIOE2&gt;&lt;/a&gt;IIOE-2 &lt;DD&gt;2nd International Indian Ocean Expedition
   &lt;DT&gt;IMBER &lt;DD&gt;Integrated Marine Biogeochemistry and Ecosystem Research
   &lt;DT&gt;IMOS  &lt;DD&gt;Australian Integrated Marine Observing System
@@ -227,6 +237,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;IOGOOS    &lt;DD&gt;Indian Ocean Global Ocean Observing System
   &lt;DT&gt;IOOS &lt;DD&gt;Integrated Ocean Observing System
   &lt;DT&gt;IORA &lt;DD&gt;Indian Ocean Rim Association
+  &lt;DT&gt;IPCC &lt;DD&gt; Intergovernmental Panel on Climate Change
   &lt;DT&gt;IPT &lt;DD&gt;Integrated Planning Team
   &lt;DT&gt;IRIS &lt;DD&gt;Incorporated Research Institutions for Seismology
   &lt;DT&gt;Iris &lt;DD&gt;&lt;a href=&#34;http://scitools.org.uk/iris/&#34;&gt;Iris&lt;/a&gt; is a Python library for Meteorology and Climatology, a part of Scitools.
@@ -244,7 +255,8 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;M&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;M&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;MARACOOS &lt;DD&gt;Mid-Atlantic Coastal Ocean Observing System
-  &lt;DT&gt;MMI &lt;DD&gt;Marine Metadata Interoperability.&lt;/p&gt;
+  &lt;DT&gt;MMI &lt;DD&gt;Marine Metadata Interoperability.
+  &lt;DT&gt;MPA &lt;DD&gt; Marine Protected Area&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;N&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;N&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;NANOOS &lt;DD&gt;Northwest Association of Networked Ocean Observing Systems
@@ -259,11 +271,12 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;&lt;a name=&#34;ncWMS&#34;&gt;&lt;/a&gt;ncWMS &lt;DD&gt;Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   &lt;DT&gt;NDBC &lt;DD&gt;National Data Buoy Center
   &lt;DT&gt;NEMA &lt;DD&gt;(South African) National Environmental Management Act
-  &lt;DT&gt;NEMO &lt;DD&gt;(South African) National Environmental Management of the Ocean
+  &lt;DT&gt;NEMO &lt;DD&gt;(South African) National Environmental Management of the Ocean.  Policy whitepaper.
+  &lt;DT&gt;NEMO &lt;DD&gt; Nucleus for European Modelling of the Ocean
   &lt;DT&gt;NERACOOS &lt;DD&gt;Northeastern Regional Association of Coastal Ocean Observing Systems
   &lt;DT&gt;NESDIS &lt;DD&gt;National Environmental Satellite, Data, and Information Service
-  &lt;DT&gt;netCDF &lt;DD&gt;&lt;a href=&#34;http://www.unidata.ucar.edu/software/netcdf/&#34;&gt;Network Common Data Form&lt;/a&gt;
-  &lt;DT&gt;netCDF4 &lt;DD&gt;Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.&lt;br /&gt;
+  &lt;DT&gt;NetCDF &lt;DD&gt;&lt;a href=&#34;http://www.unidata.ucar.edu/software/netcdf/&#34;&gt;Network Common Data Form&lt;/a&gt;
+  &lt;DT&gt;NetCDF4 &lt;DD&gt;Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.&lt;br /&gt;
   &lt;DT&gt;NEXRAD &lt;DD&gt;Next Generation Weather Radar
   &lt;DT&gt;NGDAC &lt;DD&gt;National Glider Data Assembly Center
   &lt;DT&gt;NGDC &lt;DD&gt;National Geophysical Data Center (NOAA/NGDC)
@@ -271,18 +284,24 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;NOAA &lt;DD&gt;National Oceanic and Atmospheric Administration
   &lt;DT&gt;NODC &lt;DD&gt;National Oceanographic Data Center
   &lt;DT&gt;NOSC &lt;DD&gt;NOAA Observing Systems Council
-  &lt;DT&gt;NRT &lt;DD&gt;Near Real Time
+  &lt;DT&gt;NRF &lt;DD&gt; National Research Foundation (South Africa)
+  &lt;DT&gt;NRT &lt;DD&gt;near-real time
+  &lt;DT&gt;NRF &lt;DD&gt; National Research Foundation (South Africa)
+  &lt;DT&gt;NSF &lt;DD&gt; National Science Foundation (USA)
   &lt;DT&gt;NWS &lt;DD&gt;National Weather Service&lt;/p&gt;
 
 &lt;p&gt;&lt;DT&gt;&lt;a name=&#34;O&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;O&lt;/a&gt;&lt;DD&gt;
-  &lt;DT&gt;O&amp;amp;C &lt;DD&gt;Oceans and Coasts (branch of DEA)
+  &lt;DT&gt;O&amp;amp;C &lt;DD&gt;Oceans and Coasts (branch of South African DEA)
   &lt;DT&gt;O&amp;amp;M &lt;DD&gt;Operations and Maintenance
   &lt;DT&gt;OAR &lt;DD&gt;Office of Oceanic and Atmospheric Research (NOAA)
+  &lt;DT&gt;OCR &lt;DD&gt; Ocean and Coastal Research (chief directorate of O&amp;amp;C)
   &lt;DT&gt;ODV &lt;DD&gt;&lt;a href=&#34;http://odv.awi.de/en/home/&#34;&gt;Ocean Data View&lt;/a&gt;. A data visualization software. Also a spreadsheet style data format, used in the software.
   &lt;DT&gt;&lt;a name=&#34;OGC&#34;&gt;OGC&lt;/a&gt; &lt;DD&gt;Open Geospatial Consortium, Inc. (OGC)
   &lt;DT&gt;OOI &lt;DD&gt; &lt;a href=&#34;http://oceanobservatories.org/&#34;&gt;Ocean Observatories Initiative&lt;/a&gt;
   &lt;DT&gt;OPeNDAP &lt;DD&gt;Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the &lt;a href=&#34;http://www.opendap.org/about&#34;&gt;OPeNDAP organization&lt;/a&gt; has developed.
+  &lt;DT&gt;OR &lt;DD&gt; Ocean Research (directorate of OCR)
   &lt;DT&gt;ORR &lt;DD&gt; &lt;a href=&#34;http://mmisw.org&#34;&gt;Ontology Registry and Repository&lt;/a&gt; of MMI
+  &lt;DT&gt;ORSL &lt;DD&gt; Ocean Remote Sensing Library
   &lt;DT&gt;OSC &lt;DD&gt; Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
   &lt;DT&gt;OWSLib &lt;DD&gt;Open Geospatial Consortium (OGC) Web Service Library,  a python package&lt;/p&gt;
 
@@ -377,34 +396,6 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 
 &lt;!--
 Copyright reserved. C.M. Duncombe Rae. 
-
-More: 
-GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
-
-
-
-SANCOR&#39;s activities are made possible through financial contributions
-from the Department of Agriculture, Forestry and Fisheries (DAFF), the
-Department of Environmental Affairs (DEA) and the National Research
-Foundation (NRF).
-
- Southern African Foundation for the Conservation of Coastal Birds (SANCCOB)
- ACC - Antarctic Circumpolar Current
- BODC - British Oceanographic Data Centre
- CSIR - Council for Scientific and Industrial Research
- DAFF - Department of Agriculture, Forestry and Fisheries
- DEA - Department of Environmental Affairs
- ERDDAP - Environmental Research Division&#39;s Data Access Program
- ICSU - International Council for Science (originally International Council of Scientific Unions)
- IEP - Integrated Ecosystem Programme
- MPA - Marine Protected Area
- NetCDF - Network Common Data Form
- OCR - Ocean and Coastal Research (chief directorate of O&amp;C)
- OR - Ocean Research (directorate of OCR)
- ORSL - Ocean Remote Sensing Library
-
-
-IPCC
 
 
 --&gt;
