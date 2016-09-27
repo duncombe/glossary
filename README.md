@@ -13,12 +13,15 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
 
 There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/sea/swces/products/glossary.htm](http://www.ecy.wa.gov/programs/sea/swces/products/glossary.htm).
 
+(For instructions on how to compile a HTML webpage from this Markdown document, see [website-install.md])
+
 <a name="contents"></a>
 ## [ A ](#A) [ B ](#B) [ C ](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
 
 <DL>
 <DT><a name="A"></a><a href=#contents>A</a><DD> 
+  <DT>ACC <DD> Antarctic Circumpolar Current
   <DT>ACDD <DD>Attribute Convention for Dataset Discovery (was UDDC)
   <DT>ACEP <DD>African Coelacanth Ecosystem Programme 
   <DT>ACT <DD>Alliance for Coastal Technologies
@@ -36,6 +39,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>AWS <DD>Amazon Web Services
 
 <DT><a name="B"></a><a href=#contents>B</a><DD>
+  <DT>BODC <DD>British Oceanographic Data Centre
   <DT>BOEM <DD>Bureau of Ocean Energy Management
   <DT>BON <DD>Biodiversity Observation Network
  
@@ -51,6 +55,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>CDM <DD>Unidata's Common Data Model
   <DT>CeNCOOS <DD>Central and Northern California Ocean Observing System 
   <DT>CF <DD>Climate and Forecast (CF)
+  <DT>CGS <DD> Council for Geosciences (South Africa)
   <DT>CKAN <DD> Comprehensive Knowledge Archive Network 
   <DT>CLIVAR <DD>Climate and Ocean: Variability, Predictability and Change (WCRP)
 
@@ -60,11 +65,14 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>COMT <DD>Coastal and Ocean Modeling Testbed
   <DT>COOL <DD>Coastal Ocean Observation Lab (Rutgers University)
   <DT>CoRTAD <DD>Coral Reef Temperature Anomaly Database (NODC/CoRTAD)
+  <DT>CSIR <DD> Council for Scientific and Industrial Research (South Africa)
   <DT>CSV <DD>Comma Separated Values (sometimes CSV/TSV)
   <DT>CSW <DD>Catalog Services for the Web. Service provided by <a href="#OGC">OGC</a>.
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
+  <DT>DAFF <DD> Department of Agriculture, Forestry and Fisheries (South Africa)
   <DT>DAS <DD>Dataset Attribute Structure (as file extension .das)
+  <DT>DEA <DD> Department of Environmental Affairs (South Africa)
   <DT>DMAC <DD>Data Management and Communications
   <DT>DOD<DD>Department of Defence (sometimes DoD).
   <DT>DODS <DD>Distributed Oceanographic Data Systems. <a href="http://dods.ndbc.noaa.gov/">DODS</a> is a framework for data providers to share data with each other and with end users.  
@@ -87,7 +95,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>GCOS <DD>Global Climate Observing System
   <DT>GEO <DD>Group on Earth Observations 
   <DT>GeoJSON <DD>GeoJSON is a JSON format for encoding a variety of geographic data structures.  <a href="http://geojson.org/geojson-spec.html">GeoJSON Specification</a>
-  <DT>GEOSECS <DD> Geochemical Ocean Section Study (GEOSECS) 
+  <DT>GEOSECS <DD> Geochemical Ocean Section Study 
   <DT>GIS <DD>Geographic Information System
   <DT>GCOOS <DD>Gulf of Mexico Coastal Ocean Observing System 
   <DT>GLOS <DD>Great Lakes Observing System 
@@ -110,7 +118,8 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
   <DT>ICG/IOTWS    <DD>Intergovernmental Coordinating Group of the Indian Ocean Tsunami Warning System 
-  <DT>ICSU <DD> International Council for Science
+  <DT>ICSU <DD> International Council for Science (originally International Council of Scientific Unions)
+  <DT>IEP <DD> Integrated Ecosystem Programme (monitoring programme of OCR)
   <DT><a name=#IIOE2></a>IIOE-2 <DD>2nd International Indian Ocean Expedition
   <DT>IMBER <DD>Integrated Marine Biogeochemistry and Ecosystem Research
   <DT>IMOS  <DD>Australian Integrated Marine Observing System
@@ -123,6 +132,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
   <DT>IOOS <DD>Integrated Ocean Observing System
   <DT>IORA <DD>Indian Ocean Rim Association
+  <DT>IPCC <DD> Intergovernmental Panel on Climate Change
   <DT>IPT <DD>Integrated Planning Team 
   <DT>IRIS <DD>Incorporated Research Institutions for Seismology
   <DT>Iris <DD><a href="http://scitools.org.uk/iris/">Iris</a> is a Python library for Meteorology and Climatology, a part of Scitools.
@@ -141,6 +151,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
 <DT><a name="M"></a><a href=#contents>M</a><DD>
   <DT>MARACOOS <DD>Mid-Atlantic Coastal Ocean Observing System 
   <DT>MMI <DD>Marine Metadata Interoperability.
+  <DT>MPA <DD> Marine Protected Area
 
 <DT><a name="N"></a><a href=#contents>N</a><DD>
   <DT>NANOOS <DD>Northwest Association of Networked Ocean Observing Systems 
@@ -159,8 +170,8 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>NEMO <DD> Nucleus for European Modelling of the Ocean
   <DT>NERACOOS <DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
   <DT>NESDIS <DD>National Environmental Satellite, Data, and Information Service
-  <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
-  <DT>netCDF4 <DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.  
+  <DT>NetCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
+  <DT>NetCDF4 <DD>Version 4 of netCDF. Introduced the use of HDF5 as a storage layer into netCDF3, which allows use of groups, user-defined types, multiple unlimited dimensions, compression, data chunking, parallel I/O, and other features.  
   <DT>NEXRAD <DD>Next Generation Weather Radar
   <DT>NGDAC <DD>National Glider Data Assembly Center
   <DT>NGDC <DD>National Geophysical Data Center (NOAA/NGDC) 
@@ -168,18 +179,24 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>NOAA <DD>National Oceanic and Atmospheric Administration
   <DT>NODC <DD>National Oceanographic Data Center
   <DT>NOSC <DD>NOAA Observing Systems Council
-  <DT>NRT <DD>Near Real Time
+  <DT>NRF <DD> National Research Foundation (South Africa)
+  <DT>NRT <DD>near-real time
+  <DT>NRF <DD> National Research Foundation (South Africa)
+  <DT>NSF <DD> National Science Foundation (USA)
   <DT>NWS <DD>National Weather Service
 
 <DT><a name="O"></a><a href=#contents>O</a><DD>
-  <DT>O&C <DD>Oceans and Coasts (branch of DEA)
+  <DT>O&C <DD>Oceans and Coasts (branch of South African DEA)
   <DT>O&M <DD>Operations and Maintenance
   <DT>OAR <DD>Office of Oceanic and Atmospheric Research (NOAA)
+  <DT>OCR <DD> Ocean and Coastal Research (chief directorate of O&C)
   <DT>ODV <DD><a href="http://odv.awi.de/en/home/">Ocean Data View</a>. A data visualization software. Also a spreadsheet style data format, used in the software.
   <DT><a name="OGC">OGC</a> <DD>Open Geospatial Consortium, Inc. (OGC)
   <DT>OOI <DD> <a href="http://oceanobservatories.org/">Ocean Observatories Initiative</a>
   <DT>OPeNDAP <DD>Open-source Project for a Network Data Access Protocol. OPeNDAP is both the name of a non-profit organization and the commonly-used name of a protocol which the <a href="http://www.opendap.org/about">OPeNDAP organization</a> has developed. 
+  <DT>OR <DD> Ocean Research (directorate of OCR)
   <DT>ORR <DD> <a href="http://mmisw.org">Ontology Registry and Repository</a> of MMI 
+  <DT>ORSL <DD> Ocean Remote Sensing Library
   <DT>OSC <DD> Observing Systems Committee (OSC), a subcommittee of the NOAA Observing Systems Council (NOSC)
   <DT>OWSLib <DD>Open Geospatial Consortium (OGC) Web Service Library,  a python package
 
@@ -275,34 +292,6 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
 
 <!--
 Copyright reserved. C.M. Duncombe Rae. 
-
-More: 
-GEOSECS, TTO/SAVE, WOCE / , and CLIVAR.  
-
-
-
-SANCOR's activities are made possible through financial contributions
-from the Department of Agriculture, Forestry and Fisheries (DAFF), the
-Department of Environmental Affairs (DEA) and the National Research
-Foundation (NRF).
-
- Southern African Foundation for the Conservation of Coastal Birds (SANCCOB)
- ACC - Antarctic Circumpolar Current
- BODC - British Oceanographic Data Centre
- CSIR - Council for Scientific and Industrial Research
- DAFF - Department of Agriculture, Forestry and Fisheries
- DEA - Department of Environmental Affairs
- ERDDAP - Environmental Research Division's Data Access Program
- ICSU - International Council for Science (originally International Council of Scientific Unions)
- IEP - Integrated Ecosystem Programme
- MPA - Marine Protected Area
- NetCDF - Network Common Data Form
- OCR - Ocean and Coastal Research (chief directorate of O&C)
- OR - Ocean Research (directorate of OCR)
- ORSL - Ocean Remote Sensing Library
-
-
-IPCC
 
 
 -->
