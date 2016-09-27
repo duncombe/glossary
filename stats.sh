@@ -19,7 +19,8 @@ numdefs=$(
 if true; then
 tmpfile=`mktemp`
 cat README.md > $tmpfile 
-cat $tmpfile | sed '/A glossary of[0-9 ]\+.*data management terms/s/\(A glossary of\)[0-9 ]\+\(\(environmental \)\?data management terms\)/\1 '$numdefs' \2/' > README.md 
+# cat $tmpfile | sed '/A glossary of[0-9 ]\+.*data management acronyms and terms/s/\(A glossary of\)[0-9 ]\+\(\(environmental \)\?data management terms\)/\1 '$numdefs' \2/' > README.md 
+cat $tmpfile | sed '/\[\](number of entries) [0-9 ]\+/s/\(\[\](number of entries)\)[0-9 ]\+/\1 '$numdefs'/' > README.md 
 rm $tmpfile
 fi
 
