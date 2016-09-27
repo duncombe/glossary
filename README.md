@@ -255,7 +255,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>UAF <DD>Unified Access Framework <p>
   University of Alaska, Fairbanks
   <DT>UCAR <DD>University Corporation for Atmospheric Research
-  <DT><a name="UDDC">UDDC</a> <DD>Unidata Data Discovery Convention? Former acronym for <a href="ACDD">#ACDD</a>. A metadata rubric service provided by the THREDDS server extension library. 
+  <DT><a name="UDDC">UDDC</a> <DD>Unidata Data Discovery Convention? Former acronym for <a href="#ACDD">ACDD</a>. A metadata rubric service provided by the THREDDS server extension library. 
   <DT>UNESCO <DD>United Nations Educational, Scientific and Cultural Organization
   <DT>URI <DD>uniform resource identifier (comprises a URL and/or a URN).
   <DT>URL <DD>uniform resource locator
