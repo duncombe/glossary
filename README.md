@@ -1,9 +1,7 @@
 glossary
 ========
 
-A glossary of [](Comment text goes here) 214 
-<!--- number of -->
-194
+A glossary of [](number of entries) 194
 environmental data management acronyms and terms.
 
 Ocean data management is a veritable alphabet soup of acronyms and terms that are
