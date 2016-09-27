@@ -155,7 +155,8 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT><a name="ncWMS"></a>ncWMS <DD>Web Map Service  for geospatial data that are stored in  CF-compliant  NetCDF files
   <DT>NDBC <DD>National Data Buoy Center
   <DT>NEMA <DD>(South African) National Environmental Management Act
-  <DT>NEMO <DD>(South African) National Environmental Management of the Ocean
+  <DT>NEMO <DD>(South African) National Environmental Management of the Ocean.  Policy whitepaper.
+  <DT>NEMO <DD> Nucleus for European Modelling of the Ocean
   <DT>NERACOOS <DD>Northeastern Regional Association of Coastal Ocean Observing Systems 
   <DT>NESDIS <DD>National Environmental Satellite, Data, and Information Service
   <DT>netCDF <DD><a href="http://www.unidata.ucar.edu/software/netcdf/">Network Common Data Form</a>
