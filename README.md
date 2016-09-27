@@ -13,7 +13,7 @@ includes a collection of acronyms from [IIOE-2](#IIOE2).
 
 There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/sea/swces/products/glossary.htm](http://www.ecy.wa.gov/programs/sea/swces/products/glossary.htm).
 
-(For instructions on how to compile a HTML webpage from this Markdown document, see [website-install.md])
+(For instructions on how to compile a HTML webpage from this Markdown document, see [website-install.md](website-install.md))
 
 <a name="contents"></a>
 ## [ A ](#A) [ B ](#B) [ C ](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
