@@ -106,7 +106,12 @@ git subtree push --prefix=public origin gh-pages
 
 &lt;h1 id=&#34;toc_0&#34;&gt;glossary&lt;/h1&gt;
 
-&lt;p&gt;A glossary of 194 environmental data management acronyms and terms.&lt;/p&gt;
+&lt;!---
+Ensure that the [](number of entries) comment and the number of entries remains at the end of line
+--&gt;
+
+&lt;p&gt;A glossary of [](number of entries) 211
+environmental data management acronyms and terms.&lt;/p&gt;
 
 &lt;p&gt;Ocean data management is a veritable alphabet soup of acronyms and terms that are
 like-yet-not-like normal language, in another word, jargon.  This is an attempt
@@ -127,7 +132,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
 &lt;p&gt;&lt;DL&gt;
 &lt;DT&gt;&lt;a name=&#34;A&#34;&gt;&lt;/a&gt;&lt;a href=#contents&gt;A&lt;/a&gt;&lt;DD&gt;
   &lt;DT&gt;ACC &lt;DD&gt; Antarctic Circumpolar Current
-  &lt;DT&gt;ACDD &lt;DD&gt;Attribute Convention for Dataset Discovery (was UDDC)
+  &lt;DT&gt;&lt;a name=&#34;ACDD&#34;&gt;ACDD&lt;/a&gt; &lt;DD&gt;Attribute Convention for Dataset Discovery (was &lt;a href=&#34;#UDDC&#34;&gt;UDDC&lt;/a&gt;)
   &lt;DT&gt;ACEP &lt;DD&gt;African Coelacanth Ecosystem Programme
   &lt;DT&gt;ACT &lt;DD&gt;Alliance for Coastal Technologies
   &lt;DT&gt;ADCP &lt;DD&gt;Acoustic Doppler Current Profiler
@@ -360,7 +365,7 @@ includes a collection of acronyms from &lt;a href=&#34;#IIOE2&#34;&gt;IIOE-2&lt;
   &lt;DT&gt;UAF &lt;DD&gt;Unified Access Framework &lt;p&gt;
   University of Alaska, Fairbanks
   &lt;DT&gt;UCAR &lt;DD&gt;University Corporation for Atmospheric Research
-  &lt;DT&gt;UDDC &lt;DD&gt;Unidata Data Discovery Convention? Former acronym for ACDD. A metadata rubric service provided by the THREDDS server extension library.
+  &lt;DT&gt;&lt;a name=&#34;UDDC&#34;&gt;UDDC&lt;/a&gt; &lt;DD&gt;Unidata Data Discovery Convention? Former acronym for &lt;a href=&#34;#ACDD&#34;&gt;ACDD&lt;/a&gt;. A metadata rubric service provided by the THREDDS server extension library.
   &lt;DT&gt;UNESCO &lt;DD&gt;United Nations Educational, Scientific and Cultural Organization
   &lt;DT&gt;URI &lt;DD&gt;uniform resource identifier (comprises a URL and/or a URN).
   &lt;DT&gt;URL &lt;DD&gt;uniform resource locator
