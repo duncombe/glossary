@@ -2,10 +2,13 @@ glossary
 ========
 
 A glossary of 
+
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
 [comment]: <> (a reference style link.)
-[comment]: <> (number of terms) 194
+[comment]: <> (number of terms)
+
+194
 environmental data management acronyms and terms.
 
 Ocean data management is a veritable alphabet soup of acronyms and terms that are
