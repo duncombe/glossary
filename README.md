@@ -61,6 +61,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>CGS <DD> Council for Geosciences (South Africa)
   <DT>CKAN <DD> Comprehensive Knowledge Archive Network 
   <DT>CLIVAR <DD>Climate and Ocean: Variability, Predictability and Change (WCRP)
+  <DT>COARDS <DD>Cooperative Ocean/Atmosphere Research Data Service
 
 <!-- <DT>CMAS <DD>World Confederation of Underwater Activities -->
 
