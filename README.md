@@ -61,6 +61,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>CGS <DD> Council for Geosciences (South Africa)
   <DT>CKAN <DD> Comprehensive Knowledge Archive Network 
   <DT>CLIVAR <DD>Climate and Ocean: Variability, Predictability and Change (WCRP)
+  <DT>COARDS <DD>Cooperative Ocean/Atmosphere Research Data Service
 
 <!-- <DT>CMAS <DD>World Confederation of Underwater Activities -->
 
@@ -153,6 +154,8 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
 
 <DT><a name="M"></a><a href=#contents>M</a><DD>
   <DT>MARACOOS <DD>Mid-Atlantic Coastal Ocean Observing System 
+  <DT>MLRA <DD> Marine Living Resources Act (South Africa)
+  <DT>MLRF <DD> Marine Living Resources Fund (South Africa)
   <DT>MMI <DD>Marine Metadata Interoperability.
   <DT>MPA <DD> Marine Protected Area
 
