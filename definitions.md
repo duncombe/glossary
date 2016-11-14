@@ -7,12 +7,14 @@ Definitions
 
 <DL>
 <DT><a name="A"></a><a href=#contents>A</a><DD> 
+  <DT>archive<DD> an organization that intends to preserve information for access and use by a Designated Community. (ISO-14721)
 
 <DT><a name="B"></a><a href=#contents>B</a><DD>
  
 <DT><a name="C"></a><a href=#contents>C</a><DD>
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
+  <DT>Designated Community <DD>An identified group of potential Consumers who should be able to understand a particular set of information. The Designated Community may be composed of multiple user communities. A Designated Community is defined by the Archive and this definition may change over time.
 
 <DT><a name="E"></a><a href=#contents>E</a><DD>
 
@@ -23,6 +25,7 @@ Definitions
 <DT><a name="H"></a><a href=#contents>H</a><DD>
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
+  <DT>interoperability <DD> capability to communicate, execute programs, or transfer data among various functional units in a manner that requires the user to have little or no knowledge of the unique characteristics of those units (ISO-19119) 
 
 <DT><a name="J"></a><a href=#contents>J</a><DD>
 
@@ -61,3 +64,5 @@ Definitions
 
 </DL>
 
+<!-- vi: se nowrap tw=0 : 
+-->
