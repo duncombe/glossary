@@ -14,7 +14,7 @@ Definitions
 <DT><a name="C"></a><a href=#contents>C</a><DD>
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
-  <DT>Designated Community <DD>An identified group of potential Consumers who should be able to understand a particular set of information. The Designated Community may be composed of multiple user communities. A Designated Community is defined by the Archive and this definition may change over time.
+  <DT>Designated Community <DD>An identified group of potential Consumers who should be able to understand a particular set of information. The Designated Community may be composed of multiple user communities. A Designated Community is defined by the Archive and this definition may change over time. (ISO-14721)
 
 <DT><a name="E"></a><a href=#contents>E</a><DD>
 
