@@ -71,8 +71,12 @@ Definitions
 
 <DT><a name="Z"></a><a href=#contents>Z</a><DD>
 
-
 </DL>
+
+### References
+
+Steneck NH. Introduction to the responsible conduct of research [Office of Research Integrity Web page]. 2004. 
+Available at: http://ori.dhhs.gov/documents/rcrintro.pdf. Accessed August 1, 2005. 
 
 <!-- vi: se nowrap tw=0 : 
 -->
