@@ -23,7 +23,7 @@ Definitions
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
 
-  <DT>Dissemination Information Package (DIP)<DD> An Information Package, derived from one or more AIPs, and sent by Archives to the Consumer in response to a request to the OAIS.  
+  <DT>Dissemination Information Package (DIP)<DD> An Information Package, derived from one or more AIPs, and sent by Archives to the Consumer in response to a request to the OAIS.  (ISO-14721)
   <DT>Designated Community <DD>An identified group of potential Consumers who should be able to understand a particular set of information. The Designated Community may be composed of multiple user communities. A Designated Community is defined by the Archive and this definition may change over time. (ISO-14721)
 
 <DT><a name="E"></a><a href=#contents>E</a><DD>
