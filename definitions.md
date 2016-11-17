@@ -8,8 +8,14 @@ Definitions
 <DL>
 <DT><a name="A"></a><a href=#contents>A</a><DD> 
   <DT> Analysis <DD> This pertains to how raw data are chosen, evaluated, and interpreted into meaningful and significant conclusions that other researchers and the public can understand and use.(Steneck, 2004) 
-  <DT>Archive<DD> an organization that intends to preserve information for access and use by a Designated Community. (ISO-14721)
-
+  <DT>Appraisal <DD>The  process  of  evaluating  records  to   determine   which   are   to   be   retained   as   archives,  which  are  to  be  kept  for  specified  periods  and  which  are  to  be  destroyed  (Ellis,  1993, p.461). 
+  <DT>Archive<DD> An organization that intends to preserve information for access and use by a Designated Community. (ISO-14721)
+  <DT>Authenticity <DD>Quality   of   genuineness   and   trustworthiness  of  some  digital  materials,  as  being  what  they  purport  to  be,  either  as  an  original object or as a reliable copy derived by fully  documented  processes  from  an  original (UNESCO 2003). 
+  <DT>AIP  Edition<DD>  An  AIP  whose  Content  Information  or Preservation  Description  Information  has been upgraded or improved with the intent not to preserve information, but to increase or improve it. An AIP edition is not considered to be the result of a Migration.  (ISO-14721)
+  <DT>AIP Version<DD> An AIP whose Content Information or Preservation Description Information has  undergone  a  Transformation  on  a  source  AIP  and  is  a  candidate  to  replace  the  source  AIP. An AIP version is considered to be the result of a Digital Migration.   (ISO-14721)
+  <DT>Archival Information Collection (AIC)<DD> An Archival Information Package whose Content Information is an aggregation of other Archival Information Packages.  (ISO-14721)
+  <DT>Archival Information Package (AIP)<DD>   An Information Package, consisting of the Content Information   and   the   associated Preservation   Description   Information   (PDI),   which   is preserved within an OAIS. (ISO-14721)
+  <DT>Archival  Information  Unit  (AIU)<DD> An  Archival  Information  Package  where  the  Archive  chooses  not  to  break  down  the  Content  Information  into  other  Archival  Information  Packages.  An AIU can consist of multiple digital objects (e.g., multiple files). (ISO-14721)
 <DT><a name="B"></a><a href=#contents>B</a><DD>
  
 <DT><a name="C"></a><a href=#contents>C</a><DD>
@@ -17,8 +23,8 @@ Definitions
   
 <DT><a name="D"></a><a href=#contents>D</a><DD>
 
-
-<DT>Designated Community <DD>An identified group of potential Consumers who should be able to understand a particular set of information. The Designated Community may be composed of multiple user communities. A Designated Community is defined by the Archive and this definition may change over time. (ISO-14721)
+  <DT>Dissemination Information Package (DIP)<DD> An Information Package, derived from one or more AIPs, and sent by Archives to the Consumer in response to a request to the OAIS.  
+  <DT>Designated Community <DD>An identified group of potential Consumers who should be able to understand a particular set of information. The Designated Community may be composed of multiple user communities. A Designated Community is defined by the Archive and this definition may change over time. (ISO-14721)
 
 <DT><a name="E"></a><a href=#contents>E</a><DD>
 
@@ -29,7 +35,7 @@ Definitions
 <DT><a name="H"></a><a href=#contents>H</a><DD>
 
 <DT><a name="I"></a><a href=#contents>I</a><DD>
-  <DT>Interoperability <DD> capability to communicate, execute programs, or transfer data among various functional units in a manner that requires the user to have little or no knowledge of the unique characteristics of those units (ISO-19119) 
+  <DT>Interoperability <DD> Capability to communicate, execute programs, or transfer data among various functional units in a manner that requires the user to have little or no knowledge of the unique characteristics of those units (ISO-19119) 
 
 <DT><a name="J"></a><a href=#contents>J</a><DD>
 
@@ -56,6 +62,7 @@ Definitions
 <DT><a name="S"></a><a href=#contents>S</a><DD>
   <DT> Sharing <DD> This concerns how project data and research results are disseminated to other researchers and the general public, and when data should not be shared. (Steneck, 2004)
   <DT> Storage <DD> This concerns the amount of data that should be stored -- enough so that project results can be reconstructed.(Steneck, 2004) 
+  <DT>Submission Information Package (SIP)<DD> An Information Package that is delivered by the Producer  to  the  OAIS  for  use  in  the  construction  or  update  of  one  or  more  AIPs  and/or  the  associated Descriptive Information. (ISO-14721)
 
 <DT><a name="T"></a><a href=#contents>T</a><DD>
 
@@ -78,5 +85,51 @@ Definitions
 Steneck NH. Introduction to the responsible conduct of research [Office of Research Integrity Web page]. 2004. 
 Available at: http://ori.dhhs.gov/documents/rcrintro.pdf. Accessed August 1, 2005. 
 
+
+<!--  From Ross harvey appraisal and selection
+Essential       elements:
+       ‘The       elements,       
+       characteristics and attrib
+       utes of a given digital 
+       object  that  must  be  preserved  in  order  to  re-
+       present its essential meaning or purpose. Also 
+       called 
+       significant     properties
+            by     some     
+            researchers’ (UNESCO 2003). 
+            Metadata
+            :     ‘structured     information     that     
+            describes,   explains,   locates,   or   otherwise   
+            makes  it  easier  to  retrieve
+            ,  use,  or  manage  an  
+            information resource’ (NISO, 2004, p.1). 
+            Preservation  metadata:
+              ‘Metadata  intended  
+              to support preservation management of digital 
+              materials,   by   documenting   their   identity,   
+              technical   characteristic
+              s,   means   of   access,      
+              responsibility,   history,   
+              context,   history   and   
+              preservation objectiv
+              es’ (UNESCO 2003). 
+              Records
+              :      in   the   recordkeeping   context,   
+              records are evidence of transactions. 
+              Risk  management:
+                ‘Process  of  identifying  
+                and assessing risks presented by threats, and if 
+                appropriate,  taking  steps  to  bring  the  level  of  
+                risk  down  to  an  accep
+                table  level’  (UNESCO  
+                2003). 
+                Selection
+                : the process of deciding what items or 
+                resources will be added to
+                 a library’s collection. 
+-->
+
+
 <!-- vi: se nowrap tw=0 : 
 -->
+
