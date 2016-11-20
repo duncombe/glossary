@@ -1,6 +1,9 @@
 Definitions
 ===========
 
+These definitions are related to data and information management. There are other resources: 
+([Consortia Advancing Standards in Research Administration Information](http://casrai.org/) (CASRAI) has two glossaries [Research Admin Domain](http://dictionary.casrai.org/Category:Research_Admin_Domain), [Research Data Domain](http://dictionary.casrai.org/Category:Research_Data_Domain))  related to the topic that may be useful. My own interests are reflected below. 
+
 <a name="contents"></a>
 ## [ A ](#A) [ B ](#B) [ C ](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z) 
 
