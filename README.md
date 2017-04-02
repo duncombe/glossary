@@ -133,6 +133,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>IOC <DD>Intergovernmental Oceanographic Commission of UNESCO
   <DT>IOCCP <DD>International Ocean Carbon Coordination 
   <DT>IOCI3   <DD>Indian Ocean Climate Initiative Stage 3
+  <DT>IODE <DD>International Oceanographic Data and Information Exchange
   <DT>IOGOOS    <DD>Indian Ocean Global Ocean Observing System 
   <DT>IOOS <DD>Integrated Ocean Observing System
   <DT>IORA <DD>Indian Ocean Rim Association
@@ -230,6 +231,7 @@ There is a glossary of coastal terminology at [http://www.ecy.wa.gov/programs/se
   <DT>SANCCOB  <DD>Southern African Foundation for the Conservation of Coastal Birds 
   <DT>SANCOR <DD>South African Network for Coastal and Oceanic Research 
   <DT>SANReN <DD>South African National Research Network
+  <DT>SAWS <DD>South African Weather Service
   <DT>SAVE <DD>South Atlantic Ventilation Experiment
   <DT>Scitools <DD><a href="http://scitools.org.uk">Scitools</a> comprises Iris and Cartopy, open source Python libraries initially created by the UK Met Office to enable the visualisation of weather and climate data. 
   <DT>SCCOOS <DD>Southern California Regional Coastal Ocean Observing System 
